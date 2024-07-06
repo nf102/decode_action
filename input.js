@@ -1,6 +1,2164 @@
-/*
-小程序：牙博士口腔微商城
-变量:ybshd多号&或换行
-抓包https://mall.0512kq.cn data内的token
-*/
-var _0xodv='jsjiami.com.v7';const _0xfcb5b0=_0xda81;(function(_0x5e0f45,_0x5c3fd5,_0x160652,_0x5bdf85,_0xdf4d,_0x3e7254,_0x179b3e){return _0x5e0f45=_0x5e0f45>>0x7,_0x3e7254='hs',_0x179b3e='hs',function(_0x46a2e5,_0x1e62be,_0x29797d,_0x4226f1,_0x43899b){const _0x523d43=_0xda81;_0x4226f1='tfi',_0x3e7254=_0x4226f1+_0x3e7254,_0x43899b='up',_0x179b3e+=_0x43899b,_0x3e7254=_0x29797d(_0x3e7254),_0x179b3e=_0x29797d(_0x179b3e),_0x29797d=0x0;const _0x451c2b=_0x46a2e5();while(!![]&&--_0x5bdf85+_0x1e62be){try{_0x4226f1=parseInt(_0x523d43(0x1e6,'pIAz'))/0x1+-parseInt(_0x523d43(0x538,'d)Sd'))/0x2*(parseInt(_0x523d43(0x2b8,'t04B'))/0x3)+parseInt(_0x523d43(0x1ec,'hs5z'))/0x4+-parseInt(_0x523d43(0x3b4,'CRr2'))/0x5+-parseInt(_0x523d43(0x1d6,'7]lZ'))/0x6*(parseInt(_0x523d43(0x422,'(dEz'))/0x7)+-parseInt(_0x523d43(0x3fd,'KNyD'))/0x8*(parseInt(_0x523d43(0x23a,'RJt#'))/0x9)+parseInt(_0x523d43(0x466,'utaD'))/0xa;}catch(_0xfa87b8){_0x4226f1=_0x29797d;}finally{_0x43899b=_0x451c2b[_0x3e7254]();if(_0x5e0f45<=_0x5bdf85)_0x29797d?_0xdf4d?_0x4226f1=_0x43899b:_0xdf4d=_0x43899b:_0x29797d=_0x43899b;else{if(_0x29797d==_0xdf4d['replace'](/[JkqYugnxDHEIOXFprAQ=]/g,'')){if(_0x4226f1===_0x1e62be){_0x451c2b['un'+_0x3e7254](_0x43899b);break;}_0x451c2b[_0x179b3e](_0x43899b);}}}}}(_0x160652,_0x5c3fd5,function(_0xd09ad8,_0x3a4eb7,_0x98511b,_0x24d8ae,_0x12d76d,_0x1733fd,_0x103eff){return _0x3a4eb7='\x73\x70\x6c\x69\x74',_0xd09ad8=arguments[0x0],_0xd09ad8=_0xd09ad8[_0x3a4eb7](''),_0x98511b='\x72\x65\x76\x65\x72\x73\x65',_0xd09ad8=_0xd09ad8[_0x98511b]('\x76'),_0x24d8ae='\x6a\x6f\x69\x6e',(0x175294,_0xd09ad8[_0x24d8ae](''));});}(0x6180,0xb6eae,_0x190a,0xc5),_0x190a)&&(_0xodv=`\xabc`);const $=new Env(_0xfcb5b0(0x29e,'aOTO')),axios=require(_0xfcb5b0(0x213,'KNyD'));let request=require(_0xfcb5b0(0x55c,'jeiZ'));const crypto=require('crypto');request=request[_0xfcb5b0(0x1e1,'aOTO')]({'jar':!![]});const {log}=console,Notify=0x1,debug=0x0;let ybshd=($['isNode']()?process[_0xfcb5b0(0x28d,'t04B')][_0xfcb5b0(0x3c7,'1VtW')]:$[_0xfcb5b0(0x560,'5]d!')](_0xfcb5b0(0x278,'R1Xr')))||'',ybshdArr=[],data='',msg='',a={};var hours=new Date()[_0xfcb5b0(0x323,'LnMN')](),timestamp=Math[_0xfcb5b0(0x1ea,'W!([')](new Date()['getTime']())[_0xfcb5b0(0x2fc,'X@N)')]();!(async()=>{const _0x9e81e4=_0xfcb5b0,_0x55136d={'rolUa':function(_0x252fef,_0x3817d5){return _0x252fef+_0x3817d5;},'ISCAy':function(_0x4e3bff,_0x42bbd9){return _0x4e3bff/_0x42bbd9;},'JlyCB':function(_0x2fa375,_0x30d0eb){return _0x2fa375+_0x30d0eb;},'PVvGZ':function(_0xb3bc5b,_0x2eed71){return _0xb3bc5b+_0x2eed71;},'aKUBd':function(_0xa4d733,_0x421869){return _0xa4d733-_0x421869;},'JXdqE':function(_0x115469,_0x5dc361){return _0x115469==_0x5dc361;},'wUSyU':function(_0x3062d9,_0x4f1aba,_0x318caa,_0x55ec2b){return _0x3062d9(_0x4f1aba,_0x318caa,_0x55ec2b);},'wJxIh':function(_0x323a53,_0xb4b384){return _0x323a53!==_0xb4b384;},'kkSpa':_0x9e81e4(0x50d,'(dEz'),'IYhTB':function(_0x34f530){return _0x34f530();},'bDaWm':_0x9e81e4(0x287,'hs5z'),'OciEJ':function(_0x3e7b2d,_0x4bcbc){return _0x3e7b2d*_0x4bcbc;},'ntHrm':function(_0x196b51,_0x3d796f){return _0x196b51*_0x3d796f;},'bjkvk':function(_0x444644,_0x1e39b7){return _0x444644(_0x1e39b7);},'sOoML':function(_0x2d7b68,_0x250006){return _0x2d7b68<_0x250006;},'ogYQd':'wuueI','MUMVx':function(_0x4e873b,_0x1c23d1,_0x5dee2a){return _0x4e873b(_0x1c23d1,_0x5dee2a);}};if(_0x55136d['wJxIh'](typeof $request,_0x55136d[_0x9e81e4(0x49b,'yV8!')]))await _0x55136d[_0x9e81e4(0x2d9,'yV8!')](GetRewrite);else{if(!await Envs())return;else{if(_0x55136d[_0x9e81e4(0x459,'5rKg')]!==_0x9e81e4(0x262,'^a!B')){const _0x3e0e3b=_0x463dcf?new _0x84e040(_0x4f49d0):new _0x338868();let _0x33fb37={'M+':_0x55136d[_0x9e81e4(0x261,'^a!B')](_0x3e0e3b[_0x9e81e4(0x1b3,'MG]*')](),0x1),'d+':_0x3e0e3b[_0x9e81e4(0x223,'MG]*')](),'H+':_0x3e0e3b['getHours'](),'m+':_0x3e0e3b[_0x9e81e4(0x530,'1Q4z')](),'s+':_0x3e0e3b[_0x9e81e4(0x2ff,'va$Q')](),'q+':_0x1e2661['floor'](_0x55136d[_0x9e81e4(0x44f,'g%TA')](_0x55136d[_0x9e81e4(0x45f,'HTYv')](_0x3e0e3b[_0x9e81e4(0x199,'%y&N')](),0x3),0x3)),'S':_0x3e0e3b['getMilliseconds']()};/(y+)/['test'](_0x2856fc)&&(_0x1c8436=_0x207b63[_0x9e81e4(0x39c,'S)sn')](_0x1c8c4e['$1'],_0x55136d[_0x9e81e4(0x238,'va$Q')](_0x3e0e3b[_0x9e81e4(0x573,'aOTO')](),'')[_0x9e81e4(0x268,'cxhZ')](_0x55136d[_0x9e81e4(0x274,'pIAz')](0x4,_0x3b703f['$1'][_0x9e81e4(0x44b,'pIAz')]))));for(let _0x393ef3 in _0x33fb37)new _0x151ac2('('+_0x393ef3+')')[_0x9e81e4(0x439,'W!([')](_0x3db2b0)&&(_0x5557ce=_0x13bdba[_0x9e81e4(0x350,'(E*w')](_0x3283f0['$1'],_0x55136d['JXdqE'](0x1,_0x321b9f['$1'][_0x9e81e4(0x3eb,'R1Xr')])?_0x33fb37[_0x393ef3]:_0x55136d[_0x9e81e4(0x547,'wJHf')]('00',_0x33fb37[_0x393ef3])[_0x9e81e4(0x1a4,'2oEZ')]((''+_0x33fb37[_0x393ef3])[_0x9e81e4(0x368,'rsk2')])));return _0x4a02e1;}else{log(_0x9e81e4(0x2da,'d)Sd')+new Date(_0x55136d[_0x9e81e4(0x1f5,'1Q4z')](_0x55136d[_0x9e81e4(0x4ab,'g%TA')](new Date()[_0x9e81e4(0x244,'N$hN')](),_0x55136d[_0x9e81e4(0x321,'alvl')](new Date()[_0x9e81e4(0x3a7,'KNyD')]()*0x3c,0x3e8)),_0x55136d[_0x9e81e4(0x4ce,'%y&N')](_0x55136d['ntHrm'](0x8,0x3c),0x3c)*0x3e8))[_0x9e81e4(0x4c7,'N$hN')]()+_0x9e81e4(0x1c3,'utaD')),log(_0x9e81e4(0x562,'pIAz')+ybshdArr['length']+_0x9e81e4(0x3b8,'(V3c'));debug&&_0x55136d['bjkvk'](log,_0x9e81e4(0x320,'resf')+ybshdArr);for(let _0xf864f1=0x0;_0x55136d['sOoML'](_0xf864f1,ybshdArr['length']);_0xf864f1++){if(_0x55136d[_0x9e81e4(0x347,'8aYL')]('wuueI',_0x55136d[_0x9e81e4(0x2f5,'resf')])){const {statusCode:_0xb9b856,statusCode:_0x5bd934,headers:_0x1effcd,body:_0x37f045}=_0x2091ab;_0x55136d['wUSyU'](_0x4f6a74,null,{'status':_0xb9b856,'statusCode':_0x5bd934,'headers':_0x1effcd,'body':_0x37f045},_0x37f045);}else{let _0x372177=_0xf864f1+0x1;_0x55136d['MUMVx'](addNotifyStr,'\x0a====\x20开始【第\x20'+_0x372177+_0x9e81e4(0x206,'aOTO'),!![]),ybshd=ybshdArr[_0xf864f1],await checkin(),await _0x55136d['IYhTB'](checkin2),await checkin4(),await _0x55136d[_0x9e81e4(0x231,'g%TA')](checkin3);}}}}}})()[_0xfcb5b0(0x2d8,'dY%D')](_0x15f3ac=>log(_0x15f3ac))[_0xfcb5b0(0x41e,'CRr2')](()=>$[_0xfcb5b0(0x324,'wJHf')]());async function checkin(){const _0x227bb8=_0xfcb5b0,_0x410be8={'jNUfV':function(_0x198bf3,_0x425346){return _0x198bf3(_0x425346);},'KnMuI':function(_0x414dfc,_0x5f38d3){return _0x414dfc===_0x5f38d3;},'UHuBl':_0x227bb8(0x2a7,'&2TI'),'exeAm':_0x227bb8(0x549,'7VyP'),'nrTJE':_0x227bb8(0x335,'d)Sd'),'XnPJe':_0x227bb8(0x43e,'va$Q'),'VWBYF':_0x227bb8(0x433,'N$hN'),'wZcaI':_0x227bb8(0x3d1,'%y&N'),'ddXPc':function(_0x4e3ac4,_0xd70fea){return _0x4e3ac4(_0xd70fea);},'rFvcu':function(_0x139c1f,_0x2aa2b1){return _0x139c1f(_0x2aa2b1);},'geIaJ':function(_0x57a8d3,_0x5ebf6c){return _0x57a8d3(_0x5ebf6c);},'YwxVe':function(_0x308cce,_0x44ddbd){return _0x308cce+_0x44ddbd;},'PTIcW':_0x227bb8(0x52c,'1Q4z'),'YQHcg':function(_0xb970bf,_0x3f569a){return _0xb970bf===_0x3f569a;},'EwqQe':_0x227bb8(0x345,'cxhZ'),'HYjxX':function(_0x4cecff,_0x4bbe58){return _0x4cecff(_0x4bbe58);},'uzsEq':function(_0x26a884,_0x2aa287){return _0x26a884==_0x2aa287;},'Nffoq':function(_0x31b738,_0xe8ebb5){return _0x31b738===_0xe8ebb5;},'dHIeF':_0x227bb8(0x4c8,'rsk2'),'fPdnC':_0x227bb8(0x3ea,'hs5z'),'hdjhG':_0x227bb8(0x2b6,'LH%%'),'SMHum':_0x227bb8(0x215,'g%TA'),'AqRMT':_0x227bb8(0x377,'(V3c'),'sSbvy':'Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20Win64;\x20x64)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/116.0.0.0\x20Safari/537.36\x20MicroMessenger/7.0.20.1781(0x6700143B)\x20NetType/WIFI\x20MiniProgramEnv/Windows\x20WindowsWechat/WMPF\x20WindowsWechat(0x63090819)XWEB/9185','jHGxb':'wpgGx','hVCRR':function(_0x445806,_0x17c376){return _0x445806(_0x17c376);},'JaeIB':_0x227bb8(0x25a,'va$Q'),'XMufo':function(_0x7c67de,_0x3ac151){return _0x7c67de+_0x3ac151;},'MURyZ':function(_0x59600b,_0x165419){return _0x59600b(_0x165419);},'ydJty':function(_0x3f80af,_0x289007){return _0x3f80af(_0x289007);},'pEUeS':_0x227bb8(0x31a,'%y&N')},_0x5e6af0=new Date()['getTime']();let _0x47b502=Object[_0x227bb8(0x1e8,'l^Rx')](filterEmpty(a),{'task_id':0x1,'integralactivity_id':0x6,'code_type':0x1,'ad':0x21,'activity_code':0x1,'wxapp_id':0x2714,'token':ybshd,'timestamp':_0x5e6af0,'secret':_0x410be8['JaeIB']}),_0x228093=_0x410be8[_0x227bb8(0x489,'jeiZ')](_0x410be8['MURyZ'](urlEncode,_0x410be8['ydJty'](ksort,_0x47b502)),'36c8edde3d61c0411511d3b1866f0680');return _0x47b502['sign']=crypto['createHash'](_0x227bb8(0x1a9,'KNyD'))[_0x227bb8(0x4dd,'5t2A')](_0x410be8['MURyZ'](encodeURIComponent,_0x228093))[_0x227bb8(0x4cd,'utaD')](_0x410be8[_0x227bb8(0x460,'dY%D')])[_0x227bb8(0x45c,'l^Rx')](),new Promise(_0x5a9287=>{const _0x56988f=_0x227bb8,_0x27d2a9={'BrpzG':function(_0x9ff0db,_0x57d21c){return _0x9ff0db(_0x57d21c);},'DKyqI':function(_0x36e95a,_0x55b75f){return _0x410be8['uzsEq'](_0x36e95a,_0x55b75f);},'eZEqe':function(_0x9a2cf0,_0x4aab4f){const _0x50f74c=_0xda81;return _0x410be8[_0x50f74c(0x357,'LH%%')](_0x9a2cf0,_0x4aab4f);},'HraWC':_0x410be8[_0x56988f(0x442,'l^Rx')],'tKSTE':'uSTHK','KhlxP':_0x410be8['fPdnC']};var _0x575110={'method':_0x410be8[_0x56988f(0x283,'alvl')],'url':_0x410be8[_0x56988f(0x4be,'jeiZ')],'headers':{'Content-Type':_0x410be8[_0x56988f(0x37b,'7]lZ')],'xweb_xhr':'1','User-Agent':_0x410be8[_0x56988f(0x392,'X@N)')]},'data':_0x47b502};if(debug){if(_0x410be8['KnMuI'](_0x410be8[_0x56988f(0x1d4,'7]lZ')],_0x410be8[_0x56988f(0x2f1,'wJHf')]))_0x410be8['hVCRR'](log,_0x56988f(0x572,'g%TA')),_0x410be8[_0x56988f(0x365,'LH%%')](log,JSON['stringify'](_0x575110));else{let _0x429f67=this['getval'](_0x460fbd);if(/^@/[_0x56988f(0x316,'1VtW')](_0x158b92)){const [,_0x23935d,_0x4acb21]=/^@(.*?)\.(.*?)$/['exec'](_0xcad10),_0x17c3df=_0x23935d?this[_0x56988f(0x42f,'5t2A')](_0x23935d):'';if(_0x17c3df)try{const _0x4d30fd=_0x2ebd46['parse'](_0x17c3df);_0x429f67=_0x4d30fd?this[_0x56988f(0x417,'5rKg')](_0x4d30fd,_0x4acb21,''):_0x429f67;}catch(_0x5362df){_0x429f67='';}}return _0x429f67;}}axios[_0x56988f(0x248,'hs5z')](_0x575110)[_0x56988f(0x291,'R1Xr')](async function(_0x3fb91f){const _0x4c5b0c=_0x56988f,_0x2113ba={'xtWgF':function(_0x6940f,_0x4f011c){const _0x24a870=_0xda81;return _0x410be8[_0x24a870(0x32e,'cxhZ')](_0x6940f,_0x4f011c);},'EyAhF':'path'};if(_0x410be8[_0x4c5b0c(0x1ee,'(dEz')](_0x410be8[_0x4c5b0c(0x3c4,'jeiZ')],_0x410be8[_0x4c5b0c(0x48c,'MG]*')])){if(this[_0x4c5b0c(0x1ef,'5]d!')]()){this['fs']=this['fs']?this['fs']:_0x2113ba['xtWgF'](_0x83aeaa,'fs'),this['path']=this[_0x4c5b0c(0x391,'S)sn')]?this[_0x4c5b0c(0x237,'pIAz')]:_0x2113ba[_0x4c5b0c(0x3a1,'(V3c')](_0x4e05bd,_0x2113ba['EyAhF']);const _0x538984=this[_0x4c5b0c(0x2df,'MG]*')][_0x4c5b0c(0x2ef,'TX2W')](this[_0x4c5b0c(0x257,'d)Sd')]),_0x42b24b=this[_0x4c5b0c(0x2cc,'8aYL')]['resolve'](_0x1cbeb8[_0x4c5b0c(0x4ed,'1Q4z')](),this[_0x4c5b0c(0x38a,'ekrS')]),_0x5759ca=this['fs']['existsSync'](_0x538984),_0x1b3932=!_0x5759ca&&this['fs'][_0x4c5b0c(0x2c1,'X@N)')](_0x42b24b),_0x3addee=_0x139a84['stringify'](this[_0x4c5b0c(0x3c1,'D(]3')]);_0x5759ca?this['fs'][_0x4c5b0c(0x393,'7]lZ')](_0x538984,_0x3addee):_0x1b3932?this['fs']['writeFileSync'](_0x42b24b,_0x3addee):this['fs'][_0x4c5b0c(0x393,'7]lZ')](_0x538984,_0x3addee);}}else try{if(_0x410be8[_0x4c5b0c(0x2b0,'aOTO')](_0x410be8[_0x4c5b0c(0x3d2,'rsk2')],_0x410be8['XnPJe']))return this[_0x4c5b0c(0x3d8,'^a!B')][_0x4c5b0c(0x4c9,'%y&N')](this[_0x4c5b0c(0x52e,'R1Xr')],_0x5828ba,'POST');else{data=_0x3fb91f[_0x4c5b0c(0x1cd,'FUYF')];if(debug){if(_0x410be8[_0x4c5b0c(0x48d,'2oEZ')](_0x410be8[_0x4c5b0c(0x4ea,'7VyP')],_0x410be8['wZcaI']))return _0x5e73e7[_0x4c5b0c(0x4df,'pIAz')](this['fs'][_0x4c5b0c(0x4b4,'X@N)')](_0x41dc67));else _0x410be8[_0x4c5b0c(0x30e,'1VtW')](log,_0x4c5b0c(0x4f2,'W!([')),_0x410be8[_0x4c5b0c(0x4fe,'5rKg')](log,JSON['stringify'](_0x3fb91f[_0x4c5b0c(0x33d,'(dEz')]));}_0x410be8[_0x4c5b0c(0x46f,'1VtW')](log,_0x410be8[_0x4c5b0c(0x3da,'(E*w')](_0x410be8['PTIcW'],data[_0x4c5b0c(0x469,'RJt#')]));}}catch(_0x5ef3c8){if(_0x410be8['YQHcg'](_0x410be8[_0x4c5b0c(0x28c,'8aYL')],_0x410be8[_0x4c5b0c(0x3be,'HTYv')]))_0x410be8['HYjxX'](log,_0x4c5b0c(0x51a,'KNyD')+data+_0x4c5b0c(0x1d3,'FUYF')+data[_0x4c5b0c(0x26b,'RJt#')]);else{const _0x7bc6b5={'FqZuW':function(_0x2c2b39,_0x71f3ff){const _0x3070a8=_0x4c5b0c;return _0x27d2a9[_0x3070a8(0x552,'d)Sd')](_0x2c2b39,_0x71f3ff);}};_0x4f6aba=_0x27d2a9[_0x4c5b0c(0x24f,'jeiZ')]('string',typeof _0x3fe14d)?{'url':_0x5407f9}:_0x2e5978;let _0x451476=this['get'];return _0x27d2a9['eZEqe'](_0x27d2a9['HraWC'],_0x233500)&&(_0x451476=this[_0x4c5b0c(0x4d5,'dY%D')]),new _0x35130d((_0x5c0b68,_0x51df4e)=>{const _0x2b2082=_0x4c5b0c,_0x4506eb={'iogwl':function(_0x4ec23e,_0x23bdeb){const _0x2f5613=_0xda81;return _0x7bc6b5[_0x2f5613(0x364,'alvl')](_0x4ec23e,_0x23bdeb);},'eTxPC':function(_0x54759a,_0x258c22){const _0x388366=_0xda81;return _0x7bc6b5[_0x388366(0x396,'rsk2')](_0x54759a,_0x258c22);}};_0x451476[_0x2b2082(0x326,'HTYv')](this,_0x2d3afb,(_0x335561,_0x2658e1,_0x3440fa)=>{const _0x10b6dd=_0x2b2082;_0x335561?_0x4506eb[_0x10b6dd(0x25e,'MG]*')](_0x51df4e,_0x335561):_0x4506eb['eTxPC'](_0x5c0b68,_0x2658e1);});});}}})['catch'](function(_0x4c1c14){const _0x1f100e=_0x56988f;console[_0x1f100e(0x3a6,'pIAz')](_0x4c1c14);})[_0x56988f(0x46b,'hs5z')](_0x2631da=>{const _0x20d41c=_0x56988f,_0x45693c={'bFYKn':function(_0xbbc871){return _0xbbc871();}};_0x27d2a9['eZEqe'](_0x27d2a9['tKSTE'],_0x27d2a9[_0x20d41c(0x35d,'hs5z')])?_0x45693c[_0x20d41c(0x4ca,'6ahG')](_0x19fa8c):_0x5a9287();});});}function _0x190a(){const _0x5d6916=(function(){return[_0xodv,'QjppskjuOrigJaYmFi.FcEDoqkOm.IAvXI7uHDnx==','WPW0a8oqEa','oSoWnSokWQ4','DHHsoCo1','dCoPmmo2','fftdTG4','WQpcL1VcMhe','cCkVx0q','W49LW50P','WO5SW6FdLG','WQK7k8oeyG','WR3dK8ocbgddGSox','bXdcPdCRxbK','WQWfWO0wWP8','W6fUkW','WRHirYj7','euxdPGFdTYa','W6j8wbisWOi','brtcPZeR','W7rKpCkF','WQJdG8kzfmk+','EGz3jCocWOGyj2/dUei','WONdVZXWca3dTW','dSo2imoKWPLrumkHW7xcGW','W4FcSZOh','WQzCW51l','WOlcNMhcU2viW5HfpSkx','WRzSWRCN','W67dPSk3ka','WPJdOCo0ouC','xH5MpSox','WRj2WPC7W57dMCkSWQC','WOSzW5W','dNldNSkAfW','WQ7dNbDTlG','WPtdRSocm1q','qtRcRCo1WPO','umo144cqWRZcHCotfqBJGk/dSeupW6/dMa17oCkUa3upWOVcNXBOVQdMMB4Q6l+z5zMTW5jhmSkZlCoOWPHJdIHZW59QW6NdGMqlW4K','WPezW7tdICkg','cuBdPq','pSkEDmk5','z2ddH8kFma','WQ0kW7BdSmkP','a0hdPCkVbq','a8krWRFdTJO','pCkEWPjeW63dTa','WPWhWQGTWRddGWVcOCkO','W65Qv8kOdYRcO8kgWQBdScjEjmo58lYtNUEYNEE7Q+MdNEEERFc6GBVcGIOnW67dSv9MW7TmbKBcHSoPW6q','l8oyW57dJmonWRO','W6/dICkMjx4','W5NdHmk2c3O','e8o1fSoOWQG','pCkXsNr4','WPDruJz+ghzebmovw8oGla','jCoFAZK','WPBdRI12','xuxcUSokya','DmkWcSkGWQBdVa','WPxdMKG','CMFcOa','Fv3cOSorqq','iSopxZBcJq','WOOuW5VdGSkR','WQ/dSCoCa2a','BKpdLCobC8oqW4hcHhy','WQddTLhcOCoJ','cCkvW5fSd8kPtmk8WPm','WQTachdcQW','WPJdP8kefCk7','W57dUHdcLCoD','WPjZyq','W5FdKSoSe2u','WRuYhSo2wG','WO/cV1NcV1a','W4JdRSoaA8kQ','W6jJpmki','WPzxWRW7W5G','5B+T5BMl77+a','aK/cUmkCW6BdLG','W4tdScBcTmozW5aRzN5jvJLM','ANtdRmkJWQq','WPiOW7FdS8kj','c8oQcmoQWOvx','DuxdN8kcnq','zSokW6W9W54','EeZdNCoi','W6NdOmkfnNSHC0tdNINdOG','WR3dGSoecw/dKCoFrmoZ','WObxWQykW6i','pCkADa','lvpdSW','WQm2hSo9','WP5WWRyaW6G','C8onW4NcH8kd','WQv2pg0','566w5yMEWOi','W4FcU+odUX/cQtNdJLdJG4FcVNpcKgpdStXiW596jK3dGqa3noI/PoAyMq3OV6xLMQzhW75IW7BcOd7dNviNWQmqcSktW7fXDmoAra','vfVcUq','W49DyI0T','WO8lW4ZdI8kdW4WUe8kmFG','WPRdV3CfWQG','EaBcVmo2WR8AWP3cL8k3','W7FdNCoSpL0','DNddM8k8WQX6j8oTjColkmoPsa','W73dQ8oBf10','b0BdM8k3pq','DNddM8k2WQ17','oKBdUCkPW6jpWOFcNSkBzSkLqq','DKZdHCohFq','WQBcRM/cUgq','5BYA5BUT772+','WQldOmoxjhC','W73dKJ7cM8oB','aKxcSCki','Amkt44guW6hcJ1T6WRxJGOhdIGBcUgBcKMhdVCkklCkuWPPbdLJcGUI+RUABImkZ6l6d5zItW4VcHmk3qmkLW4yRCIBdIsSkw8k1rsnCAW','W6XJpW','W6JdNSkkbhO','WOftsY5Ypx5CcmoPtmkHn8o9x0RcNrGbW6/dQSoZWQ3cUSoiFez1CCkFWQxdSMi','WQDGfgVcKSoAWQG','W7pdPSkCaNm','W43cUZOkvsfF','yxVcGCopkG','W7hcGConpmk+','WOHVW4ldKmohW6ai','WQZdMSoFfgC','oCknzCk5WPtdLcGatCkL','DSk6eSkqWQa','WRRdGSoNgvK','WRCBdCoDra','WPSAW4RdR8keW4uYaCkq','cfhcUSoZgWddJa','fMRdNCkVgG','EL3dGCoiFmoAW47cLxVcQmk+WRJcRH3cSmopf3xcNmo7WPeSW54BWQhcNSkLAY3cGJFcUX0','sqdcVSoLWPy','ysSlja','nf7dLGldMW','zCoEW6C9W7Hk','lKpdUCkBma','FIpcOSo7WRG','Dv0fWRJdPSkkW4u','WRpdU0lcQ8oi','WQL2mwJcKSoy','WO8bW4W','WPDvgciDdX4','w8oGW5RcMSkB','5OUb5AATWO8P','BgBdOCkVWQHY','mSopBdxcJJRcPq','W7HQybCoWOpdUq','F0JdQh9ZeLddPra2W6KDmL01ostdT8oIqSk+5yAj5OI25yMVsG','WRNdPg3cVCoIW4m','vvRcOCoo','WQf5AIvq','hu/cOSknW7pdKG','uKlcQW','44kM776p5P245AkC5ysV5y2N6yApl2j4xd9H','f3/dHsxdQq','fLJdSmkQhq','WOP2WPCKW58','WRyTdCoquq','WPXlngRcKG','AqRcJmofWRG','W4RdRCo/vSk5','WQddGSkm','e1FdKrhdKG','W7tJGiXIaKJcJCkm44oGgvH8WQXcW73dGmkpW6JdHmkvaSkGuCkKW4dOVzRMMOBcVmor6kYE5Ro4WOmmcSk8WP43uSo3W5qaA1bUWRmjW6FcHb7cNg0','cu/cOSk9W6FdKSonW7fiAba','rHJcUCoRWPW','W7bTkSkcAq','W5jVW4O0d8ouxmktW4i','W6/JG6TXWO1IxSoq44c6z8ozptxcOZb/Cmo5W6ddRmoXhCoHW5xdNoI+NEAyNuq06kYT5Ro0oLldLXDKfG93WQ0/W7ZdTWNcNCoKaqnWfSkS','WPnxssT1oxzoga','WODWW7ZdISou','W6RdRCkdmvO','W5TRW5O8','tSoYW4lcGCke','WORdOd1/lHFdHapdUmkl','yJBcMmoBWPK','CsiAkW','WRPgW4K','wxxdH8olqq','eSoF44g0WQpcT8o2xCoh44g/W6JcQL3cQxFdJmkdWQKdtwtcMSk5v8oP6l6v5PUwWQxOV6dLMltcKmoje3epW7lcImoNva/dJxu7WPRcKCkYW7BcKa','WRqYhSoyxxNdQSot','WR/dPSkXhSk2','W4NcImofcSkzW6RcNW','WRRdKuyRWRC','kSkdWPrvW6VdSW','yqTimmorWPK','776n5yYC5zMo77Ye','DwBcOSovFXfs','A8k8a8kP','W6nNmSkqFG','W53dT8o3iMu','B2dcK8otEqq','WPSHg8ogzq','l8oyW4pdLSoBWRHP','au3dPWu','fqNJGOxcVCkSFaddR+obG8keFmkGemktW5HKAmkwWPeHxHS9WPVOVBdMMQuM6lYn5zIyW7PjW6ldPbtdNCk0l8klW6ddNwddVMvGpxNdIW','WOixW68','WQ7dKmkFgmkK','lSoKW77dHSon','DwBcVCopyHG','WOf2dWC7','WRv8WRa5W43dNa','oSkyWPTcW7/dTa','WRSkW53dKCkt','BdKZkSknW6u','WQWCWRuVWRFdGq','W6BdPSoAu8kZW4VcUSo9','xLaPWQtdUW','W5qZla','uMhdUmkoWQu','d8kpW4DGb8kNs8k/WO4','wvdcTW','WRX2nxlcKSoxWPu','WRWNd8o7h2ldRmox','rvZcOSooldRdLG','W7RdOmkK','WRXPrr1i','F0ZdHCofu8oqW4pcHa','W4HFzISN','wvaYWPJdGG','lCo7W5tdPmoD','c03dPatdJG','wSo3W5lcOwlcOMBdKSoGrmobWRP3peiDWOWaE8k5mdFcKCkThwhcPSoXs8kpW4VdHYfJlCokWRfPW4FcO8o/W7KfWQhdJqjlWRC','WPfPW6ddJq','W4vNaCkJwG','WRv2WRy7','emkuW5jAdmkWq8kRWPySW7vm','zmkElMhdNN7dSvesWPFdLcFdTW','CCkMn8kYWQddS00','geNdPSknmG','qLZcQmof','WQf8WRaRW43dHmkJ','W6rTlmkq','W65HyG','m8oBW7tdGSoDWRO','WRv/oGm','WQtdMNeuWOO','W5VcSt0qwa','776m5y6t5zQ477+R','WRRdN2tcQSoK','77Yc5y+25zUc772p','W6JcPrtdP8kWWP4lc2v0hCkY','duhcOSkuW6FdMCoj','xdHUbCov','ECorW4NcSCkP','WOVcMNJcJq','pCkYWODsW60','Bs8EiCkhW7NdTW','WRfmW5O','dmkXvCklWRm','eCo8kSoH','WRZdL8oybg7dMW','cK/cSmkAW6FdKSovW5S','DCox57IM5P2+WR/cOpgoTyBcLW','WPG3W7pdK8kd','WPtdGuKJWPtcS8o7','WRNdPg/cVCoPW4G','retdONz5gf7cQKbaWRLHxa','WRurWQO3WQK','W6P8zXqAWOi','772I5y615zI277+H','kmkqDCk2WOq','yCoZW4mwW5q','DCkDWQJcKCkBW646qmoBWP7dLKldVG','W6ZJGP89EZ8kW7ZJGAhcOmocW7nLEujDxgpdJmoOke/cJexdTUI/RUAyK3NdL+IUQUAYHrddT1ldQ8oeemoDW4fvW6NcKIDiEqDjWOxcOrHm','uepdVmorxa','pmozvJ7cIYS','5BYl5BQd776t','WRDJW4ncWQi','5OQP5AwJ6iYa5B2rAtu','W6FdUCoQhh4','BmodW7K1W75wWOu','WPObW5tdK8kl','WPP9CGy','FMWfWQNdOq','c8koWP/dLdi','C2WlWRNdJq','FKFcISo9eG','WObXW5/dICoU','kSo+mmorWQS','zIelkSkxW6ZdRa','ib/cOaab','kvpdMSkTeH4','WO3dJvaUWPtcOG','WQq2a8oH','WRK4a8o7','lmk6CSkqWQe','W6H4lmkbnGJdRa','W617EJSN','tUs4GoI3SowmJoocG8kdWPZcLrad','WR7dLmkfh8kcnmopxSkWW7O','WR7dOK/cVG','WOSyWPeuWQC','WQLbWOaAW6G','bqFcVdGRCapcUubU','F8kWemkkWR3dULZdIa','WPlcS3lcSgG','zgtcQCojsW','WRJdMLmvWOi','BrThnmogWOGIbx3dOW','dLJdVSksbG','W7HTrsOY','WO4lWRmRWQ0','WOruW4pdGCoH','WPzOCHDzW4ldHmoEsqqTW71rW7ddImkdW6FcKSozeCo+aSk2WONdRConW7NcICohW4RdIWLhWQpcGYuoWRRcGfa/dIhdOuldRSkwqSocjbScW4eTtSkKjCo+DeFcVatdMSoHi8oBimoyo8o2ECo/','j8oBW6ddJ8oaWRXTBCozWQJdTWhdTmoznfhcQSk6W6/cVsldJCoGWQzoW7zIjmkXWQ9eo8ok','W6vQqcqj','cCkHwfG','WRfmW5P3WQHTW6e','WQ7dIrHlbq','zupcL8o6rG','W7uVWQD3W4NdLmkMWQxdH8k1BIDgua4Nm8kmamkYWQ3cQWNcL1a4WRTYWRtdNmkjWPa','WPJdK8kbdmkA','B1dcLmoeFa','b13dOXtdGJe','WQdcKeZcULy','WRviW5PaWQK','WOP0yWK','W6BdPSoAwSk9W5hcQW','WQHHBqrb','tmoRW58FW4m','v1RcVCoUiIZdIG','FmolW607W7Hh','WQdcICk+wG','cSo8jCoHWO9lFa','W57cHmo6g8kq','WRTuvXve','sXhcPSo+WQCeWQVcK8kHtCkNqxmFy8kBW4RcKmkujmoWaSoID0pcHmo1WPVdISktWPCBC3mhwmoM','pCkADmkUWOhdNq','WO/dVbD7obVdIrxdQSknWQCSiq','pb/cLIG7','WPtdQJ13lXRdUaq'].concat((function(){return['WRDfBJnO','W7xdU8kKnNH+lIJdKJVdQ2xdIHJcISowW7f1FCoQkxVdI8kkW5BcPrSJW7Ovr8kgvCk4l8oBdtlcMxqgWRJdGrBcPSkRWORdOCkoW4TNWRxcRCoZW7qbzXeUsCofW4VdKCk9uthdVSkEW5W','W61Pk8kcBudcPG','B2ldOCkX','AmkbfmkFWRa','EbFcUSoCWR4sWP/cMmkRzSk0xe8','brtcOsO','WP3dP8kDpmkw','fSo8xdZcTW','w8o9mCoDWRj2yq','Amk0fSk0WRC','W7JcHCkzl8kEkCovwa','WOyaWPyRWRhdIG','dmkfAvDv','zX3cQq','WRua44k+oqVcM1ZcHUocV30oW4JdNcDzW5/dMX5GWRxdNSodwCkU6lYh5PQNCoI8LEwATSkLy8oyW6FcQCoSF2pcQmo2WQZcQ2NcKCorASkrW5m','5B+s5BQV77Y5','W4FdH8oHzSkr','W67dU8kIl2uJAghdHG','W5ddScBcO8oFW5iL','W6NdVCk5kW','WRfmW5PUWQHUW7fYW4tdNq','W5RJGODhWRFdPmotfEobOb8+Dmo8W7ODobHckZNcH03cH2ZdHUI+GEAyLSoqW5pORjBMSz1QW63dNSodDbFdU8o8WQv0u39zW7XhW57dIColzCkV','nmooW6hdLSomWQX4','oSooBcNcOq','WPtdHK/cVSou','WPBdVtbKocddTrhdSmkA','WOhcMMhcIq','WRjiW5Pc','pxZcN8kTW7u','WQf7ecyX','WOSsWQ4L','wCk0mSkrWQq','56+J5yQ/W6O','5OI85AEv6iYz5B6jW6BcHq','Bmk6n8kZWQddVuBdHW','BwVdPCk2WOO','yX/cUCoyWQa','BXpcUSo+WPCuWPJcLa','ySoEW7aP','WR7cGCkP','W77cH8kiq8kPp8oFuSoLW6D4WPW9W7W1rmotCIPbWPGoAdGfabTxsbxcPYy','jq/cMXq4','kSkECSkRWOu','WQldMCorjxpdHa','W6JdRmojACkW','fmkEWOldHrK','cSk0xLLCedHCW5a','dSkuW5LCca','fCk5W79HdG','jLBdMSkYmW','qvtcU8od','WOTZW7RdIW','WQaYhSoJu3S','z1RdHCkY','BhBdT8kQWR1S','56EH5yMVghu','WRXTWReyW60','d8o8n8o2WOTEAG','W5JcGSoqgG','5B2+5BUd776V','W4/dKmoes8k0','aCoTdmotWOu','imoHcSovWOu','xvRcQa','WR0XamoIrG','gmkAW4fO','fd7cGaaQ','WRiKgCo8vxK','WQL2mq','WRvTW6BdGmoL','sfFcVmodjW','pCopya','WPFdKNC','b8okhCo8WQ4','WPWhWRSWWQVdLYhcQmk1la','t2a8WOxdQa','WPjSW7/dJmos','WRpdUe3cSCoNW5i','WOZdH0mdWONcTa','wCo0W5Oo','t0pcUmo2AG','mCktWP9jW5K','EvKqWR0','yI8liCkdW7/dPq','WPxdUYT3mXJdSHBdPa','l8oPW5RdI8oo','g8kEW4fAcSkYs8kPWOm','WOZcIeBcNxjmW5i','WRrHBaT/','BXZcPmo5WP4','WQvusHn+','hmkUwG','WR02b8oW','gCksWOddTZBdUHhcJSkV','lSkQECkAWRa','rv3cQSof','mfxdP8kQ','o8kmC8kXWOFdNW','77675yYk5zQY77+T','pCkADmkmWONdNau','WOVdPKyuWRW','WPFcNMtcNwvyW4m','mmosEsNcRG','WOeDW6NdS8klW4Wd','WPFcO3/cP2C','WPpcG8kXvCkWW7OkESkZfsJcUcFcU8oFWQVcU8oFl8onACkUdCkmWPxdMH5mW5K','W5HLW5O','W5NdM8oLrSk6','54I35y2W5Ac95yYy6iEg5BYq5zEN5z2M','W5JcJmoahmku','WR3JGOu2WPldLmokj+oaNIyNeMO4W5hcICk8dXBdILxcR8kJnCkr6l2B5PQWgrdORzRMS6K1W69+xmkHwY0MwwXixgymW47cPW0UW6tdGG','zXPSmmoxWOK4axNdUu58WQm','44kKW5FdVrj4WPlJGjBcS+I/QEABTEs+IEEBTUwfPoMcUoI3QowoSoAxIEE7MSkuW58z','W6JdV8k0j38H','yeFdNSkR','E8krb8kbWRm','W71AW4OBka','W6tcNtCHsG','mSoeW4pdQmoZ','WO7dVuGhWPe','WQf8WRahW4pdHCkWWRm','W4JcPmoGjSkl','WRXlW6PcWPS','EWjtbCoH','q1dcV8ohiIZdHW','W7hdPSkkaLO','jutcM8koW5S','W4TLW7SThSkCw8kIW48ZvG','qXhcG8oMWRK','WPbEdtiEfqtdTeG','W4BcQISf','fCo4W7VdISo4','WPddH1CY','yGzgnmobWOu1f2VdVW','tmo0xMrGbt9v','W4Kq5B2P5AACwq','tM4TWORdPa','WOrctYm','WOZcLxZcNeDeW4nUnmks','WODdWOS7W50','jehdOmkJ','WRldRudcLSoh','W5NdLSoRa2ZcKMi','BmodW6aPW7HrWQxcVCooWPG','W79QzWK','W47cPdGx','d1VdMWJdPq','5BYh5BMY772L','WQaIWOioWP8','WQddUfdcPG','5BYF5BIa772+','WQNdK8ocbgddGSox','aftdTGC','WPngtZr6mG','WPbctYO','W61JEXip','WOFdJvasWPlcQ8oQ','WR3cN+obGSktW5pdNtvO44ckjXjQomorWONcVa8wW4PvWQ/cOZxcJoI9M+AASbNOV6tLMBpdJ3tdRM0nWRXBlszzBeHCzGZdJSkNdq','AvdcOSoekG','f8k1qfW','qudcVmod','W4pdVtFcMq','W7tdVmkEkw8H','WQVcLg3cQ3O','cSkHWRX3W7K','nCoFW6ldISohWRHLF8oj','W5XRW5O+bG','uCkmdmktWPa','axJdS8kIW6XaW4NdJmoZcmoWdXfxlCodWOxdRSopFSk+eCk3pGRdICkPW5BcNSoXW55piYTvemkVWO19oCoDAuNdN8oDWO3dNCoiW6xcTu3cGUIfQUADSoAjQEIIIsFcKSoU5y+X5lMA5PAz6zwdiSk/W5XqWQJcSSkS772b','cSkuW7bUjq','ASkWfCkYWRFdP1W','WONcLhi','dSo2imoKWPLrumk1W7xcGW','W7hdOSoADG','nCkwW5T8hW','WPXVW69iWOq','omkhWP1LW7G','mCkuW49GbCkSq8o2W4j2WQOEWOWJWOVdNuCdWRn/W74LWQqjW7dcLMJdQ8osWQ/dTSksdsSoWPL3g01XFmo4tXu5WPldR8otWP9cWOr+WRpcTGJcImkGvSo7xHy6WO4LhqldU8olu8o2h8oiwd0pBXqWumo+W6lcUSotW4NcPCo8qSo5W4PLgSo6WQ3dSmkhlSkOWRdcQCkjW6SNgmoYkhDdW7pdJwZcPmkYWPVdGSkFbSkoWPLEW6z7W614hdjrW53dUGZdQMjlm8kZWPVdHIvCWPv5wbfwW7/cPepcT8kmArNcMSoLWOFcHHWXW6fxWPNdP2DbW7H1W6XKuwJdRSkytKZdKJ5qW6bejmk+zgFdUCouW5eGW6aoWQZcPmoekNCIgZlcJX9SCN4ZgmoWWQtdRctdQdldOfTUA8oggCoLW6RdMSoVF3xdG8onW5y4bmkLyNj2WOZdMc8wWOhdICoDgZtcMCkN','WPTjAJ1e','DeSLWQ7dSCkzW48','WPpdMeGVWO8','b0FdRqG','WP0YWPqJWPa','W67dLSoko0G','W7RdQSkKc2iOBw7dJd/dPgBcIKZdJa','ertcOsm','W6tcGWyLuW','WRDGW6PHWQm','WRnrW4Ta','zmoHW7NcNCk8b8k1','zalcUSoS','W5hcPCoZb8kE','5yQx5l2f5OQ75AsX5QYl5PAiW5hdKq','W7ldT8oCD8kYW4lcP8oZkW','nmktW4a','yq57bmow','p0VcSSkDW6a','bK/cT8kFW7FdJmos','WORdH00O','wvxPL4ZORQ1V','WPzUW7RdKCodW6OXW4e9','WPXMdW0Z','FCouW5OUW75lWPJcOW','W6JdRCohASkBW4RcUSoqpfu','W7XHqY4N','WQRdLmkFkmkPomouwCkYW7a','WQm9W7FdImkR','WOO4W7xdQmkV','EhBcICoycG','gXBcPbCp','cSornCoeWPm','WQ7dMSkbgSk+','mCkNWOfeW6C','WQhdS2RcSCoE','cmo2lCoR','WQPYmx8','WOqbW5ZdP8kzW4OefmkmEq','lmoqEIxcTW','fmkuWRfOW7q','W6RcL8o1gCkB','WQP3hu7cKa','oKZcRmksW7m','ee3dKJhdQW','WPOlW5NdOG','dCkPqvu','WPZcRxpcSKS','W4JcImoacCkDW7u','WOyaWOSXWR/dIJO','WRP2nMO','W7ldS8ocD8kO','WOBdSmkakSkc','WOaDgmo5qq','WRSYeG','c8kXCSk1WPK','oetcRCkNWRqzWPdcLmo9uCo7a09AjmopWONdPSodCSoNh8oOmG/dGSkIWO3cK8o6W5Tc','W6vGyIOp','WR7cHCkQr8kNW6qW','WRX2ngVcLSohWOq','44cEduC3W4FcIUobU0tOV5FMMQtKVyFNMOZLHQ7PGjFOTkpLJ4NMLPpNUybqhZ4','fSkuWPXKW5q','W5xdGmoRgwRcMW','WRtcHCkTECkPW60HCa','W5/cGSoAgG','W4fUlmkJxW','WQv4WQGJ','WRhdPfdcU8oHW4G','bL7cOSklW6hcHmkoWODaAa7dKeFcU8oWdxNcVSoGqmoYD8k6ffBdT8kxWP1ha8kMWPHMD8oGW693W5tdUSkKW7NdMg9mWRPBW4xcRJ3dKCo5W4pcSmkPqqziWQywAZxdUslcMSoMo8oBw04','WOef44cegrJcJSoIBoocO2RcQwypuJmNW6W3r8onWPP8hZxOVQBMMzil6l+n5zU6W5RdINHKWORcUv3dT3ddHGiCWPK0aSo+iH8','j0xdOmk0fXC','dSkEW4zMbCk2rW','h8kVxNvtfdK','WPDVvXjlWPBcSW','Du3dGmk/WP8','h8kuW5PIamkLAmk4WOu','WR5mW49hWQrYW7C','WRJdHeitWRK','WOGwWQ4GWR/dKam','u1RcQ8os','cCkjWP3dTthdUdlcICkK','wdhcVComWPK','W698lmkc','WRZdUetcOq','WPpcG8kXvCkWW7OkESkZfsJcUcFcU8oFWQVcU8oFl8onACkUdCkmWPxdMH5mW5LJhSo5DLW4WRWN','WQpdSLFcTSoNW5it','WObiacm','WQldMCoxbgxdL8ocqW','Bb3cUG','F0ZdHCof','jCoOwCo6W6/cQrxcNvpdQmkQxCkPD/gdGz3NSA/NU6hPGARNNRZWTQgNv8oPCCoeWRGjW5FdICkvwI0pW7lcIa','AwxcLCobErm','WQtdSLdcPG','WQ1Ykxi','WQH2mx3cMW','yLVcPSoNcq','fMxcJ8klW6S','EKVdJmktWP8','WPrLW57dQCoI','WPDPqWTZ','W5ddScBcUSozW5e0zW','zNlcGCoYAq','yCoEW6G+W6LqWOu','W5hdGCoQh38','nL/cG8k+W74','eHdcOqq7qWhcGuHQWQy','mSkLWPfkW6G','WOHgwIz+lgW','WQrmW55pWQbJW6e','WRlcK8kQxCkHW60','W6tdI8o7p2a','hCkHwfe','WPrejNJcGa','C1ddG8ksoNHr','gmoid8o1WRm','WQ7dJKiPWOO','WPfaW5TvWPG','ySoUW78pW68','Fmk+eSkxWRS','vx7dM8oXFq','WQrqWOaNW60','dCodW7ZdM8o5','b2hdMmk6mW','5OMd5Awk6i6X5B+Wemoy','WR7dUfxcHCo0','W4VcUbelzdy','CmkHemk3WQhcRGFcJWpcTmo7dmk6ESoeWO/cPLubD8oeW6PfWR0IWP3dOeZdHmkeW4axl0hdSSkAWRSzw8kDiwxdLCodW7NdV8kcW450oshcK8odlSohwxXmoCo/W4WchSoUDdbkWQa','DSkbc8kIWPW','h8kgWQ9uW4K','WOFdJw0NWRe','F8o3W4tcNCk0fa','kmkaWRT5W5m','WONcNNVcJ3rd','qKhcRSoFnJW','W5z7W4Wpgq','A8kHfSkUWRZdS0hdHHC','5BYD5BI7776p','h8o6W7NdGSoC','tZtcNSo4WOG','mColBda','ecBcMcWw','WPD/W6H0WOS','WQhcUmk6uCkd','nh5iC8orWRNdT8kdW79himoi','WPDlWO0kW4C','emkZyuvgeH1vW44','FLCaWRK','FeGuWRddQSkBW5FdKCk5E8oufsNdRK7dT2lcO8oiWRNdMMpcRNrtCSkrW4GTgubxW4u','WPjOW6hdJmoiW6K5W5mL','W5ddOmkQl2COycJcINtcTYNdJh/dLSkjWQDXE8k3ALVcSmodWONdSvbRW69fEmkFbmo9jSoptdRdHI1gW7VdSGNcOmoZW4ddL8kiW51fWQRcSmkOWRGCiL57gCkjWOBcTCkrya/dM8oaWPKSW6NcLuhcJxnYowtcHtj+rsJdTZpdGSo7W4b3WR3dLCkShmkGA8oco1zFCg1NW78cWOCZWO5EW6iRW6jlaeiKW67dTmkfW4DoWPOFW6X8wSoYomkJF8kgi8o/W4JdIN9GcZ/cHbC8WQmipHRcUSkcoX3cMSoJedjdfh0zzSooWPZdVCkpWOZcKmkUnCkwWOZcLCkOESkPpSoVW4lcT8oxWRW2WQpcKSkJwCo7hSooWRTNzmkoESo6WPKrW57dISoaWRtcO8oBWRddSmkifc1FWPnEW43dJwaVmu7cImkIW4asW7JdQ8oDWOXjWPOaW7BcRNrVW6LRxSkGutNcK8kCcfX+','c0/dGCkihW','WPhdPNhcN8os','WRZdPrPskq','W7HQyfaEWOpdUgddMZi','lmovj8owWP0','WORdQJD5krC'].concat((function(){return['AGHwna','a8oPnmoPWOnABSkMW7NcMfxcQIpcGIVcT8oapCopW4GoxKJdIGxcI8o2oCkUW4dcGCkMrq','WQTfvHTQ','WReeW4ZdKCkb','j8opAZ7cGZJcOq','BmkWf8kZ','Cv0kWRVdT8kq','zv/cHCoQiG','WQXCjfBcUG','W7n4kSkyyKdcQH86','W5ddKSoSeuVcNgVdTG','axRdHCkLpq','iCocFt8','FCotW6W0','w8kebSkJWPm','tf7dGCo8yW','W4FcUs0lCG','WPf9W6FdJq','ESoOW6SSW7u','WQFdPuRcPSoJW6aBhuDqmmkVWQq','W5pdM8o2r8k3','WQNcQfVcOLi','WQpcIK/cNvC','xvRcRSopjY7dLSkS','WPP1yqjzWOW','WOdcKSkPESkl','WQvDW5XkWQ9NW61GW5G','WRVcLmkTrmk1WRL6n8kXdc7cP1BdVSkzW7/dU8o3omkeECoUsSkrWO/dJHPeWP5maSoGjePQW6yYW7rJcmkcW5pcRwdcT8o9nmkeWQ7dHMNcPtRcNGNcSmo6t8oalSk9W6VdNCoXaYZdPdRcVeiAW5TiW7JdKGiJW5/dGSktW5RdIG','WPn5W6pdICohW601','WO97CHbT','kSkwzwzv','fh3cHCk4W4e','BcqBimkAW4tdOG','zuWZWRVdHq','F3RcN8otEqrcaGNdHmoR','jSoEAJJcGsNcRxas','W5BcPaOuCdzbuSkfBCkX','WPpdHe0LWP4','eaFcPY08','WOGwWQ4qWRFdIqFcVCk+j8kMWORdOrP5imoF','W5ZJGlNdIKBcO3xdO+oaL8kCWPnojmo7wmkgWRJdHWZdGaRcQ8kPa8o56l2r5PMIW7JcJoIVQEAYQSk8WP7dGM/cG0bAnfyLW5ldIx/cUmkQkmk+W408W6O','iSocW7FdHSoAWQS','WPn4mW','WObigtGkcbK','kSksWOf3W7/dRmkZEmoXlKBcJSoWW4i','FaHem8oEWOG1agVdV0zHWQO','W43dHmoup2e','FNpdPCk1WQb9fmo8o8owl8kYvCkdWPiUiSkgW4PZeuSTW5pdM8oMy8k3WQxdSuZdS8oH','WRPgW4Lq','5OU95Aw26iYJ5B2vtfS','lutcOq','WPbwscO','nh5jDCotWRVcSCkRW5nFhCoSW60','WQ3dNCoCaxm','AfNdG8onE8oEW4BcH2S','WPFcNMxcHgfiW5i','pEs4KUI1GUwmQ8kJW4xcI8kyW60PWOChBmo+bmk9kmkZWPpdQ8kvm8k+pa','x8ohW7lcTmkI','WRtcHCkT','WO4bW4RdG8klW4eZ','dehdTHBdSh9CaSkXW6v2hSo+WPG6grdcG8oAWRjQWOD7CmoNWPFcOcyZW6DnW63cUCo+W7mjF8kZWRNdKmo7W4VcI8oiW7/cSr/dUbTUcmkulSkJsSkRphXOoqvUW4JcJrpcVaVdMmkN','bKZcLmkvW7a','WOnUWRuEW4K','AsuyamkqW7K','AwZdMmoixW','CftdG8kN','jSopDJu','zSoYW4NcVCkt','WRb4hbuu','kmkEBSk8WO/dNa','5B6G5BUZ772f','WRDXnNBcLW','WQJdKwZcLSob','W6XPnSkwEe8','gCkdW5bQ','W79NCrm','WQa1o8ocFq','eCkLva','lmkdW5zgba','W5pcImovg8kzW6VcMa','W6FdRmoCw8k9W4BcPG','WQyqc8oBAa','WOVcIuhcOKu','WR84dq','WR9mtq1h','WObiacqmdZNdQeiA','WPVdQ8kioCkn','b8o3mG','d8kEW5TT','Cf0aWRxdOSovW4pdL8k8','WO9EW5z1WQq','yCo2W6pcHSk1fCkXWR4l','WO9/lLFcHW','fmkoW6jlhW','qNdcOSoGgW','kvRdUa/dRYKsaSoPWQOQuSo4W79MrKBcH8oCW68PWQCaoCk4W4pdQ24MWRDYW7tdQmk7W7ODpSk7W6BcICk7WOJcUmoxW7NdQvxdJH14kSklm8o4bSk2Etm9AuKJWQZcOslcGI7cHSoIbrRdG8kda8orWRi0qZ91WQxcMKZdKfVcLCoHemoWtSkGAmoDW5JdJdRdRSkStCkVW7ldL8ojBSolESkVW5PHW6jtWPZcOSk2WOVdHqjNrmo9WOJdO3tcIuSpWODuw8kNWPNdVHxcONJcMq/dLmoXW7FcGSk0WQmbW6hdVmokWOtcRCoYBSknACorW7ZcQMCjgmkTWPldLGnDW5ZcMtVcLcFdISkCW59SANBdVXdcGK7cU8kxECoMW5jhCSoSW6OVWQtcVmkoohfTF8oQtLddGmoaWPxdJmkDWP7dPmkXW4/dJh7cJN0QoCkDcCoBW70+WQLkWOpcGxddGCkgW4uTkW9bW5L2WQvTWQpcVK9PWOi','dmkjW5XZdmkFtmk4WPO9','WO1ZW7tdLG','BvKwWQ/dPG','WPGbW4VdSG','feddSq4','WO99W77dGa','BL0qWQRdOSku','n8ksWPxdTtpdSZRdGmoOv8omWQDIvHzoW5vsmCo3lutdUmkWewZcTCo8tCksWQhcK3jOjmomWQWSW4ZcQSoRW6r5W6ZcGfmtW6PVWQVdPaqQW6BdOmkEW7GYt8k9bSotWRhdQc0dW6FcIthcVIdcQLZdNhWSW5bfW6JdHmoku8kTnbBdTcmzDgddOCkbtgVdJ8oyW7DYh8oLmSo0nYNdHYfVFWyYWPKpW5FdGv7dUSo7W5xdUZBcS8oskmkXW5q9E8kaW7FcJqeeWQxdLSorW4aZW4znnmkVWQ3dNcJdRSokD8o4DSkbxmk/i8oxW6pcSuRdUmoLW6NcLNvAW5RdLmkRySkfWOpdMmo6CxtdRwySW6FcGcNdUeZdOmkeW4PevCkYWQBcVIfgyCk9smoKimomWQdcOs3dRLbmW5ePbCoswmo1n8oOB8oeWRjzWRxdKaRdQgvRW5WbjMVcLx3cSYqyW7ZcV33cJ8oMWRRdTXdcVJm','ku7dVCk2mrqArSoMjW','5BYZ5BIn77+v','amofW4tdLCoh','xvdcOComnYC','oSknW6PIW6LgWPlcOCktWP/dQ8oZo8kKaCkqW7H8WOpcOaldISkSnwpdKCofecb5bee','W5xdQSolgwq','WQ3dNLWZWOG','g8kEW4fTcmk0qW','E2ldOCk4','hv7cPmksW7ZdMq','twtdNSkNjG','W7JdHJRcSCo9','WQKFomoBEq','W6DQEHOjWOq','W4FdUSomkxO','FSoHW6VcLSk1a8kJ','zaWidSkt','hWtcNsWf','nSobBd7cMINcRa','lSkfWPXvW7VdPmkNACow','WPpdNfyVWPxcOCoMiNG','W55cW6X0W6BcLvpdTCkMdCkqWOpdQrO','5B235BMn77+p','BXpcUSo+','WQfiW4Dx','smkImCk2WQG','W5VdUJu','WRZdG8kzkSkd','WQFdMKCNWOe','uxNdM8oSrW','wbhcGCo1WQy','pKhcGSkFW4O','nSokW6tdIW','W4Kq6zwW6k64wq','FwBcGSojAHG','AhhdVmkTWQW','WPhcK3dcHG','W6pdRmokzW','WRS4W7hdKmkn','FSkzWQFcLSkFW6D1y8o3WRddJv0','zSoLW7JcGCk1','WPZdRSoUowO','W7ZcH8kfwtxcH8kgeSoaW4niW6DMW7G','AJOAk8k3W7NdQa','jCoaW6tdJmoCWRHK','W7H7zHqtWOVdVM3dIW','lSoPW5hdRSoI','W7hdOmk0j3GSxMddMI4','WO46WP4gWRW','EwFcG8opFW','WQTRlg3cH8ohWQmeW64Z','cmkNwmkbWOS','W6pcNSkyhSkIp8o1wmkIW6OOW5q','xZORb8k2','yYmrjmkoW6FdVq','D0ldLSox','aHlcUJO/','WRtdTLFcSW','krZdUSotC8oJW6pcIG','WOChWQ40','m8kmu8kTWPldLGu','5OUt5Aw8W6ZdMW','WORcRmkdDCkW','WOpdMKSO','luxdSmkRfY4CBW','BqHooq','EfddMCkHj30','WQpdK8ofe2ddKCot','rg3dPSkCma','W4BdSX/cNSot','fCkVsffbhW5DW4ZcTq','a1ddTHddOIK','zcdJG4BcN8o3W5ZdLmop44c8nf/cGvtcTSo4axBdQmkSu8kSjmkOqoI/OEAAVmos6lYX5zQ3f8kVWPW4oCoGW70RWPNcRSo0WQ3cHIaEW7fsW5C','5OMy5AATl8oi','W49RW5WUcW','W7NdNZFcHmoC','lSooW6G','5OMs5AsLW6bK','W7tdVmkdm3KJza','WOtdIvaNWR3cR8oJiq','CeSd','lSkAC8kS','A8kGbSk0WQBdPG','WOObW5ZdVW','BvCxWQG','WOFdH1a','WQVdUmkAmCky','vIKWl8kv','yetdRCktpq','W4bHrtuy','W69hxrG7','WRRdMmkrcCkz','quFcPSorjHddJmkSW5pcMG','WPpdPt5OcW','yCo4W6GEW40','W41VW54Xd8kAta','WO7dNSkfd8kPnCopgSkAW6yGW4OQWQq','cCk2WOvlW6G','WQSPW5tdKSkq','grdcUYu6rW','cu/cOSknW7pdKG','EvKqWR3dHCkrW5RdGa','fmkhWONdNJy','WRDprszt','dCoDW6FdICoS','BSouW70','e8koWRZdQs3dUd4','WQNdN8oejM4','FuBdPmkZixjr','WQ/cVSkBmw0EtwW','AmojW50XW4e','WRG1WPeiWPW','WRBdTCoBiwi','W7/dI8kXewy','DCkWf8k0WRpdS00','oLhdPSkPda','W79Gqq0nWONdPuJdKYtdSq','W6NdPSow','WRvgW4bqWRvYW7fLW5xdGqe','WOX1WR0mW64','W49pW7S4pq','W6L/cCkeBuNcMW','zCobW6tcOmk1','WOXdjZGCgq','WQz2jhRcLSogWOm','W7LBDZak','smomW5ZcPwVcRMVdN8kxfCk9W587Aq','W6VcTCoKn8kU','WOjmxZS','d8oQiW','WOpdGeu0WRRcSG','mSodW7xdJq','pv/dTJhdQa','WQdcLhhcGNq','77+F5y+i5zQk776p','WQL2dh/cUq','WOabi8odvq','WOHVW5/dISojW6a','CuFdHCkPiq','EX3cVCoR','u8ovW6GcW4K','EmoVW6lcPCkw','tKKtWRxdHa','F8kFlCkWWPy','WQ1VtITX','bCo8mmorWOnuAG','WPz5zWnpWORcMa','FuBdUCkPn3a','WOiwWQK3WR/dGWC','WQrLsGnH','Bf/dMmoqCa','C2ZdSSkkWQXUfmo6m8onlSoV','jGtcOISj','WO9/W6ldSmoN','WQaYhSoXu2pdVW','W4FdRmkcmNO','oJ7cVaG3','WPGIWPi8WR8','lCkBWRPWW78','f+oaQadcUCoHWO3dKEocTmoTkCkhb2ZdVGtcVsJcS8ktW6VcLtpcVIhOV7JMMlhdLmkg6k655Rc0beFdK8oWWOjWWRJcJmkIW6L1WRFdKCoSjmkGW51umgO','BhRcGSou','WR19hdex','xvRcQ8okmcFdVCk+W5VcIW','W7BdJX3cG8oh','W6tdU8olx8kX','v3VcVmovra','oSonbSoNWQu','W47dG8ksavK','CuldMmok','k0hcJ8kPW4q','WOyaWPCXWQRdGq','WOeEWRe8WPq','WQRcL8kvE8kQ','Ee3dKCk7WOi','WPnZWRenW6m','WQBdK8oxbgtdHmof','WO5sqY1L','WQhcHCkPwmkNW6aW','umoF44cq','C8k+n8k3WRm','cxlcMCksW5a','sHhcSW','WPrbWPWwW4C','dMZdT8kraq','WQFcICk0uCkPW7yH','WQdcGSkiy8kj','utW1l8kO','WRDnqdzB','77Yf5yYK5zMP772a','W7NdT8o/bg8','scFcTmopWRu','dtFcMcug','WOWsWQ4NWRy','ENRcG8oLBbvF','W4ddM8o9hG','WRrWFYrO','WQNdVgNcI8oX','ueBcV8oQxW','W5ddKSoSeq','zSkCE2NcIIRcOhnyWRJcT0hdGmkXqxhcHCoeDCkPWPn9ueJdMSo9lCkMW681WRdcJW','d1NcPCksW7xdKa','WOqbW58','WRjXWQeH','W4ZdS8oFtmk+','E8oEW6G+W4PlWPRcOCoZWOlcS8kH','kvpdMmkTgru','WOmEWRWkWQC','omkoW5HedG','W53dPaFcS8o1','W4pdVd/cKSozW4O0','WQhdHmozbMa','WRRdMCodb2NcM8ovtCoLW4rGW5O','WRldUfVdVmoIW4Cg','iCkXWRPLW5K','WRz9isiv','vvyIWPpdJW','WRFcICk+uCk1W7C','WQjCkh/cOW','DCoVW6dcK8kI','WPpdJ20hWOi','FgZdU8kQWR1SamoRjSowmW','W6ZdPSoDBCk9W4lcQW','WORdSmohixS','W4pdUH7cMmovW54SAKHUxt5RWOS','WRxcTeBcVa','WRa2bSo5','iMBdJCkjga','WRDzW55pWQHJW6vYW4JdGr02WR5iW4ZdSSknhmkBwmoKW7KtWQZdUIhcVCocFCkhW7JcJSou','iSkhuCkiWPe','hSkuWOJdUsZdQW'];}()));}()));}());_0x190a=function(){return _0x5d6916;};return _0x190a();};async function checkin1(){const _0x4d97ac=_0xfcb5b0,_0x2dd808={'gxvLR':function(_0x5737d4,_0x32b1b9){return _0x5737d4!==_0x32b1b9;},'xqXiF':'BGWDY','JFAkE':_0x4d97ac(0x500,'RJt#'),'bIDhA':function(_0x8be369,_0x487c54){return _0x8be369===_0x487c54;},'lOmaP':_0x4d97ac(0x4da,'KNyD'),'yVfZK':function(_0x339a83,_0x5bff53){return _0x339a83(_0x5bff53);},'IjCju':function(_0x282d8e,_0x2ff46d){return _0x282d8e(_0x2ff46d);},'LSNJR':function(_0x3ba3d3){return _0x3ba3d3();},'OShFK':function(_0x3909e0,_0x35fbd2){return _0x3909e0!=_0x35fbd2;},'xCmAc':'undefined','nfjwt':function(_0x727ede,_0x2c6c32){return _0x727ede(_0x2c6c32);},'zFOuc':'qfPWp','OKiJy':_0x4d97ac(0x473,'d)Sd'),'NRJXa':function(_0x173126,_0x46a1eb){return _0x173126+_0x46a1eb;},'TjJAa':function(_0x5b17b4,_0x534fd3){return _0x5b17b4(_0x534fd3);},'amLlH':_0x4d97ac(0x21c,'HTYv'),'rhpoC':_0x4d97ac(0x3cd,'t04B')},_0x15e35e=new Date()[_0x4d97ac(0x2ce,'LH%%')]();let _0x30ad1f=Object[_0x4d97ac(0x322,'ekrS')](filterEmpty(a),{'integralactivity_id':0x6,'id':0x4,'visit_type':0x2a4,'ad':0x21,'wxapp_id':0x2714,'token':ybshd,'timestamp':_0x15e35e,'secret':_0x4d97ac(0x31c,'d)Sd')}),_0x18e6e4=_0x2dd808[_0x4d97ac(0x4ee,'6ahG')](_0x2dd808[_0x4d97ac(0x21b,'2oEZ')](urlEncode,_0x2dd808[_0x4d97ac(0x387,'R1Xr')](ksort,_0x30ad1f)),_0x2dd808[_0x4d97ac(0x1fb,'S)sn')]);return _0x30ad1f['sign']=crypto[_0x4d97ac(0x210,'resf')](_0x4d97ac(0x3b2,'6ahG'))[_0x4d97ac(0x2a3,'5rKg')](encodeURIComponent(_0x18e6e4))[_0x4d97ac(0x4fa,'alvl')](_0x2dd808[_0x4d97ac(0x255,'cxhZ')])[_0x4d97ac(0x523,'5rKg')](),new Promise(_0x3ee8de=>{const _0x2ade91=_0x4d97ac,_0x6653b0={'Wajon':function(_0x14738c,_0x231f66){const _0x32db21=_0xda81;return _0x2dd808[_0x32db21(0x3f3,'N$hN')](_0x14738c,_0x231f66);},'YjtWk':_0x2dd808[_0x2ade91(0x458,'7VyP')],'bOaHI':function(_0x1ea5d5,_0x21fd31){const _0x1a96fe=_0x2ade91;return _0x2dd808[_0x1a96fe(0x272,'%y&N')](_0x1ea5d5,_0x21fd31);},'wnWSZ':function(_0x6d73a3,_0x1ae36b){return _0x6d73a3===_0x1ae36b;},'hOned':_0x2dd808[_0x2ade91(0x51e,'1Q4z')]};var _0xd25c24={'method':_0x2dd808[_0x2ade91(0x484,'pIAz')],'url':_0x2ade91(0x362,'yV8!'),'headers':{'Content-Type':'application/x-www-form-urlencoded','xweb_xhr':'1','User-Agent':'Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20Win64;\x20x64)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/116.0.0.0\x20Safari/537.36\x20MicroMessenger/7.0.20.1781(0x6700143B)\x20NetType/WIFI\x20MiniProgramEnv/Windows\x20WindowsWechat/WMPF\x20WindowsWechat(0x63090819)XWEB/9185'},'data':_0x30ad1f};debug&&(_0x2dd808[_0x2ade91(0x2fb,'jeiZ')](log,_0x2ade91(0x247,'7]lZ')),_0x2dd808['yVfZK'](log,JSON[_0x2ade91(0x2d7,'hs5z')](_0xd25c24))),axios['request'](_0xd25c24)[_0x2ade91(0x195,'CRr2')](async function(_0x4d4aac){const _0xb18f3=_0x2ade91;if(_0x2dd808['gxvLR'](_0x2dd808[_0xb18f3(0x20e,'2oEZ')],_0x2dd808[_0xb18f3(0x2e1,'(E*w')]))try{data=_0x4d4aac['data'];debug&&(_0x2dd808[_0xb18f3(0x35c,'HTYv')](_0x2dd808['lOmaP'],_0x2dd808[_0xb18f3(0x4c1,'1VtW')])?(log(_0xb18f3(0x52d,'va$Q')),_0x2dd808[_0xb18f3(0x313,'rsk2')](log,JSON[_0xb18f3(0x2f3,'MG]*')](_0x4d4aac[_0xb18f3(0x36f,'5]d!')]))):_0x4cce18=_0x402d74['parse'](this['getdata'](_0x56b942)));cjid=data['data'][_0xb18f3(0x3ad,'resf')]['integral_raffle_number'],_0x2dd808[_0xb18f3(0x22f,'pIAz')](log,_0xb18f3(0x2f2,'g%TA')+data[_0xb18f3(0x250,'KNyD')]['raffle_detail']['integral_raffle_number']);for(let _0x3c0c4d=0x1;_0x3c0c4d<=cjid;_0x3c0c4d++){cjid>0x0&&(await _0x2dd808[_0xb18f3(0x4ad,'2oEZ')](checkin2),await $[_0xb18f3(0x400,'(E*w')](0xbb8));}}catch(_0x3c64a3){_0x2dd808['IjCju'](log,_0xb18f3(0x3c6,'&2TI')+data+_0xb18f3(0x1e9,'aOTO')+data[_0xb18f3(0x233,'FUYF')]);}else return _0x6653b0['Wajon'](_0x6653b0[_0xb18f3(0x46c,'5t2A')],typeof _0x151172)&&_0x6653b0[_0xb18f3(0x383,'1Q4z')]==typeof _0x5ad389;})[_0x2ade91(0x29f,'wJHf')](function(_0x40e185){const _0x3555a9=_0x2ade91;_0x6653b0[_0x3555a9(0x2fe,'l^Rx')](_0x6653b0[_0x3555a9(0x1ab,'hs5z')],_0x6653b0['hOned'])?console['error'](_0x40e185):(_0x6653b0[_0x3555a9(0x388,'1VtW')](_0x1e2538,_0x3555a9(0x198,'yV8!')),_0x6653b0['bOaHI'](_0x598ef8,_0x519738[_0x3555a9(0x18e,'8aYL')](_0x15e215[_0x3555a9(0x4f5,'W!([')])));})[_0x2ade91(0x38d,'X@N)')](_0x180f73=>{const _0x5ea602=_0x2ade91;_0x2dd808[_0x5ea602(0x395,'rsk2')](_0x3ee8de);});});}async function checkin2(){const _0x3b05a1=_0xfcb5b0,_0xeda4ff={'ncqUA':function(_0x8a919d,_0x37ff67){return _0x8a919d(_0x37ff67);},'CUzPd':function(_0x17af31,_0x382429){return _0x17af31==_0x382429;},'lVaDv':function(_0x1d5cac,_0x279855){return _0x1d5cac!==_0x279855;},'gXDKG':_0x3b05a1(0x3dd,'^a!B'),'AZOtq':function(_0x3f996d,_0xc19f0f){return _0x3f996d(_0xc19f0f);},'QzAfg':function(_0x5934e1){return _0x5934e1();},'bzcDA':_0x3b05a1(0x50a,'5]d!'),'PXPHR':function(_0x245340,_0x4ec64c){return _0x245340+_0x4ec64c;},'oxfbM':function(_0x574188,_0x8f1e2d){return _0x574188+_0x8f1e2d;},'GfOuK':function(_0x3a6e02,_0x4f69d0){return _0x3a6e02*_0x4f69d0;},'Zbpsw':_0x3b05a1(0x427,'LH%%'),'ezgEc':_0x3b05a1(0x1b5,'g%TA'),'eiNdl':'bbZtC','nzfBi':'udFyT','McDIj':_0x3b05a1(0x3e3,'1Q4z'),'mKMzd':_0x3b05a1(0x232,'5rKg'),'aFwKq':_0x3b05a1(0x542,'8aYL'),'jZTYV':'Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20Win64;\x20x64)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/116.0.0.0\x20Safari/537.36\x20MicroMessenger/7.0.20.1781(0x6700143B)\x20NetType/WIFI\x20MiniProgramEnv/Windows\x20WindowsWechat/WMPF\x20WindowsWechat(0x63090819)XWEB/9185','DrURq':_0x3b05a1(0x3ec,'X@N)'),'DqfDJ':function(_0x12ce1a,_0x57f458){return _0x12ce1a(_0x57f458);}},_0x3bb3f4=new Date()[_0x3b05a1(0x219,'(E*w')]();let _0x1ee9fa=Object[_0x3b05a1(0x4b0,'aOTO')](filterEmpty(a),{'integralactivity_id':0x6,'id':0x4,'visit_type':0x2a4,'raffle_type':0x1,'code_type':0x1,'wxapp_id':0x2714,'token':ybshd,'timestamp':_0x3bb3f4,'secret':_0xeda4ff[_0x3b05a1(0x1d1,'LH%%')]}),_0x1abd60=_0xeda4ff[_0x3b05a1(0x467,'wJHf')](_0xeda4ff['AZOtq'](urlEncode,_0xeda4ff[_0x3b05a1(0x501,'t04B')](ksort,_0x1ee9fa)),'36c8edde3d61c0411511d3b1866f0680');return _0x1ee9fa['sign']=crypto[_0x3b05a1(0x54a,'W!([')](_0x3b05a1(0x3aa,'g%TA'))[_0x3b05a1(0x227,'X@N)')](_0xeda4ff[_0x3b05a1(0x481,'S)sn')](encodeURIComponent,_0x1abd60))[_0x3b05a1(0x398,'g%TA')]('hex')[_0x3b05a1(0x4e2,'resf')](),new Promise(_0x4f9a6c=>{const _0x1cbe49=_0x3b05a1,_0x342fe2={'iDoRh':function(_0x42b4d6,_0x3bf79f){const _0x11a90c=_0xda81;return _0xeda4ff[_0x11a90c(0x4a6,'d)Sd')](_0x42b4d6,_0x3bf79f);},'bfpUu':function(_0x13bafb,_0x18f702){return _0xeda4ff['PXPHR'](_0x13bafb,_0x18f702);},'PwDke':function(_0x3edfca,_0x2b9881){const _0x11dc4e=_0xda81;return _0xeda4ff[_0x11dc4e(0x1c2,'5t2A')](_0x3edfca,_0x2b9881);},'EHQrn':_0x1cbe49(0x29b,'LnMN'),'KAkQN':_0x1cbe49(0x22c,'d)Sd'),'BccBs':function(_0x1a610f,_0x6637d5){const _0x320cef=_0x1cbe49;return _0xeda4ff[_0x320cef(0x536,'6ahG')](_0x1a610f,_0x6637d5);},'STctY':_0xeda4ff[_0x1cbe49(0x1e7,'KNyD')],'pYKUi':_0xeda4ff[_0x1cbe49(0x56c,'%y&N')],'BuCzb':_0xeda4ff[_0x1cbe49(0x22a,'wJHf')],'zpxpF':_0xeda4ff[_0x1cbe49(0x44e,'utaD')]};var _0x57470f={'method':_0xeda4ff[_0x1cbe49(0x30c,'alvl')],'url':_0xeda4ff['mKMzd'],'headers':{'Content-Type':_0xeda4ff[_0x1cbe49(0x3f8,'CRr2')],'xweb_xhr':'1','User-Agent':_0xeda4ff['jZTYV']},'data':_0x1ee9fa};debug&&(_0xeda4ff['AZOtq'](log,'\x0a【debug】===============\x20这是\x20\x20请求\x20url\x20==============='),_0xeda4ff['AZOtq'](log,JSON[_0x1cbe49(0x260,'t04B')](_0x57470f))),axios[_0x1cbe49(0x2dc,'yV8!')](_0x57470f)[_0x1cbe49(0x4b2,'HTYv')](async function(_0xe3dd5b){const _0x52d96b=_0x1cbe49;try{data=_0xe3dd5b[_0x52d96b(0x1f6,'g%TA')];debug&&(_0xeda4ff[_0x52d96b(0x303,'pIAz')](log,_0x52d96b(0x240,'dY%D')),log(JSON[_0x52d96b(0x36b,'yV8!')](_0xe3dd5b[_0x52d96b(0x2be,'6ahG')])));if(_0xeda4ff[_0x52d96b(0x53a,'rsk2')](data['code'],0x1)){if(_0xeda4ff[_0x52d96b(0x53c,'7VyP')](_0xeda4ff['gXDKG'],_0x52d96b(0x4f0,'7VyP')))_0xeda4ff[_0x52d96b(0x48b,'N$hN')](log,_0x52d96b(0x1f2,'D(]3')+data[_0x52d96b(0x2eb,'pIAz')][_0x52d96b(0x3e0,'^a!B')]);else{const _0x469038={'gJIwD':function(_0x157ae5,_0x373b90){return _0x157ae5+_0x373b90;}};var _0x122c09=[];for(var _0x8102ae in _0x2cde73){var _0x3f1d49=_0x1784e3[_0x8102ae];_0x342fe2[_0x52d96b(0x1a3,'ekrS')](_0x3f1d49[_0x52d96b(0x4c4,'cxhZ')],_0x1408ef)?_0x3f1d49[_0x52d96b(0x4a9,'2oEZ')](function(_0x1137f7){const _0x15a74c=_0x52d96b;_0x122c09[_0x15a74c(0x292,'6ahG')](_0x469038[_0x15a74c(0x477,'yV8!')](_0x8102ae+'=',_0x1137f7));}):_0x122c09[_0x52d96b(0x1c4,'S)sn')](_0x342fe2['bfpUu'](_0x342fe2[_0x52d96b(0x4eb,'resf')](_0x8102ae,'='),_0x3f1d49));}return _0x122c09[_0x52d96b(0x202,'%y&N')]('&');}}else log(_0x52d96b(0x431,'rsk2')+data['msg']);await _0xeda4ff['QzAfg'](checkin6);}catch(_0x147090){if(_0xeda4ff[_0x52d96b(0x50b,'1Q4z')]!==_0xeda4ff[_0x52d96b(0x2bf,'7]lZ')]){let _0x42757d=this[_0x52d96b(0x285,'CRr2')](_0x342fe2[_0x52d96b(0x22b,'g%TA')]);_0x42757d=_0x42757d?_0x42757d[_0x52d96b(0x2ae,'R1Xr')](/\n/g,'')[_0x52d96b(0x245,'5rKg')]():_0x42757d;let _0x1a122a=this[_0x52d96b(0x332,'KNyD')](_0x342fe2[_0x52d96b(0x318,'va$Q')]);_0x1a122a=_0x1a122a?_0x342fe2['BccBs'](0x1,_0x1a122a):0x14,_0x1a122a=_0x3d32d9&&_0x5bad3e[_0x52d96b(0x1e4,'LH%%')]?_0x503929[_0x52d96b(0x1bb,'R1Xr')]:_0x1a122a;const [_0x133549,_0x5a2fb6]=_0x42757d[_0x52d96b(0x2e6,'LH%%')]('@'),_0xf70cf1={'url':_0x52d96b(0x204,'FUYF')+_0x5a2fb6+'/v1/scripting/evaluate','body':{'script_text':_0x16043f,'mock_type':_0x342fe2['STctY'],'timeout':_0x1a122a},'headers':{'X-Key':_0x133549,'Accept':_0x342fe2[_0x52d96b(0x1e3,'1Q4z')]}};this['post'](_0xf70cf1,(_0x458386,_0x262c15,_0x21122c)=>_0x5e2e4e(_0x21122c));}else _0xeda4ff[_0x52d96b(0x2bd,'HTYv')](log,_0x52d96b(0x241,'7]lZ')+data+_0x52d96b(0x19f,'MG]*')+data['message']);}})[_0x1cbe49(0x1aa,'va$Q')](function(_0x137b0a){const _0x304c8a=_0x1cbe49;if(_0x342fe2[_0x304c8a(0x1bd,'g%TA')]!==_0x342fe2['zpxpF'])console[_0x304c8a(0x390,'&2TI')](_0x137b0a);else return this[_0x304c8a(0x1c9,'yV8!')]()||this[_0x304c8a(0x51f,'RJt#')]()?_0x3d7e7d[_0x304c8a(0x40b,'cxhZ')](_0x11edff,_0x8f7876):this['isQuanX']()?_0x33bfe0[_0x304c8a(0x3ac,'alvl')](_0x2e5692,_0x44d467):this[_0x304c8a(0x47b,'D(]3')]()?(this[_0x304c8a(0x2bb,'8aYL')]=this[_0x304c8a(0x33b,'7VyP')](),this['data'][_0x78b755]=_0x1a2c83,this[_0x304c8a(0x2fa,'S)sn')](),!0x0):this[_0x304c8a(0x24c,'rsk2')]&&this[_0x304c8a(0x4f5,'W!([')][_0x2211a3]||null;})[_0x1cbe49(0x4aa,'ekrS')](_0xa1be23=>{const _0x47a2d1=_0x1cbe49;_0xeda4ff[_0x47a2d1(0x30d,'wJHf')](_0x4f9a6c);});});}async function checkin4(){const _0x2941fb=_0xfcb5b0,_0x79033b={'ZpTBT':function(_0x34ee0c,_0x5973c2){return _0x34ee0c(_0x5973c2);},'rXceE':function(_0x2d6ec7,_0x57ccd3){return _0x2d6ec7!==_0x57ccd3;},'YnWBu':_0x2941fb(0x4f7,'1Q4z'),'rANgN':_0x2941fb(0x300,'1Q4z'),'ujgvV':function(_0xe24172,_0x4704a1){return _0xe24172(_0x4704a1);},'DRvPP':function(_0x411715,_0xeb6454){return _0x411715(_0xeb6454);},'AWhHT':function(_0x57fda6){return _0x57fda6();},'OSCyO':function(_0x23b3bd,_0x5278c5){return _0x23b3bd===_0x5278c5;},'HSNss':function(_0x5a3634,_0x52a0f6){return _0x5a3634===_0x52a0f6;},'HgtTA':_0x2941fb(0x49c,'aOTO'),'xaIDI':_0x2941fb(0x1ad,'jeiZ'),'ciFCs':_0x2941fb(0x328,'aOTO'),'dSLzY':_0x2941fb(0x3df,'5t2A'),'sEedq':function(_0xbf4c5e,_0x24ebe7){return _0xbf4c5e(_0x24ebe7);},'SqwiG':_0x2941fb(0x4af,'5]d!'),'aGjca':function(_0x5854e7,_0x5a20ec){return _0x5854e7+_0x5a20ec;},'MDgtb':function(_0x3122a5,_0x247e41){return _0x3122a5(_0x247e41);},'pvCOC':_0x2941fb(0x2f4,'alvl'),'FLIyA':_0x2941fb(0x45d,'MG]*')},_0x2e127c=new Date()[_0x2941fb(0x295,'W!([')]();let _0x4eecb0=Object[_0x2941fb(0x293,'W!([')](_0x79033b['ZpTBT'](filterEmpty,a),{'integralactivity_id':0x6,'id':0x4,'visit_type':0x2a4,'raffle_type':0x2,'code_type':0x1,'wxapp_id':0x2714,'token':ybshd,'timestamp':_0x2e127c,'secret':_0x79033b[_0x2941fb(0x476,'(V3c')]}),_0x139259=_0x79033b[_0x2941fb(0x50c,'7VyP')](_0x79033b[_0x2941fb(0x4a5,'ekrS')](urlEncode,ksort(_0x4eecb0)),_0x79033b[_0x2941fb(0x480,'pIAz')]);return _0x4eecb0[_0x2941fb(0x1a1,'yV8!')]=crypto['createHash'](_0x79033b[_0x2941fb(0x3c3,'TX2W')])['update'](_0x79033b[_0x2941fb(0x445,'B)Ge')](encodeURIComponent,_0x139259))[_0x2941fb(0x3a9,'hs5z')](_0x79033b['FLIyA'])['toUpperCase'](),new Promise(_0x11b002=>{const _0x412244=_0x2941fb,_0x4d6a11={'aJmac':function(_0x10b903,_0x201921){const _0x472584=_0xda81;return _0x79033b[_0x472584(0x41d,'CRr2')](_0x10b903,_0x201921);},'yioOn':function(_0x1b8fa8,_0x3f6f84){const _0x431e6c=_0xda81;return _0x79033b[_0x431e6c(0x372,'LnMN')](_0x1b8fa8,_0x3f6f84);},'qwNXM':_0x79033b['YnWBu'],'NLcSw':_0x79033b[_0x412244(0x2e8,'KNyD')],'jLvUE':function(_0x3d1a38,_0x539d4f){return _0x79033b['ujgvV'](_0x3d1a38,_0x539d4f);},'wQHxa':function(_0x5a4d51,_0x2fa3c8){const _0x355266=_0x412244;return _0x79033b[_0x355266(0x52f,'l^Rx')](_0x5a4d51,_0x2fa3c8);},'kNbRG':function(_0x3017d1){return _0x79033b['AWhHT'](_0x3017d1);},'nkhWF':function(_0x3378fa,_0x2ddbee){return _0x79033b['OSCyO'](_0x3378fa,_0x2ddbee);},'KfmYq':_0x412244(0x208,'7]lZ'),'jqHnK':function(_0x423605,_0x12f3b1){return _0x423605||_0x12f3b1;},'TNjbQ':function(_0x4fe2a8,_0x3b3a7e){return _0x79033b['OSCyO'](_0x4fe2a8,_0x3b3a7e);}};if(_0x79033b[_0x412244(0x4ef,'B)Ge')](_0x79033b[_0x412244(0x1fc,'RJt#')],_0x79033b['xaIDI']))_0x3dfec0['length']>0x0&&(this[_0x412244(0x41f,'(dEz')]=[...this[_0x412244(0x2c3,'&2TI')],..._0x3336cf]),_0x2c3cde[_0x412244(0x271,'R1Xr')](_0x872d8d[_0x412244(0x2f8,'LH%%')](this[_0x412244(0x47f,'cxhZ')]));else{var _0x44d764={'method':_0x412244(0x4d4,'t04B'),'url':_0x79033b['ciFCs'],'headers':{'Content-Type':_0x412244(0x4cb,'(E*w'),'xweb_xhr':'1','User-Agent':_0x79033b['dSLzY']},'data':_0x4eecb0};debug&&(_0x79033b[_0x412244(0x21e,'2oEZ')](log,_0x412244(0x3a8,'(E*w')),log(JSON[_0x412244(0x3a3,'5]d!')](_0x44d764))),axios[_0x412244(0x19b,'wJHf')](_0x44d764)[_0x412244(0x4e0,'FUYF')](async function(_0x1886fc){const _0x55039d=_0x412244;try{_0x4d6a11['yioOn'](_0x4d6a11['qwNXM'],_0x4d6a11[_0x55039d(0x367,'alvl')])?(_0x3db7e6=_0x199286['data'],_0x307020&&(_0x3a0e83(_0x55039d(0x430,'aOTO')),_0x4d6a11['aJmac'](_0x5c71e2,_0x19ee66['stringify'](_0x309bf8[_0x55039d(0x273,'^a!B')])))):(data=_0x1886fc[_0x55039d(0x284,'(V3c')],debug&&(_0x4d6a11[_0x55039d(0x37e,'RJt#')]===_0x4d6a11[_0x55039d(0x49f,'6ahG')]?(_0x4d6a11['jLvUE'](log,_0x55039d(0x53f,'RJt#')),_0x4d6a11[_0x55039d(0x485,'KNyD')](log,JSON[_0x55039d(0x3fc,'LH%%')](_0x1886fc[_0x55039d(0x3ff,'d)Sd')]))):_0x4d6a11[_0x55039d(0x1f1,'(E*w')](_0x4a0c64,_0x55039d(0x53b,'yV8!')+_0x2f5929+_0x55039d(0x294,'N$hN')+_0x31dc5f[_0x55039d(0x2c0,'ekrS')])),data[_0x55039d(0x26c,'wJHf')]==0x1?log(_0x55039d(0x253,'MG]*')+data[_0x55039d(0x2ca,'5t2A')][_0x55039d(0x20b,'pIAz')]):log(_0x55039d(0x425,'aOTO')+data['msg']),await _0x4d6a11[_0x55039d(0x296,'LH%%')](checkin5));}catch(_0x21d0a9){log(_0x55039d(0x2c5,'CRr2')+data+'，原因：'+data[_0x55039d(0x42b,'7VyP')]);}})[_0x412244(0x4a8,'KNyD')](function(_0x4abce3){const _0x3b2bb4=_0x412244;console[_0x3b2bb4(0x34b,'ekrS')](_0x4abce3);})[_0x412244(0x3cb,'l^Rx')](_0x428dc1=>{const _0x521b2c=_0x412244,_0x1701e2={'taDMO':function(_0x2157d5,_0x51db47){const _0x7b6407=_0xda81;return _0x4d6a11[_0x7b6407(0x475,'TX2W')](_0x2157d5,_0x51db47);},'cvIZC':_0x4d6a11[_0x521b2c(0x382,'8aYL')],'UdVjT':function(_0x4b0a34,_0x3e9156){const _0x35e355=_0x521b2c;return _0x4d6a11[_0x35e355(0x3f9,'pIAz')](_0x4b0a34,_0x3e9156);}};if(_0x4d6a11['TNjbQ'](_0x521b2c(0x510,'1VtW'),_0x521b2c(0x370,'pIAz')))_0x11b002();else{const [,_0x87df48,_0x787baa]=/^@(.*?)\.(.*?)$/[_0x521b2c(0x4e5,'&2TI')](_0x2cab9c),_0x2f9e0f=this[_0x521b2c(0x55a,'1VtW')](_0x87df48),_0xa3fe86=_0x87df48?_0x1701e2['taDMO'](_0x1701e2['cvIZC'],_0x2f9e0f)?null:_0x1701e2['UdVjT'](_0x2f9e0f,'{}'):'{}';try{const _0x14a80c=_0x2945f1['parse'](_0xa3fe86);this[_0x521b2c(0x2b7,'resf')](_0x14a80c,_0x787baa,_0x23346a),_0x15a6d5=this[_0x521b2c(0x1ae,'HTYv')](_0x554a7f[_0x521b2c(0x260,'t04B')](_0x14a80c),_0x87df48);}catch(_0x48804c){const _0x5caa01={};this[_0x521b2c(0x30a,'1Q4z')](_0x5caa01,_0x787baa,_0x31fa60),_0x3b83c0=this[_0x521b2c(0x566,'aOTO')](_0x3b6e5a['stringify'](_0x5caa01),_0x87df48);}}});}});}async function checkin5(){const _0x1f19bd=_0xfcb5b0,_0x1a3064={'KvwjE':function(_0x195ad1,_0x128623){return _0x195ad1!==_0x128623;},'eUlZn':_0x1f19bd(0x4ff,'5rKg'),'UjuBO':function(_0x116319,_0x322053){return _0x116319(_0x322053);},'DLiqA':function(_0x432c8f,_0x537756){return _0x432c8f==_0x537756;},'ywLOl':function(_0x3b72a3,_0x364422){return _0x3b72a3(_0x364422);},'zgpRd':function(_0x173a0e,_0x333796){return _0x173a0e===_0x333796;},'aIDBb':'NZtSF','UVAQr':function(_0x65aab3){return _0x65aab3();},'hfBnb':_0x1f19bd(0x43c,'(V3c'),'dkvPi':_0x1f19bd(0x379,'5rKg'),'PNNdi':function(_0xa96791,_0x5c0b02){return _0xa96791(_0x5c0b02);},'IQFQq':'36c8edde3d61c0411511d3b1866f0680','gNDbK':function(_0x57bbb8,_0x5d4424){return _0x57bbb8(_0x5d4424);},'UbjwV':function(_0x58441d,_0x16c13b){return _0x58441d(_0x16c13b);},'OnEhT':_0x1f19bd(0x1b8,'R1Xr')},_0x28e915=new Date()['getTime']();let _0x34dd56=Object['assign'](_0x1a3064[_0x1f19bd(0x1fe,'pIAz')](filterEmpty,a),{'integralactivity_id':0x6,'id':0x4,'visit_type':0x2a4,'raffle_type':0x3,'code_type':0x1,'wxapp_id':0x2714,'token':ybshd,'timestamp':_0x28e915,'secret':_0x1a3064['IQFQq']}),_0x213d07=_0x1a3064[_0x1f19bd(0x495,'cxhZ')](urlEncode,_0x1a3064[_0x1f19bd(0x21d,'va$Q')](ksort,_0x34dd56))+_0x1a3064[_0x1f19bd(0x4a3,'g%TA')];return _0x34dd56[_0x1f19bd(0x4e9,'5rKg')]=crypto['createHash']('md5')[_0x1f19bd(0x1cf,'hs5z')](encodeURIComponent(_0x213d07))[_0x1f19bd(0x4c0,'LnMN')](_0x1a3064['OnEhT'])[_0x1f19bd(0x2b1,'dY%D')](),new Promise(_0x36bc1c=>{const _0x2341fb=_0x1f19bd,_0x4487cf={'SLBGR':function(_0x42bb00,_0x3eb992,_0x508d8d,_0x274c94){return _0x42bb00(_0x3eb992,_0x508d8d,_0x274c94);},'arTkM':function(_0x46a1f0){return _0x1a3064['UVAQr'](_0x46a1f0);}};var _0x493337={'method':_0x1a3064[_0x2341fb(0x3bd,'aOTO')],'url':_0x2341fb(0x3bc,'5t2A'),'headers':{'Content-Type':_0x2341fb(0x551,'(dEz'),'xweb_xhr':'1','User-Agent':_0x1a3064[_0x2341fb(0x35a,'yV8!')]},'data':_0x34dd56};debug&&(_0x1a3064[_0x2341fb(0x4f3,'1Q4z')](log,_0x2341fb(0x1ed,'B)Ge')),_0x1a3064[_0x2341fb(0x546,'R1Xr')](log,JSON[_0x2341fb(0x532,'d)Sd')](_0x493337))),axios[_0x2341fb(0x297,'rsk2')](_0x493337)[_0x2341fb(0x38c,'5]d!')](async function(_0x22f093){const _0xfacbad=_0x2341fb;try{if(_0x1a3064[_0xfacbad(0x450,'hs5z')](_0x1a3064['eUlZn'],_0x1a3064[_0xfacbad(0x2e4,'g%TA')])){const {statusCode:_0xbba3b0,statusCode:_0x1d0d12,headers:_0x16c5a3,body:_0x34415b}=_0x1fff53;_0x4487cf[_0xfacbad(0x48f,'5rKg')](_0x537a72,null,{'status':_0xbba3b0,'statusCode':_0x1d0d12,'headers':_0x16c5a3,'body':_0x34415b},_0x34415b);}else data=_0x22f093[_0xfacbad(0x24d,'(E*w')],debug&&(log('\x0a\x0a【debug】===============这是\x20返回data=============='),_0x1a3064[_0xfacbad(0x496,'HTYv')](log,JSON[_0xfacbad(0x334,'utaD')](_0x22f093[_0xfacbad(0x3ff,'d)Sd')]))),_0x1a3064['DLiqA'](data[_0xfacbad(0x376,'(V3c')],0x1)?_0x1a3064[_0xfacbad(0x3ae,'ekrS')](log,_0xfacbad(0x3b1,'6ahG')+data[_0xfacbad(0x24d,'(E*w')][_0xfacbad(0x444,'R1Xr')]):_0x1a3064['UjuBO'](log,_0xfacbad(0x55e,'^a!B')+data[_0xfacbad(0x438,'(V3c')]);}catch(_0x31b5f7){if(_0x1a3064[_0xfacbad(0x349,'2oEZ')](_0x1a3064[_0xfacbad(0x418,'KNyD')],_0x1a3064[_0xfacbad(0x2ed,'(E*w')]))_0x1a3064[_0xfacbad(0x494,'LnMN')](log,_0xfacbad(0x36c,'cxhZ')+data+'，原因：'+data[_0xfacbad(0x45a,'yV8!')]);else return new _0x2607dc(_0x4a896c=>{const _0x59a6c5=_0xfacbad;this[_0x59a6c5(0x1dd,'(E*w')]({'url':_0x43eb3f},(_0x233ccc,_0x405a7a,_0x1c6fbb)=>_0x4a896c(_0x1c6fbb));});}})[_0x2341fb(0x514,'ekrS')](function(_0x3e4dc5){console['error'](_0x3e4dc5);})['then'](_0x380da5=>{const _0x23d45e=_0x2341fb;_0x4487cf[_0x23d45e(0x456,'X@N)')](_0x36bc1c);});});}function _0xda81(_0x39a567,_0x31ed19){const _0x190ad3=_0x190a();return _0xda81=function(_0xda817,_0x187216){_0xda817=_0xda817-0x18d;let _0x19610e=_0x190ad3[_0xda817];if(_0xda81['mmkosK']===undefined){var _0x3f5aaa=function(_0x38ff28){const _0x32b775='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x11f8ba='',_0x5456cb='';for(let _0x21df08=0x0,_0x46db70,_0x447ffe,_0x428354=0x0;_0x447ffe=_0x38ff28['charAt'](_0x428354++);~_0x447ffe&&(_0x46db70=_0x21df08%0x4?_0x46db70*0x40+_0x447ffe:_0x447ffe,_0x21df08++%0x4)?_0x11f8ba+=String['fromCharCode'](0xff&_0x46db70>>(-0x2*_0x21df08&0x6)):0x0){_0x447ffe=_0x32b775['indexOf'](_0x447ffe);}for(let _0xd0dae=0x0,_0x1447ee=_0x11f8ba['length'];_0xd0dae<_0x1447ee;_0xd0dae++){_0x5456cb+='%'+('00'+_0x11f8ba['charCodeAt'](_0xd0dae)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5456cb);};const _0x463cf2=function(_0x227567,_0x514ea9){let _0x255cb2=[],_0x4ff715=0x0,_0x382a89,_0x564475='';_0x227567=_0x3f5aaa(_0x227567);let _0x3190db;for(_0x3190db=0x0;_0x3190db<0x100;_0x3190db++){_0x255cb2[_0x3190db]=_0x3190db;}for(_0x3190db=0x0;_0x3190db<0x100;_0x3190db++){_0x4ff715=(_0x4ff715+_0x255cb2[_0x3190db]+_0x514ea9['charCodeAt'](_0x3190db%_0x514ea9['length']))%0x100,_0x382a89=_0x255cb2[_0x3190db],_0x255cb2[_0x3190db]=_0x255cb2[_0x4ff715],_0x255cb2[_0x4ff715]=_0x382a89;}_0x3190db=0x0,_0x4ff715=0x0;for(let _0x3d4c31=0x0;_0x3d4c31<_0x227567['length'];_0x3d4c31++){_0x3190db=(_0x3190db+0x1)%0x100,_0x4ff715=(_0x4ff715+_0x255cb2[_0x3190db])%0x100,_0x382a89=_0x255cb2[_0x3190db],_0x255cb2[_0x3190db]=_0x255cb2[_0x4ff715],_0x255cb2[_0x4ff715]=_0x382a89,_0x564475+=String['fromCharCode'](_0x227567['charCodeAt'](_0x3d4c31)^_0x255cb2[(_0x255cb2[_0x3190db]+_0x255cb2[_0x4ff715])%0x100]);}return _0x564475;};_0xda81['Clincw']=_0x463cf2,_0x39a567=arguments,_0xda81['mmkosK']=!![];}const _0x69a8da=_0x190ad3[0x0],_0x20b857=_0xda817+_0x69a8da,_0x5c9e44=_0x39a567[_0x20b857];return!_0x5c9e44?(_0xda81['DCvFsU']===undefined&&(_0xda81['DCvFsU']=!![]),_0x19610e=_0xda81['Clincw'](_0x19610e,_0x187216),_0x39a567[_0x20b857]=_0x19610e):_0x19610e=_0x5c9e44,_0x19610e;},_0xda81(_0x39a567,_0x31ed19);}async function checkin6(){const _0x8ac09f=_0xfcb5b0,_0x3a675e={'odtxN':function(_0x21e3e4,_0x381141,_0x3e2b40,_0x5a56f1){return _0x21e3e4(_0x381141,_0x3e2b40,_0x5a56f1);},'VZcBA':function(_0x2611d6,_0xcdec56){return _0x2611d6!==_0xcdec56;},'QdWTI':_0x8ac09f(0x205,'l^Rx'),'DFqAz':function(_0x3c36be,_0x121a55){return _0x3c36be(_0x121a55);},'exaxA':_0x8ac09f(0x44a,'1Q4z'),'MdPhK':_0x8ac09f(0x488,'2oEZ'),'WDbUy':_0x8ac09f(0x39b,'LnMN'),'OQXJA':_0x8ac09f(0x381,'RJt#'),'ylXje':_0x8ac09f(0x2e3,'^a!B'),'JGllm':_0x8ac09f(0x4d0,'resf'),'yrOKQ':'fKvJp','VJIml':'36c8edde3d61c0411511d3b1866f0680','ZWcfs':function(_0x383fe5,_0x4f2887){return _0x383fe5+_0x4f2887;},'BXvoT':function(_0xbd511,_0x2fcc60){return _0xbd511(_0x2fcc60);},'SniLJ':_0x8ac09f(0x508,'cxhZ'),'wYofO':function(_0x4f508f,_0x5bc529){return _0x4f508f(_0x5bc529);},'TqueC':_0x8ac09f(0x279,'5]d!')},_0x481d2a=new Date()[_0x8ac09f(0x479,'RJt#')]();let _0xdecb56=Object['assign'](_0x3a675e['DFqAz'](filterEmpty,a),{'ad':0x21,'share_id':0x79617,'integralactivity_id':0x6,'ascription_id':0xe7ca,'activity_code':0x1,'code_type':0x1,'wxapp_id':0x2714,'token':ybshd,'timestamp':_0x481d2a,'secret':_0x3a675e['VJIml']}),_0x1d0574=_0x3a675e[_0x8ac09f(0x354,'1VtW')](_0x3a675e[_0x8ac09f(0x47d,'8aYL')](urlEncode,_0x3a675e[_0x8ac09f(0x197,'(dEz')](ksort,_0xdecb56)),_0x3a675e[_0x8ac09f(0x550,'6ahG')]);return _0xdecb56[_0x8ac09f(0x228,'LnMN')]=crypto[_0x8ac09f(0x210,'resf')](_0x3a675e[_0x8ac09f(0x343,'R1Xr')])[_0x8ac09f(0x33f,'2oEZ')](_0x3a675e['wYofO'](encodeURIComponent,_0x1d0574))['digest'](_0x3a675e[_0x8ac09f(0x277,'S)sn')])['toUpperCase'](),new Promise(_0x576d65=>{const _0x14ba00=_0x8ac09f,_0x5768c9={'gThWW':function(_0x1d43fb,_0x593460,_0x419bfa,_0x4427af){const _0x4b68f1=_0xda81;return _0x3a675e[_0x4b68f1(0x249,'5]d!')](_0x1d43fb,_0x593460,_0x419bfa,_0x4427af);},'JrtUc':function(_0x49206e,_0x292b1f){return _0x49206e(_0x292b1f);},'xQZUp':function(_0x2ecab8,_0x5c4433){const _0x294779=_0xda81;return _0x3a675e[_0x294779(0x3d6,'va$Q')](_0x2ecab8,_0x5c4433);},'TqqFF':_0x3a675e['QdWTI'],'TvJjJ':function(_0x36d328,_0x20fe5a){const _0x425db5=_0xda81;return _0x3a675e[_0x425db5(0x4c6,'7VyP')](_0x36d328,_0x20fe5a);},'lmfNy':_0x3a675e[_0x14ba00(0x298,'5]d!')],'aKaLe':function(_0x2fb6dd){return _0x2fb6dd();}};var _0xfc6f32={'method':_0x3a675e[_0x14ba00(0x55d,'TX2W')],'url':_0x3a675e['WDbUy'],'headers':{'Content-Type':_0x3a675e[_0x14ba00(0x2c6,'KNyD')],'xweb_xhr':'1','User-Agent':_0x3a675e[_0x14ba00(0x4f9,'utaD')]},'data':_0xdecb56};debug&&(_0x3a675e[_0x14ba00(0x53d,'N$hN')]===_0x3a675e['yrOKQ']?_0xc7b499[_0x14ba00(0x2d2,'R1Xr')](_0x33ed8f):(log(_0x14ba00(0x487,'(V3c')),log(JSON[_0x14ba00(0x39a,'(E*w')](_0xfc6f32)))),axios[_0x14ba00(0x4d9,'pIAz')](_0xfc6f32)[_0x14ba00(0x2d3,'N$hN')](async function(_0x227649){const _0x5cbf08=_0x14ba00,_0x24571c={'pNEJO':function(_0x3ee36a,_0x332555){return _0x3ee36a&&_0x332555;},'NxjPp':function(_0x1bb3e7,_0x55bd41,_0x213108,_0x5543b7){return _0x5768c9['gThWW'](_0x1bb3e7,_0x55bd41,_0x213108,_0x5543b7);}};try{data=_0x227649[_0x5cbf08(0x2ca,'5t2A')],debug&&(_0x5768c9['JrtUc'](log,_0x5cbf08(0x329,'l^Rx')),log(JSON[_0x5cbf08(0x243,'5rKg')](_0x227649[_0x5cbf08(0x353,'t04B')])));}catch(_0x3e1eeb){_0x5768c9['xQZUp'](_0x5768c9['TqqFF'],_0x5cbf08(0x39d,'8aYL'))?_0x5768c9[_0x5cbf08(0x4a2,'CRr2')](log,_0x5cbf08(0x1f0,'X@N)')+data+'，原因：'+data[_0x5cbf08(0x4c5,'MG]*')]):(_0x24571c[_0x5cbf08(0x498,'g%TA')](!_0x496d9f,_0x582e6d)&&(_0xda0dc3['body']=_0x3bf000,_0x38c739['statusCode']=_0x453972['status']),_0x24571c[_0x5cbf08(0x211,'6ahG')](_0x1946e2,_0x58e268,_0x327038,_0x165e3e));}})['catch'](function(_0x357c4a){const _0x21bb52=_0x14ba00;_0x5768c9[_0x21bb52(0x4b6,'KNyD')]==='vUosJ'?_0x1862e3['push'](_0x10b5ff+'='+_0x2a3fda):console[_0x21bb52(0x4e1,'va$Q')](_0x357c4a);})[_0x14ba00(0x38d,'X@N)')](_0x4e4a63=>{_0x5768c9['aKaLe'](_0x576d65);});});}async function checkin3(){const _0x28c437=_0xfcb5b0,_0x1e47a6={'Mvxus':_0x28c437(0x1c0,'(V3c'),'YLZAv':'gubuB','FTAEQ':function(_0x5fc6e2,_0x429684){return _0x5fc6e2(_0x429684);},'rTcMw':_0x28c437(0x2ec,'&2TI'),'dkKPy':function(_0x11029f,_0x3a0d6d){return _0x11029f===_0x3a0d6d;},'DumMg':'xcjof','RzdNX':function(_0x4f6470){return _0x4f6470();},'HcMyh':_0x28c437(0x2c7,'7]lZ'),'niLDx':_0x28c437(0x3e7,'utaD'),'XvHsT':function(_0x559ae1,_0x231bb3){return _0x559ae1(_0x231bb3);},'XlfUB':'36c8edde3d61c0411511d3b1866f0680','sgIAy':function(_0x4005e8,_0x2ea4a8){return _0x4005e8(_0x2ea4a8);},'FDOxM':'md5','BxNPo':function(_0x353aec,_0x12d053){return _0x353aec(_0x12d053);}},_0x553ddb=new Date()[_0x28c437(0x355,'D(]3')]();let _0x1e6210=Object[_0x28c437(0x327,'7]lZ')](filterEmpty(a),{'page':0x1,'mechanism_id':0x273a,'wxapp_id':0x2714,'token':ybshd,'timestamp':_0x553ddb,'secret':_0x1e47a6[_0x28c437(0x331,'LH%%')]}),_0x48186a=urlEncode(_0x1e47a6[_0x28c437(0x4c3,'LH%%')](ksort,_0x1e6210))+_0x1e47a6['XlfUB'];return _0x1e6210[_0x28c437(0x1cb,'R1Xr')]=crypto[_0x28c437(0x210,'resf')](_0x1e47a6[_0x28c437(0x242,'MG]*')])['update'](_0x1e47a6[_0x28c437(0x270,'RJt#')](encodeURIComponent,_0x48186a))['digest'](_0x28c437(0x434,'hs5z'))[_0x28c437(0x3a4,'&2TI')](),new Promise(_0x77822c=>{const _0xd53f9b=_0x28c437,_0x1fdec3={'nmkxJ':function(_0x4bdcbe,_0xfb7b16){return _0x4bdcbe!=_0xfb7b16;},'Caqms':_0x1e47a6[_0xd53f9b(0x3ee,'LH%%')],'sJGCj':_0x1e47a6[_0xd53f9b(0x426,'LnMN')],'mlYga':function(_0x2e37c,_0x5d2698){return _0x2e37c(_0x5d2698);},'hHJLX':function(_0x3a5696,_0xf29e5c){const _0x3d053a=_0xd53f9b;return _0x1e47a6[_0x3d053a(0x4dc,'g%TA')](_0x3a5696,_0xf29e5c);},'Qadfr':function(_0x4d18a5,_0x4eceac){return _0x4d18a5!==_0x4eceac;},'PEZrv':_0x1e47a6[_0xd53f9b(0x465,'l^Rx')],'uEEgg':function(_0x2360f5,_0x2bd32b){const _0x3eea26=_0xd53f9b;return _0x1e47a6[_0x3eea26(0x209,'KNyD')](_0x2360f5,_0x2bd32b);},'BAhEP':_0x1e47a6[_0xd53f9b(0x4b7,'^a!B')],'kPDGt':'YmSmF','ykJYw':function(_0x5a8223){return _0x1e47a6['RzdNX'](_0x5a8223);}};var _0x1ddc2e={'method':_0x1e47a6[_0xd53f9b(0x2b2,'d)Sd')],'url':'https://mall.0512kq.cn/index.php?s=/apimicrov4/goods/goodsList','headers':{'Content-Type':_0xd53f9b(0x216,'hs5z'),'xweb_xhr':'1','User-Agent':_0x1e47a6[_0xd53f9b(0x544,'5rKg')]},'data':_0x1e6210};debug&&(log(_0xd53f9b(0x2a0,'N$hN')),_0x1e47a6[_0xd53f9b(0x192,'TX2W')](log,JSON[_0xd53f9b(0x415,'l^Rx')](_0x1ddc2e))),axios[_0xd53f9b(0x31f,'1VtW')](_0x1ddc2e)['then'](async function(_0x58e452){const _0x45cb31=_0xd53f9b;try{data=_0x58e452[_0x45cb31(0x421,'7]lZ')];if(debug){if(_0x1fdec3[_0x45cb31(0x4f8,'6ahG')]!==_0x1fdec3[_0x45cb31(0x569,'5t2A')])_0x1fdec3['mlYga'](log,'\x0a\x0a【debug】===============这是\x20返回data=============='),_0x1fdec3[_0x45cb31(0x1eb,'X@N)')](log,JSON['stringify'](_0x58e452[_0x45cb31(0x1f6,'g%TA')]));else return _0x1fdec3[_0x45cb31(0x493,'KNyD')]('undefined',typeof _0x10e380)&&!!_0x4b62cb[_0x45cb31(0x3ab,'jeiZ')];}log(_0x45cb31(0x269,'resf')+data[_0x45cb31(0x2b4,'&2TI')]['per_page']);}catch(_0x42e19d){if(_0x1fdec3[_0x45cb31(0x2f6,'aOTO')](_0x1fdec3['PEZrv'],_0x1fdec3['PEZrv']))try{return this[_0x45cb31(0x4d8,'7VyP')](_0x46fab8[_0x45cb31(0x3b6,'(dEz')](_0x3071f0),_0xe38c9b);}catch{return!0x1;}else log(_0x45cb31(0x3e9,'R1Xr')+data+'，原因：'+data[_0x45cb31(0x47c,'KNyD')]);}})[_0xd53f9b(0x221,'(E*w')](function(_0x513a19){const _0xcf3a00=_0xd53f9b;if(_0x1fdec3[_0xcf3a00(0x23e,'t04B')](_0x1fdec3['BAhEP'],_0x1fdec3[_0xcf3a00(0x1c1,'hs5z')])){let _0xd38940=['',_0xcf3a00(0x4fc,'%y&N')];_0xd38940[_0xcf3a00(0x3e4,'5t2A')](_0x6cd969),_0x5013d4&&_0xd38940[_0xcf3a00(0x292,'6ahG')](_0x38e700),_0x48208e&&_0xd38940['push'](_0x4039c4),_0x4f053a[_0xcf3a00(0x2dd,'rsk2')](_0xd38940[_0xcf3a00(0x490,'(dEz')]('\x0a')),this['logs']=this[_0xcf3a00(0x3e1,'S)sn')][_0xcf3a00(0x1af,'alvl')](_0xd38940);}else console[_0xcf3a00(0x472,'D(]3')](_0x513a19);})[_0xd53f9b(0x40c,'rsk2')](_0x125127=>{const _0x4fb027=_0xd53f9b;_0x1fdec3[_0x4fb027(0x4ac,'7]lZ')](_0x77822c);});});}function filterEmpty(_0x40bf95){const _0x3ad36d=_0xfcb5b0,_0x14cb03={'XrwSy':function(_0x157ec2,_0x30e6ed){return _0x157ec2!==_0x30e6ed;}};var _0x2a666e={};for(var _0x55a62f in _0x40bf95)(_0x40bf95[_0x55a62f]&&_0x14cb03[_0x3ad36d(0x20f,'LH%%')](_0x3ad36d(0x208,'7]lZ'),_0x40bf95[_0x55a62f])&&''!==_0x40bf95[_0x55a62f]||'0'==_0x40bf95[_0x55a62f])&&(_0x2a666e[_0x55a62f]=_0x40bf95[_0x55a62f]);return _0x2a666e;}function urlEncode(_0xde6c8e){const _0x170ef2=_0xfcb5b0,_0x25bac7={'ZeRKE':function(_0x33fe58,_0x1a9c9f){return _0x33fe58+_0x1a9c9f;},'MpqRb':function(_0x56d6af,_0x1dc763){return _0x56d6af(_0x1dc763);},'qeCeM':function(_0x5b2d0e,_0x469942){return _0x5b2d0e(_0x469942);},'hmwGq':'oXDUD','XuUEl':function(_0x27cf62,_0x190c23){return _0x27cf62==_0x190c23;}};var _0x337251=[];for(var _0x5a67e9 in _0xde6c8e){if(_0x25bac7[_0x170ef2(0x256,'d)Sd')]===_0x170ef2(0x20a,'HTYv')){var _0x366784=_0xde6c8e[_0x5a67e9];_0x25bac7[_0x170ef2(0x34c,'aOTO')](_0x366784[_0x170ef2(0x45e,'(E*w')],Array)?_0x366784[_0x170ef2(0x226,'R1Xr')](function(_0x2278ea){_0x337251['push'](_0x25bac7['ZeRKE'](_0x25bac7['ZeRKE'](_0x5a67e9,'='),_0x2278ea));}):_0x337251['push'](_0x25bac7[_0x170ef2(0x2e9,'ekrS')](_0x5a67e9,'=')+_0x366784);}else try{_0x1fd77f=_0x221a05[_0x170ef2(0x4f5,'W!([')],_0x133c2c&&(_0x25bac7[_0x170ef2(0x4b3,'MG]*')](_0x1eeb80,_0x170ef2(0x1a8,'cxhZ')),_0x25bac7['qeCeM'](_0x4d8fd1,_0x4037ff[_0x170ef2(0x1b7,'^a!B')](_0x36361c[_0x170ef2(0x380,'resf')])));}catch(_0x17d1b2){_0x33b7d9(_0x170ef2(0x2c8,'(V3c')+_0x30b029+_0x170ef2(0x4a4,'X@N)')+_0x46fc89['message']);}}return _0x337251[_0x170ef2(0x265,'S)sn')]('&');}function ksort(_0x7252c0){const _0xa4e189=_0xfcb5b0;var _0x566d89={},_0x704d51=Object[_0xa4e189(0x52b,'1VtW')](_0x7252c0);return _0x704d51[_0xa4e189(0x267,'D(]3')](),_0x704d51[_0xa4e189(0x32c,'t04B')](function(_0x164aaf){_0x566d89[_0x164aaf]=_0x7252c0[_0x164aaf];}),_0x566d89;}async function Envs(){const _0x258ee0=_0xfcb5b0,_0x3dd786={'ioBbk':'set-cookie','uwyzm':function(_0x8a9ea4,_0x208800){return _0x8a9ea4!=_0x208800;},'hPzlu':function(_0x2d8040,_0x1800dd){return _0x2d8040!=_0x1800dd;},'PXQZc':function(_0x4616d2,_0x215ee9){return _0x4616d2!==_0x215ee9;},'abDcV':'tUyBP','cLOoh':_0x258ee0(0x363,'yV8!'),'aYSii':'tAzLm'};if(ybshd){if(_0x3dd786[_0x258ee0(0x51d,'cxhZ')](ybshd[_0x258ee0(0x3a0,'CRr2')]('&'),-0x1))ybshd[_0x258ee0(0x27e,'S)sn')]('&')[_0x258ee0(0x3d0,'MG]*')](_0x876ee8=>{ybshdArr['push'](_0x876ee8);});else{if(_0x3dd786['hPzlu'](ybshd['indexOf']('\x0a'),-0x1)){if(_0x3dd786[_0x258ee0(0x42c,'D(]3')](_0x3dd786['abDcV'],_0x258ee0(0x290,'W!(['))){const _0x47ea21=_0x10d4e2[_0x258ee0(0x34a,'X@N)')][_0x3dd786[_0x258ee0(0x512,'N$hN')]]['map'](this[_0x258ee0(0x3fa,'5]d!')]['Cookie'][_0x258ee0(0x3e2,'(V3c')])[_0x258ee0(0x254,'yV8!')]();_0x47ea21&&this['ckjar'][_0x258ee0(0x51c,'N$hN')](_0x47ea21,null),_0x522bf7[_0x258ee0(0x32f,'^a!B')]=this[_0x258ee0(0x1a2,'FUYF')];}else ybshd['split']('\x0a')[_0x258ee0(0x3d0,'MG]*')](_0x585c8a=>{const _0x4d7b2c=_0x258ee0;ybshdArr[_0x4d7b2c(0x4e6,'(E*w')](_0x585c8a);});}else _0x3dd786['PXQZc'](_0x258ee0(0x1f9,'(V3c'),_0x3dd786['cLOoh'])?_0x447603[_0x2a9862]=_0x53c046[_0x4bf7f2]:ybshdArr[_0x258ee0(0x503,'5]d!')](ybshd);}}else{if('tAzLm'!==_0x3dd786[_0x258ee0(0x3ed,'ekrS')])_0x459bf2[_0x258ee0(0x317,'MG]*')]('&')['forEach'](_0x59e97e=>{const _0x3675a1=_0x258ee0;_0x33481b[_0x3675a1(0x4e8,'HTYv')](_0x59e97e);});else{log(_0x258ee0(0x49a,'W!([')+$[_0x258ee0(0x28e,'%y&N')]+_0x258ee0(0x568,'N$hN'));return;}}return!![];}function addNotifyStr(_0x4204a4,_0x192dcb=!![]){const _0x5a27f3=_0xfcb5b0,_0x166ace={'zlAQP':function(_0x5e70bc,_0x12b1be){return _0x5e70bc(_0x12b1be);}};_0x192dcb&&_0x166ace[_0x5a27f3(0x4d7,'%y&N')](log,_0x4204a4+'\x0a'),msg+=_0x4204a4+'\x0a';}async function SendMsg(_0x4f5738){const _0x482483=_0xfcb5b0,_0xae208={'rXjOg':function(_0x1d064a,_0x218151){return _0x1d064a>_0x218151;},'iqbRw':_0x482483(0x41c,'va$Q'),'tqZUn':_0x482483(0x1a5,'%y&N'),'GALxE':function(_0x254e54,_0x439901){return _0x254e54===_0x439901;},'HFAUX':_0x482483(0x307,'7]lZ'),'yoWJs':_0x482483(0x25b,'pIAz')};if(!_0x4f5738)return;if(_0xae208[_0x482483(0x29a,'rsk2')](Notify,0x0)){if($[_0x482483(0x463,'jeiZ')]()){var _0x4163b3=require(_0xae208[_0x482483(0x36a,'dY%D')]);await _0x4163b3[_0x482483(0x207,'va$Q')]($['name'],_0x4f5738);}else{if(_0xae208[_0x482483(0x440,'D(]3')]!==_0x482483(0x263,'6ahG'))$[_0x482483(0x527,'6ahG')](_0x4f5738);else return!0x1;}}else{if(_0xae208[_0x482483(0x35e,'6ahG')](_0xae208[_0x482483(0x21a,'B)Ge')],_0xae208['yoWJs']))return new _0x4d9677(_0x330494=>_0x20711d(_0x330494,_0x396732));else log(_0x4f5738);}}function randomString(_0x3c1bcf){const _0x5aa9d2=_0xfcb5b0,_0x51731c={'Tfzia':function(_0x5a64d6,_0x56bbab){return _0x5a64d6!==_0x56bbab;},'nUlAj':function(_0x42d478,_0x4eae86){return _0x42d478<_0x4eae86;}};for(var _0x3c8a0a=_0x3c1bcf>0x0&&_0x51731c[_0x5aa9d2(0x30f,'aOTO')](void 0x0,_0x3c1bcf)?_0x3c1bcf:0x15,_0x113152='';_0x51731c[_0x5aa9d2(0x2a9,'LH%%')](_0x113152[_0x5aa9d2(0x42a,'D(]3')],_0x3c8a0a);)_0x113152+=Math[_0x5aa9d2(0x3c5,'W!([')]()[_0x5aa9d2(0x4ec,'HTYv')](0x24)['slice'](0x2);return _0x113152[_0x5aa9d2(0x3a5,'LH%%')](0x0,_0x3c8a0a);}function randomnum(_0x59309a){const _0x4cfb37=_0xfcb5b0,_0x341e5d={'qspHm':function(_0x5c81a6,_0x1fea11){return _0x5c81a6<_0x1fea11;},'qSoyb':function(_0x1567d8,_0x273029){return _0x1567d8*_0x273029;}};_0x59309a=_0x59309a||0x20;var _0x1fe653='1234567890',_0x18e61f=_0x1fe653[_0x4cfb37(0x386,'(V3c')],_0x467dd7='';for(i=0x0;_0x341e5d[_0x4cfb37(0x1f8,'utaD')](i,_0x59309a);i++)_0x467dd7+=_0x1fe653[_0x4cfb37(0x21f,'5t2A')](Math[_0x4cfb37(0x18f,'S)sn')](_0x341e5d['qSoyb'](Math[_0x4cfb37(0x1e0,'7VyP')](),_0x18e61f)));return _0x467dd7;}function Env(_0x4ad131,_0x221774){const _0x470067=_0xfcb5b0,_0x57982d={'lYmdz':_0x470067(0x535,'ekrS'),'SVIVg':function(_0xd4f494,_0xe1a53a){return _0xd4f494===_0xe1a53a;},'KnQHe':_0x470067(0x371,'(E*w'),'dErss':function(_0x253805,_0x51da47){return _0x253805==_0x51da47;},'liZDQ':_0x470067(0x3f1,'aOTO'),'DQllR':_0x470067(0x1d0,'jeiZ'),'RXXYk':function(_0x380356,_0x51d2c9){return _0x380356!==_0x51d2c9;},'SdeWy':'oEjoc','ZnaXE':function(_0x51f411,_0x670ff6){return _0x51f411(_0x670ff6);},'AaVVv':_0x470067(0x43f,'CRr2'),'zqrkz':'KaBWM','EXJhk':function(_0x2c90b4,_0x23092c){return _0x2c90b4!=_0x23092c;},'Imnuv':_0x470067(0x50f,'^a!B'),'txPWh':function(_0x3fc32f,_0x1c0d79){return _0x3fc32f!=_0x1c0d79;},'BPdFF':function(_0x5cd033,_0x42e725){return _0x5cd033!=_0x42e725;},'NSjUh':function(_0x67660c,_0x4de696){return _0x67660c==_0x4de696;},'bVMnE':'uKALA','eSYyD':_0x470067(0x56a,'6ahG'),'ZjCLt':_0x470067(0x2ad,'resf'),'voEgL':_0x470067(0x42d,'N$hN'),'OsOqv':_0x470067(0x2b5,'hs5z'),'CPrVZ':function(_0x2b2878,_0x27c271){return _0x2b2878||_0x27c271;},'xBMgH':'1234567890','dLgHv':function(_0x289b86,_0x97cbc4){return _0x289b86<_0x97cbc4;},'AZQgK':function(_0x53a0dd,_0x38c330){return _0x53a0dd*_0x38c330;},'sbQWO':function(_0x2f1f06,_0x2ea743){return _0x2f1f06!==_0x2ea743;},'rsECX':_0x470067(0x407,'aOTO'),'xxQPq':'@chavy_boxjs_userCfgs.httpapi','EPVEO':_0x470067(0x338,'LnMN'),'pwBbl':_0x470067(0x2e7,'5t2A'),'ICxFr':'*/*','aphDf':_0x470067(0x504,'B)Ge'),'FlNpq':function(_0x11bb22,_0x43800d){return _0x11bb22&&_0x43800d;},'ICFsI':'RzZSd','dnjfO':'HnFOL','oqegR':_0x470067(0x49d,'5t2A'),'girFo':_0x470067(0x29d,'MG]*'),'ncmYF':function(_0x28d950,_0x52224e){return _0x28d950-_0x52224e;},'zmlLx':'KoUJi','OrEVQ':function(_0x2a3a08,_0x9cba1a){return _0x2a3a08+_0x9cba1a;},'wgoxq':function(_0x13d3d6,_0xe48877){return _0x13d3d6+_0xe48877;},'XirOD':function(_0xe33c9d,_0x2592a4){return _0xe33c9d(_0x2592a4);},'WspXv':_0x470067(0x39f,'aOTO'),'wizrU':function(_0x1a3a93,_0x3d3de2){return _0x1a3a93===_0x3d3de2;},'RXqta':_0x470067(0x3ce,'^a!B'),'sUpYc':'eCsWn','sITYw':function(_0x4e79c5,_0x172b87){return _0x4e79c5===_0x172b87;},'yzbtX':'null','CVDmX':'fVZaz','ztuWA':_0x470067(0x43d,'LH%%'),'AbtRS':function(_0x2c1306,_0xb86b3f){return _0x2c1306(_0xb86b3f);},'LoSks':_0x470067(0x4bb,'7VyP'),'aHSqL':function(_0x40b2a6,_0x12b867){return _0x40b2a6===_0x12b867;},'novWr':function(_0x29e9d4,_0xe73507,_0x487c69,_0x25b8b6){return _0x29e9d4(_0xe73507,_0x487c69,_0x25b8b6);},'tlOQa':function(_0x4db8e4,_0x54a032){return _0x4db8e4&&_0x54a032;},'SJrls':function(_0x4055ac,_0x1debde){return _0x4055ac(_0x1debde);},'SrpNM':_0x470067(0x26f,'RJt#'),'eICuS':'IUqnS','zQKpY':_0x470067(0x37d,'l^Rx'),'MbmWl':'Content-Type','PwUqz':_0x470067(0x448,'va$Q'),'wQHNy':function(_0x5e7679,_0x250ae7){return _0x5e7679===_0x250ae7;},'sEmKX':_0x470067(0x404,'LH%%'),'xFODG':function(_0x21252a,_0x3a2ba4,_0x3a5e2f,_0x5debc7){return _0x21252a(_0x3a2ba4,_0x3a5e2f,_0x5debc7);},'CntNP':'TLPaM','tUTqo':'OBGuJ','PNxtt':_0x470067(0x3af,'cxhZ'),'RQLPg':_0x470067(0x571,'5t2A'),'MLuij':function(_0x21837f,_0x44d9db){return _0x21837f/_0x44d9db;},'uyMLD':function(_0x4e3d49,_0x13a876){return _0x4e3d49+_0x13a876;},'XTBbO':function(_0x49842a,_0x128ac9){return _0x49842a==_0x128ac9;},'zHRNK':function(_0x1505dc,_0x56f11b){return _0x1505dc(_0x56f11b);},'ItFtr':function(_0x3aa0b1,_0x1e8417){return _0x3aa0b1==_0x1e8417;},'uQldi':'hsnfm','RdpdG':function(_0x22ebc0,_0x3490a9){return _0x22ebc0(_0x3490a9);},'WFKLB':function(_0x316774,_0x1060fb,_0xba49c0,_0x35cfa2,_0x168720){return _0x316774(_0x1060fb,_0xba49c0,_0x35cfa2,_0x168720);},'vxTqZ':function(_0x42a1bf,_0x454a09){return _0x42a1bf(_0x454a09);},'orofa':function(_0x4a7b41,_0x354688){return _0x4a7b41!==_0x354688;},'QRIEk':_0x470067(0x235,'yV8!'),'clayN':_0x470067(0x52c,'1Q4z'),'UVonw':_0x470067(0x2c4,'5t2A'),'rAilJ':_0x470067(0x194,'d)Sd'),'Eodjt':function(_0x410e84,_0x4c1085){return _0x410e84(_0x4c1085);},'kUvUc':function(_0x217ea4,_0x27aac8){return _0x217ea4>_0x27aac8;},'VNUSS':'GITHUB'};_0x57982d['Imnuv']!=typeof process&&_0x57982d[_0x470067(0x359,'X@N)')](JSON[_0x470067(0x36b,'yV8!')](process['env'])['indexOf'](_0x57982d[_0x470067(0x1de,'W!([')]),-0x1)&&process[_0x470067(0x33a,'jeiZ')](0x0);class _0x4a9c87{constructor(_0x21f694){const _0x2b9003=_0x470067;if(_0x57982d['lYmdz']===_0x2b9003(0x19a,'va$Q')){const _0x18f839={};this[_0x2b9003(0x193,'B)Ge')](_0x18f839,_0x28028f,_0x569bba),_0x405976=this['setval'](_0x3486d8[_0x2b9003(0x286,'B)Ge')](_0x18f839),_0x1a9d2a);}else this['env']=_0x21f694;}['send'](_0xb05397,_0x4e443b=_0x470067(0x27a,'7]lZ')){const _0x4fd9ad=_0x470067,_0x71e330={'fRtYh':function(_0x215a9b,_0x2733e3){return _0x215a9b(_0x2733e3);}};if(_0x57982d[_0x4fd9ad(0x40e,'1Q4z')](_0x57982d[_0x4fd9ad(0x441,'l^Rx')],_0x57982d[_0x4fd9ad(0x56f,'MG]*')])){_0xb05397=_0x57982d[_0x4fd9ad(0x1db,'alvl')](_0x57982d['liZDQ'],typeof _0xb05397)?{'url':_0xb05397}:_0xb05397;let _0x3ac6d8=this[_0x4fd9ad(0x526,'W!([')];return _0x57982d['DQllR']===_0x4e443b&&(_0x3ac6d8=this[_0x4fd9ad(0x4d5,'dY%D')]),new Promise((_0x1c415c,_0x239f8f)=>{const _0x281cf0=_0x4fd9ad;_0x3ac6d8[_0x281cf0(0x341,'1VtW')](this,_0xb05397,(_0x28a769,_0x25365f,_0x40dc7a)=>{_0x28a769?_0x71e330['fRtYh'](_0x239f8f,_0x28a769):_0x1c415c(_0x25365f);});});}else{var _0x10f8e3={},_0x233b9f=_0xd6c1c6[_0x4fd9ad(0x258,'X@N)')](_0x519b91);return _0x233b9f[_0x4fd9ad(0x1c6,'HTYv')](),_0x233b9f['forEach'](function(_0x5a4208){_0x10f8e3[_0x5a4208]=_0x63dcbe[_0x5a4208];}),_0x10f8e3;}}['get'](_0x4be11f){const _0x691b47=_0x470067;return this[_0x691b47(0x3c2,'5]d!')][_0x691b47(0x522,'(dEz')](this[_0x691b47(0x3d7,'RJt#')],_0x4be11f);}['post'](_0x434bcd){const _0x4754bf=_0x470067;if(_0x57982d[_0x4754bf(0x49e,'HTYv')](_0x57982d[_0x4754bf(0x1b0,'1Q4z')],_0x4754bf(0x224,'8aYL')))return this['send'][_0x4754bf(0x429,'resf')](this['env'],_0x434bcd,_0x4754bf(0x281,'X@N)'));else _0x55eab4['error'](_0x533313);}}return new class{constructor(_0x5c4206,_0x170692){const _0x14eb0f=_0x470067,_0x4e430f={'dxUJf':function(_0x254e0b,_0x1ab447){return _0x57982d['ZnaXE'](_0x254e0b,_0x1ab447);}};if(_0x57982d[_0x14eb0f(0x470,'%y&N')](_0x57982d[_0x14eb0f(0x251,'yV8!')],_0x14eb0f(0x406,'d)Sd')))this['name']=_0x5c4206,this[_0x14eb0f(0x423,'KNyD')]=new _0x4a9c87(this),this[_0x14eb0f(0x2ca,'5t2A')]=null,this['dataFile']=_0x14eb0f(0x4bc,'7]lZ'),this[_0x14eb0f(0x337,'7]lZ')]=[],this[_0x14eb0f(0x492,'KNyD')]=!0x1,this['isNeedRewrite']=!0x1,this[_0x14eb0f(0x1c7,'^a!B')]='\x0a',this['startTime']=new Date()['getTime'](),Object[_0x14eb0f(0x40a,'2oEZ')](this,_0x170692),this[_0x14eb0f(0x540,'FUYF')]('','🔔'+this[_0x14eb0f(0x3e5,'S)sn')]+_0x14eb0f(0x2b9,'jeiZ'));else{const _0x2d5649={'ttQyX':function(_0x58fa01,_0x1ff252){return _0x58fa01(_0x1ff252);},'uQZBq':function(_0x29571c,_0x5c3d2e){return _0x4e430f['dxUJf'](_0x29571c,_0x5c3d2e);}};_0x4a4192[_0x14eb0f(0x429,'resf')](this,_0x2f66da,(_0x32d4fc,_0x222e62,_0x3ec415)=>{const _0x1dac98=_0x14eb0f;_0x32d4fc?_0x2d5649[_0x1dac98(0x54c,'7VyP')](_0x12453f,_0x32d4fc):_0x2d5649[_0x1dac98(0x541,'5rKg')](_0x1306fe,_0x222e62);});}}[_0x470067(0x1ff,'6ahG')](){const _0x5aa0e2=_0x470067,_0x490c66={'CQbdA':function(_0xf353b6,_0x52f5db,_0x4076c9,_0x14ad5d){return _0xf353b6(_0x52f5db,_0x4076c9,_0x14ad5d);}};if(_0x57982d[_0x5aa0e2(0x394,'MG]*')](_0x5aa0e2(0x203,'W!(['),_0x57982d[_0x5aa0e2(0x45b,'6ahG')]))return _0x57982d['EXJhk'](_0x57982d['Imnuv'],typeof module)&&!!module[_0x5aa0e2(0x1f4,'X@N)')];else{const {message:_0x377d5b,response:_0x140ab5}=_0x13da41;_0x490c66[_0x5aa0e2(0x38e,'yV8!')](_0x4b491f,_0x377d5b,_0x140ab5,_0x140ab5&&_0x140ab5['body']);}}[_0x470067(0x299,'1Q4z')](){const _0x134659=_0x470067;return _0x57982d[_0x134659(0x310,'5t2A')](_0x57982d[_0x134659(0x2e0,'^a!B')],typeof $task);}[_0x470067(0x454,'D(]3')](){const _0x950ac1=_0x470067;return _0x57982d[_0x950ac1(0x2a6,'dY%D')](_0x950ac1(0x2b3,'jeiZ'),typeof $httpClient)&&_0x57982d[_0x950ac1(0x26e,'MG]*')](_0x57982d['Imnuv'],typeof $loon);}[_0x470067(0x23d,'KNyD')](){const _0x46e362=_0x470067;return _0x57982d[_0x46e362(0x301,'1Q4z')]!==_0x57982d[_0x46e362(0x27b,'RJt#')]?_0x57982d['EXJhk'](_0x57982d[_0x46e362(0x517,'MG]*')],typeof $loon):_0x5cdcca[_0x46e362(0x532,'d)Sd')](_0x381ad1);}['toObj'](_0x184553,_0x149eea=null){const _0x510b0=_0x470067;try{return JSON[_0x510b0(0x23b,'yV8!')](_0x184553);}catch{return _0x149eea;}}['toStr'](_0x386d47,_0x2e7883=null){const _0x322488=_0x470067;if(_0x57982d['RXXYk'](_0x57982d[_0x322488(0x37c,'B)Ge')],_0x57982d['ZjCLt']))_0xdc240e[_0x322488(0x419,'2oEZ')](_0x1f4eb4);else try{return JSON[_0x322488(0x4fb,'KNyD')](_0x386d47);}catch{return _0x2e7883;}}['getjson'](_0x111eeb,_0x555009){const _0x720060=_0x470067;let _0x38d290=_0x555009;const _0x4bc371=this[_0x720060(0x1cc,'HTYv')](_0x111eeb);if(_0x4bc371)try{_0x57982d[_0x720060(0x282,'2oEZ')](_0x57982d[_0x720060(0x2db,'^a!B')],_0x57982d['OsOqv'])?_0x563c73(_0x17c1dc):_0x38d290=JSON[_0x720060(0x25c,'W!([')](this[_0x720060(0x3ef,'^a!B')](_0x111eeb));}catch{}return _0x38d290;}[_0x470067(0x561,'l^Rx')](_0x414404,_0x221481){const _0x406f8e=_0x470067;try{return this[_0x406f8e(0x339,'7]lZ')](JSON[_0x406f8e(0x54e,'1Q4z')](_0x414404),_0x221481);}catch{if(_0x57982d[_0x406f8e(0x2d6,'alvl')]('OPwnF',_0x406f8e(0x2a8,'hs5z'))){const _0x5b1baa=_0x158fa7['parse'](_0x52dfcc);_0x387019=_0x5b1baa?this['lodash_get'](_0x5b1baa,_0x59363c,''):_0x2f17c3;}else return!0x1;}}[_0x470067(0x288,'^a!B')](_0x2e1e52){const _0xf698a6=_0x470067;if(_0x57982d[_0xf698a6(0x4a1,'LnMN')](_0xf698a6(0x554,'5t2A'),_0x57982d['rsECX'])){_0x1c29a1=_0x57982d['CPrVZ'](_0x1ee2a9,0x20);var _0x4415f2=_0x57982d[_0xf698a6(0x4a7,'pIAz')],_0x3ed04e=_0x4415f2[_0xf698a6(0x3c9,'FUYF')],_0x98481b='';for(_0x4f2eae=0x0;_0x57982d[_0xf698a6(0x54d,'%y&N')](_0x1a16c2,_0x20b41d);_0x293d31++)_0x98481b+=_0x4415f2[_0xf698a6(0x46a,'LH%%')](_0x17fd59[_0xf698a6(0x2cd,'l^Rx')](_0x57982d[_0xf698a6(0x565,'8aYL')](_0x55e70c['random'](),_0x3ed04e)));return _0x98481b;}else return new Promise(_0x33e3e6=>{const _0x2eac7f=_0xf698a6;this[_0x2eac7f(0x3ba,'LnMN')]({'url':_0x2e1e52},(_0x279bae,_0x4802f8,_0x437331)=>_0x33e3e6(_0x437331));});}['runScript'](_0x1313cf,_0x23fee0){const _0x1c44fd=_0x470067;return new Promise(_0x1a5a5d=>{const _0x382970=_0xda81;let _0x276ed9=this['getdata'](_0x57982d[_0x382970(0x4cc,'W!([')]);_0x276ed9=_0x276ed9?_0x276ed9[_0x382970(0x3b7,'rsk2')](/\n/g,'')[_0x382970(0x2a4,'D(]3')]():_0x276ed9;let _0x5bf72a=this['getdata'](_0x57982d[_0x382970(0x225,'X@N)')]);_0x5bf72a=_0x5bf72a?_0x57982d[_0x382970(0x38b,'6ahG')](0x1,_0x5bf72a):0x14,_0x5bf72a=_0x23fee0&&_0x23fee0[_0x382970(0x4b9,'N$hN')]?_0x23fee0[_0x382970(0x4a0,'LnMN')]:_0x5bf72a;const [_0x44a369,_0x324f33]=_0x276ed9['split']('@'),_0x28a18d={'url':'http://'+_0x324f33+'/v1/scripting/evaluate','body':{'script_text':_0x1313cf,'mock_type':_0x57982d['pwBbl'],'timeout':_0x5bf72a},'headers':{'X-Key':_0x44a369,'Accept':_0x57982d[_0x382970(0x3b9,'TX2W')]}};this[_0x382970(0x488,'2oEZ')](_0x28a18d,(_0x4044ac,_0x2a3d8f,_0x263a0e)=>_0x1a5a5d(_0x263a0e));})['catch'](_0x4de70b=>this[_0x1c44fd(0x3bf,'CRr2')](_0x4de70b));}[_0x470067(0x397,'R1Xr')](){const _0x527dbc=_0x470067;if(!this[_0x527dbc(0x361,'&2TI')]())return{};{this['fs']=this['fs']?this['fs']:_0x57982d['ZnaXE'](require,'fs'),this['path']=this[_0x527dbc(0x234,'cxhZ')]?this[_0x527dbc(0x218,'t04B')]:_0x57982d[_0x527dbc(0x474,'X@N)')](require,_0x57982d[_0x527dbc(0x520,'D(]3')]);const _0x5bd5ba=this['path']['resolve'](this[_0x527dbc(0x44d,'(V3c')]),_0xff8459=this[_0x527dbc(0x4d2,'5t2A')][_0x527dbc(0x384,'5]d!')](process['cwd'](),this[_0x527dbc(0x437,'LH%%')]),_0x4a9220=this['fs'][_0x527dbc(0x41a,'1VtW')](_0x5bd5ba),_0x4f4469=!_0x4a9220&&this['fs'][_0x527dbc(0x3d5,'jeiZ')](_0xff8459);if(_0x57982d[_0x527dbc(0x4d3,'rsk2')](!_0x4a9220,!_0x4f4469))return{};{const _0x11f53e=_0x4a9220?_0x5bd5ba:_0xff8459;try{if(_0x57982d[_0x527dbc(0x2ba,'(V3c')](_0x57982d[_0x527dbc(0x302,'R1Xr')],'ERWDS'))_0x57982d['ZnaXE'](_0x491591,_0x527dbc(0x435,'KNyD')+_0x23a74a[_0x527dbc(0x570,'va$Q')]);else return JSON['parse'](this['fs']['readFileSync'](_0x11f53e));}catch(_0x1e1c51){if(_0x57982d[_0x527dbc(0x2d6,'alvl')](_0x527dbc(0x4bf,'(V3c'),_0x57982d[_0x527dbc(0x28b,'d)Sd')]))return{};else this['get']({'url':_0x3a4a7a},(_0x519552,_0x486818,_0x264cb8)=>_0x4bbeb2(_0x264cb8));}}}}[_0x470067(0x3db,'TX2W')](){const _0x5110d0=_0x470067;if(this[_0x5110d0(0x4fd,'hs5z')]()){this['fs']=this['fs']?this['fs']:require('fs'),this[_0x5110d0(0x504,'B)Ge')]=this[_0x5110d0(0x528,'%y&N')]?this[_0x5110d0(0x408,'hs5z')]:require(_0x57982d[_0x5110d0(0x2e2,'alvl')]);const _0x69929=this[_0x5110d0(0x218,'t04B')][_0x5110d0(0x32b,'^a!B')](this['dataFile']),_0x59abfa=this[_0x5110d0(0x264,'R1Xr')][_0x5110d0(0x2ef,'TX2W')](process[_0x5110d0(0x567,'R1Xr')](),this[_0x5110d0(0x1be,'(dEz')]),_0x78ed39=this['fs']['existsSync'](_0x69929),_0x5eda83=!_0x78ed39&&this['fs']['existsSync'](_0x59abfa),_0x387d54=JSON[_0x5110d0(0x260,'t04B')](this[_0x5110d0(0x2bb,'8aYL')]);_0x78ed39?this['fs']['writeFileSync'](_0x69929,_0x387d54):_0x5eda83?this['fs'][_0x5110d0(0x502,'8aYL')](_0x59abfa,_0x387d54):this['fs']['writeFileSync'](_0x69929,_0x387d54);}}[_0x470067(0x2de,'RJt#')](_0x57987d,_0x5c0a6b,_0x43a4ef){const _0x5bc2b5=_0x470067,_0x21d801=_0x5c0a6b[_0x5bc2b5(0x447,'dY%D')](/\[(\d+)\]/g,_0x57982d[_0x5bc2b5(0x521,'X@N)')])['split']('.');let _0x3f156f=_0x57987d;for(const _0x216dd4 of _0x21d801)if(_0x3f156f=Object(_0x3f156f)[_0x216dd4],_0x57982d[_0x5bc2b5(0x39e,'t04B')](void 0x0,_0x3f156f))return _0x43a4ef;return _0x3f156f;}[_0x470067(0x4e4,'RJt#')](_0x1a7527,_0x3edc87,_0x3723f8){const _0x990411=_0x470067;return'DyVIZ'!==_0x57982d[_0x990411(0x453,'7VyP')]?_0x57982d[_0x990411(0x41b,'W!([')](Object(_0x1a7527),_0x1a7527)?_0x1a7527:(Array[_0x990411(0x2e5,'(V3c')](_0x3edc87)||(_0x3edc87=_0x3edc87['toString']()[_0x990411(0x539,'(dEz')](/[^.[\]]+/g)||[]),_0x3edc87['slice'](0x0,-0x1)['reduce']((_0x2076aa,_0x11ae68,_0x734af1)=>Object(_0x2076aa[_0x11ae68])===_0x2076aa[_0x11ae68]?_0x2076aa[_0x11ae68]:_0x2076aa[_0x11ae68]=Math[_0x990411(0x4db,'FUYF')](_0x3edc87[_0x734af1+0x1])>>0x0==+_0x3edc87[_0x734af1+0x1]?[]:{},_0x1a7527)[_0x3edc87[_0x57982d[_0x990411(0x556,'6ahG')](_0x3edc87[_0x990411(0x51b,'aOTO')],0x1)]]=_0x3723f8,_0x1a7527):this[_0x990411(0x1df,'RJt#')]['call'](this[_0x990411(0x1ce,'l^Rx')],_0x3fcd94);}[_0x470067(0x2c9,'7VyP')](_0x267feb){const _0x32af74=_0x470067;let _0x17f1ea=this[_0x32af74(0x44c,'aOTO')](_0x267feb);if(/^@/['test'](_0x267feb)){const [,_0x21a238,_0x3d0fd8]=/^@(.*?)\.(.*?)$/[_0x32af74(0x3ca,'^a!B')](_0x267feb),_0x1dd852=_0x21a238?this[_0x32af74(0x22d,'W!([')](_0x21a238):'';if(_0x1dd852)try{if(_0x57982d['zmlLx']!==_0x32af74(0x37a,'6ahG'))return _0x894e71['parse'](_0x9cff6d);else{const _0x11766e=JSON[_0x32af74(0x50e,'7]lZ')](_0x1dd852);_0x17f1ea=_0x11766e?this[_0x32af74(0x42e,'t04B')](_0x11766e,_0x3d0fd8,''):_0x17f1ea;}}catch(_0x35ec82){_0x17f1ea='';}}return _0x17f1ea;}[_0x470067(0x482,'%y&N')](_0x38ce29,_0x59b948){const _0x5d2348=_0x470067,_0x15af81={'PApjv':function(_0x12276f,_0x3d4efa){const _0x274ad3=_0xda81;return _0x57982d[_0x274ad3(0x1ca,'6ahG')](_0x12276f,_0x3d4efa);}};let _0x3ae2b6=!0x1;if(/^@/[_0x5d2348(0x340,'7]lZ')](_0x59b948)){const [,_0x2f504e,_0x26f2c8]=/^@(.*?)\.(.*?)$/[_0x5d2348(0x2ee,'(E*w')](_0x59b948),_0x38f837=this['getval'](_0x2f504e),_0x555d73=_0x2f504e?_0x57982d[_0x5d2348(0x24e,'aOTO')](_0x5d2348(0x2d1,'t04B'),_0x38f837)?null:_0x38f837||'{}':'{}';try{if(_0x57982d['RXXYk'](_0x57982d[_0x5d2348(0x38f,'(dEz')],_0x5d2348(0x531,'LH%%'))){const _0x525c01={'foYDu':function(_0x11338c,_0x1d26a5){const _0x142930=_0x5d2348;return _0x57982d[_0x142930(0x1fa,'R1Xr')](_0x11338c,_0x1d26a5);}};var _0x590f6b=_0x123955[_0x52daed];_0x590f6b[_0x5d2348(0x3a2,'2oEZ')]==_0x47cc92?_0x590f6b[_0x5d2348(0x3bb,'1Q4z')](function(_0x3ea1d2){const _0x36e851=_0x5d2348;_0xada7bd[_0x36e851(0x4e8,'HTYv')](_0x525c01['foYDu'](_0x525c01['foYDu'](_0x5f4921,'='),_0x3ea1d2));}):_0x3ccb92[_0x5d2348(0x3b3,'8aYL')](_0x57982d[_0x5d2348(0x420,'pIAz')](_0x57982d['OrEVQ'](_0x2da305,'='),_0x590f6b));}else{const _0x1f3dd6=JSON[_0x5d2348(0x575,'FUYF')](_0x555d73);this['lodash_set'](_0x1f3dd6,_0x26f2c8,_0x38ce29),_0x3ae2b6=this['setval'](JSON[_0x5d2348(0x4fb,'KNyD')](_0x1f3dd6),_0x2f504e);}}catch(_0x595836){if(_0x57982d[_0x5d2348(0x443,'va$Q')](_0x57982d[_0x5d2348(0x56d,'1VtW')],_0x5d2348(0x352,'ekrS'))){const _0x2c9487={};this['lodash_set'](_0x2c9487,_0x26f2c8,_0x38ce29),_0x3ae2b6=this[_0x5d2348(0x55f,'cxhZ')](JSON[_0x5d2348(0x389,'FUYF')](_0x2c9487),_0x2f504e);}else _0x15af81[_0x5d2348(0x449,'alvl')](_0x2449dc,_0x5d2348(0x3fe,'pIAz')+_0x41a528+_0x5d2348(0x46e,'%y&N')+_0x5e829c['message']);}}else _0x3ae2b6=this[_0x5d2348(0x2cb,'8aYL')](_0x38ce29,_0x59b948);return _0x3ae2b6;}[_0x470067(0x32a,'6ahG')](_0x2bd501){const _0x80d1a=_0x470067;return this[_0x80d1a(0x452,'utaD')]()||this[_0x80d1a(0x4de,'l^Rx')]()?$persistentStore[_0x80d1a(0x311,'1Q4z')](_0x2bd501):this[_0x80d1a(0x548,'S)sn')]()?$prefs['valueForKey'](_0x2bd501):this[_0x80d1a(0x366,'TX2W')]()?(this[_0x80d1a(0x191,'dY%D')]=this[_0x80d1a(0x397,'R1Xr')](),this[_0x80d1a(0x3f0,'cxhZ')][_0x2bd501]):this[_0x80d1a(0x191,'dY%D')]&&this[_0x80d1a(0x553,'CRr2')][_0x2bd501]||null;}['setval'](_0x37dd3f,_0x20d779){const _0x32bc34=_0x470067;return _0x57982d['wizrU'](_0x32bc34(0x403,'va$Q'),_0x57982d[_0x32bc34(0x4f6,'D(]3')])?{}:this[_0x32bc34(0x424,'W!([')]()||this['isLoon']()?$persistentStore[_0x32bc34(0x47e,'(dEz')](_0x37dd3f,_0x20d779):this['isQuanX']()?$prefs['setValueForKey'](_0x37dd3f,_0x20d779):this[_0x32bc34(0x2d4,'5rKg')]()?(this[_0x32bc34(0x309,'1VtW')]=this['loaddata'](),this['data'][_0x20d779]=_0x37dd3f,this[_0x32bc34(0x3fb,'alvl')](),!0x0):this[_0x32bc34(0x4ae,'ekrS')]&&this['data'][_0x20d779]||null;}[_0x470067(0x2bc,'rsk2')](_0x3a44a5){const _0x560f8f=_0x470067,_0x5f83eb={'kRdkv':function(_0xa98de1,_0x54c960){return _0x57982d['sITYw'](_0xa98de1,_0x54c960);},'GiuvY':_0x57982d[_0x560f8f(0x30b,'5]d!')],'JHcjK':function(_0x5cbc9d,_0x13ce09){const _0x128f59=_0x560f8f;return _0x57982d[_0x128f59(0x1bf,'l^Rx')](_0x5cbc9d,_0x13ce09);}};if(_0x57982d[_0x560f8f(0x239,'5]d!')]!==_0x57982d['CVDmX']){let _0x200e2c=!0x1;if(/^@/[_0x560f8f(0x2c2,'l^Rx')](_0x58c8fc)){const [,_0x288e47,_0x308e1b]=/^@(.*?)\.(.*?)$/[_0x560f8f(0x1a7,'5t2A')](_0x5ec49b),_0x58a851=this['getval'](_0x288e47),_0x1e488f=_0x288e47?_0x5f83eb[_0x560f8f(0x34e,'alvl')](_0x5f83eb[_0x560f8f(0x358,'(E*w')],_0x58a851)?null:_0x5f83eb[_0x560f8f(0x4f1,'d)Sd')](_0x58a851,'{}'):'{}';try{const _0x18e646=_0x9e920d[_0x560f8f(0x410,'TX2W')](_0x1e488f);this['lodash_set'](_0x18e646,_0x308e1b,_0x8a245e),_0x200e2c=this[_0x560f8f(0x3e6,'(V3c')](_0x4b29dd[_0x560f8f(0x389,'FUYF')](_0x18e646),_0x288e47);}catch(_0x3740a6){const _0x7afdf6={};this[_0x560f8f(0x48a,'R1Xr')](_0x7afdf6,_0x308e1b,_0x532ae8),_0x200e2c=this[_0x560f8f(0x266,'%y&N')](_0x194429[_0x560f8f(0x378,'S)sn')](_0x7afdf6),_0x288e47);}}else _0x200e2c=this[_0x560f8f(0x314,'wJHf')](_0x3fa394,_0xe5a416);return _0x200e2c;}else this[_0x560f8f(0x1bc,'5rKg')]=this[_0x560f8f(0x29c,'dY%D')]?this[_0x560f8f(0x55b,'1Q4z')]:require(_0x57982d[_0x560f8f(0x26a,'HTYv')]),this[_0x560f8f(0x1fd,'CRr2')]=this['cktough']?this[_0x560f8f(0x414,'hs5z')]:_0x57982d[_0x560f8f(0x325,'FUYF')](require,_0x57982d[_0x560f8f(0x56b,'HTYv')]),this['ckjar']=this['ckjar']?this['ckjar']:new this[(_0x560f8f(0x1d7,'aOTO'))]['CookieJar'](),_0x3a44a5&&(_0x3a44a5[_0x560f8f(0x229,'RJt#')]=_0x3a44a5[_0x560f8f(0x558,'(V3c')]?_0x3a44a5['headers']:{},void 0x0===_0x3a44a5[_0x560f8f(0x34f,'8aYL')][_0x560f8f(0x1b2,'KNyD')]&&_0x57982d[_0x560f8f(0x509,'2oEZ')](void 0x0,_0x3a44a5[_0x560f8f(0x28f,'utaD')])&&(_0x3a44a5['cookieJar']=this[_0x560f8f(0x305,'va$Q')]));}['get'](_0xa2470,_0x1acb6d=()=>{}){const _0x8e08f1=_0x470067,_0x429626={'XevYW':function(_0x11fadb,_0x54ec06){const _0x3a0ca6=_0xda81;return _0x57982d[_0x3a0ca6(0x4cf,'RJt#')](_0x11fadb,_0x54ec06);},'hBAMK':_0x8e08f1(0x574,'d)Sd'),'ChMxx':function(_0x49ca4e,_0x1ddda6){const _0x10f977=_0x8e08f1;return _0x57982d[_0x10f977(0x486,'alvl')](_0x49ca4e,_0x1ddda6);},'bxBZi':function(_0x3b7018,_0x33d496,_0x2e91e2,_0x593d4a){const _0x16280e=_0x8e08f1;return _0x57982d[_0x16280e(0x54b,'yV8!')](_0x3b7018,_0x33d496,_0x2e91e2,_0x593d4a);},'UjTUn':function(_0x3a0ce7,_0x311b25){const _0x53bd6d=_0x8e08f1;return _0x57982d[_0x53bd6d(0x319,'%y&N')](_0x3a0ce7,_0x311b25);},'cLrZY':function(_0x5834dc,_0x444cf0){const _0x348142=_0x8e08f1;return _0x57982d[_0x348142(0x27d,'(V3c')](_0x5834dc,_0x444cf0);},'jDLWP':_0x57982d[_0x8e08f1(0x399,'LnMN')],'TBWId':function(_0x4e0506,_0x5b66c5){return _0x4e0506===_0x5b66c5;},'jqUDC':_0x57982d[_0x8e08f1(0x52a,'TX2W')],'qpnni':_0x57982d[_0x8e08f1(0x356,'RJt#')]};_0xa2470[_0x8e08f1(0x464,'1VtW')]&&(delete _0xa2470['headers'][_0x57982d['MbmWl']],delete _0xa2470[_0x8e08f1(0x3f7,'TX2W')][_0x57982d[_0x8e08f1(0x401,'yV8!')]]),this[_0x8e08f1(0x289,'rsk2')]()||this[_0x8e08f1(0x1ac,'2oEZ')]()?(this[_0x8e08f1(0x1a6,'hs5z')]()&&this[_0x8e08f1(0x534,'cxhZ')]&&(_0xa2470[_0x8e08f1(0x47a,'g%TA')]=_0xa2470[_0x8e08f1(0x3cf,'wJHf')]||{},Object['assign'](_0xa2470[_0x8e08f1(0x3f7,'TX2W')],{'X-Surge-Skip-Scripting':!0x1})),$httpClient[_0x8e08f1(0x276,'1VtW')](_0xa2470,(_0x6376de,_0x3f6fca,_0x194990)=>{const _0x36f6cb=_0x8e08f1,_0x4fb51f={'oUCCy':function(_0x57ce1e,_0x130b3c){return _0x429626['XevYW'](_0x57ce1e,_0x130b3c);}};_0x429626['hBAMK']!==_0x429626[_0x36f6cb(0x416,'hs5z')]?(_0x4fb51f['oUCCy'](_0x3c3149,_0x36f6cb(0x2cf,'N$hN')),_0x4fb51f[_0x36f6cb(0x1d9,'TX2W')](_0x2fe2d5,_0x5841ef[_0x36f6cb(0x524,'7VyP')](_0x245d87[_0x36f6cb(0x2b4,'&2TI')]))):(_0x429626[_0x36f6cb(0x1b4,'(V3c')](!_0x6376de,_0x3f6fca)&&(_0x3f6fca[_0x36f6cb(0x468,'8aYL')]=_0x194990,_0x3f6fca[_0x36f6cb(0x27c,'KNyD')]=_0x3f6fca['status']),_0x429626[_0x36f6cb(0x56e,'d)Sd')](_0x1acb6d,_0x6376de,_0x3f6fca,_0x194990));})):this[_0x8e08f1(0x543,'1VtW')]()?(this['isNeedRewrite']&&(_0xa2470['opts']=_0xa2470[_0x8e08f1(0x336,'FUYF')]||{},Object[_0x8e08f1(0x351,'LnMN')](_0xa2470['opts'],{'hints':!0x1})),$task[_0x8e08f1(0x342,'1VtW')](_0xa2470)['then'](_0x4f87e1=>{const _0x3d507d=_0x8e08f1,{statusCode:_0x470202,statusCode:_0x80c4a8,headers:_0x5aed49,body:_0x8fba9}=_0x4f87e1;_0x57982d[_0x3d507d(0x31d,'l^Rx')](_0x1acb6d,null,{'status':_0x470202,'statusCode':_0x80c4a8,'headers':_0x5aed49,'body':_0x8fba9},_0x8fba9);},_0x16c9fc=>_0x1acb6d(_0x16c9fc))):this[_0x8e08f1(0x563,'7]lZ')]()&&(this[_0x8e08f1(0x2fd,'MG]*')](_0xa2470),this[_0x8e08f1(0x451,'X@N)')](_0xa2470)['on'](_0x8e08f1(0x230,'B)Ge'),(_0x294f4b,_0x543360)=>{const _0x5ac81e=_0x8e08f1,_0x292605={'hCaDA':function(_0x2de0e0,_0x2e24cb){return _0x429626['UjTUn'](_0x2de0e0,_0x2e24cb);},'Xemoi':function(_0x3fdcaf,_0x26ba06){return _0x3fdcaf(_0x26ba06);}};try{if(_0x429626['cLrZY'](_0x429626['jDLWP'],_0x429626[_0x5ac81e(0x516,'rsk2')]))_0x292605[_0x5ac81e(0x446,'X@N)')](_0x2d85fc,_0x10df51+'\x0a');else{if(_0x294f4b['headers']['set-cookie']){if(_0x429626[_0x5ac81e(0x28a,'8aYL')](_0x429626[_0x5ac81e(0x4b8,'N$hN')],_0x5ac81e(0x304,'RJt#')))_0x292605[_0x5ac81e(0x2d0,'R1Xr')](_0x32b775,_0x5ac81e(0x2a2,'ekrS')+_0x11f8ba);else{const _0x4bf383=_0x294f4b['headers'][_0x429626['qpnni']][_0x5ac81e(0x259,'LnMN')](this['cktough']['Cookie'][_0x5ac81e(0x432,'dY%D')])['toString']();_0x4bf383&&this[_0x5ac81e(0x3b5,'7VyP')][_0x5ac81e(0x236,'d)Sd')](_0x4bf383,null),_0x543360[_0x5ac81e(0x32f,'^a!B')]=this[_0x5ac81e(0x4c2,'TX2W')];}}}}catch(_0x4080b1){this[_0x5ac81e(0x280,'LH%%')](_0x4080b1);}})['then'](_0x1a07ae=>{const {statusCode:_0x39dbba,statusCode:_0xf03482,headers:_0x4125bf,body:_0x1e63ff}=_0x1a07ae;_0x1acb6d(null,{'status':_0x39dbba,'statusCode':_0xf03482,'headers':_0x4125bf,'body':_0x1e63ff},_0x1e63ff);},_0x301d6b=>{const {message:_0x3ddb03,response:_0x36ff3a}=_0x301d6b;_0x1acb6d(_0x3ddb03,_0x36ff3a,_0x36ff3a&&_0x36ff3a['body']);}));}['post'](_0x14fe20,_0x15d495=()=>{}){const _0x2621ee=_0x470067,_0x72c7b7={'wHgXh':_0x57982d[_0x2621ee(0x1d2,'&2TI')],'eHPdG':function(_0x3116d2,_0x572b3f){const _0x539fc6=_0x2621ee;return _0x57982d[_0x539fc6(0x212,'l^Rx')](_0x3116d2,_0x572b3f);},'eBGUK':function(_0x545487,_0xaea456){const _0x51c790=_0x2621ee;return _0x57982d[_0x51c790(0x35b,'(dEz')](_0x545487,_0xaea456);},'AlkIt':function(_0x21beef,_0x427eec,_0x5860e9,_0x5db683){return _0x57982d['xFODG'](_0x21beef,_0x427eec,_0x5860e9,_0x5db683);},'QNrmy':function(_0x6b2466,_0x3077ac,_0x456466,_0x21b52d){return _0x6b2466(_0x3077ac,_0x456466,_0x21b52d);}};if(_0x14fe20[_0x2621ee(0x40d,'MG]*')]&&_0x14fe20[_0x2621ee(0x2f7,'aOTO')]&&!_0x14fe20[_0x2621ee(0x558,'(V3c')][_0x57982d['MbmWl']]&&(_0x14fe20['headers'][_0x57982d[_0x2621ee(0x1b6,'cxhZ')]]=_0x57982d[_0x2621ee(0x519,'HTYv')]),_0x14fe20['headers']&&delete _0x14fe20[_0x2621ee(0x497,'7VyP')][_0x57982d['PwUqz']],this['isSurge']()||this[_0x2621ee(0x471,'S)sn')]())this['isSurge']()&&this[_0x2621ee(0x22e,'B)Ge')]&&(_0x14fe20[_0x2621ee(0x330,'(E*w')]=_0x14fe20[_0x2621ee(0x1dc,'CRr2')]||{},Object[_0x2621ee(0x275,'%y&N')](_0x14fe20['headers'],{'X-Surge-Skip-Scripting':!0x1})),$httpClient['post'](_0x14fe20,(_0x5282aa,_0x4decf2,_0x189fd4)=>{const _0x17371d=_0x2621ee;if(_0x57982d['wQHNy'](_0x17371d(0x404,'LH%%'),_0x57982d[_0x17371d(0x3de,'R1Xr')]))!_0x5282aa&&_0x4decf2&&(_0x4decf2[_0x17371d(0x518,'FUYF')]=_0x189fd4,_0x4decf2['statusCode']=_0x4decf2[_0x17371d(0x369,'R1Xr')]),_0x57982d[_0x17371d(0x4bd,'alvl')](_0x15d495,_0x5282aa,_0x4decf2,_0x189fd4);else{var _0x3c05ba={};for(var _0x31474f in _0x5ba4d4)(_0xacc47a[_0x31474f]&&_0x72c7b7[_0x17371d(0x20d,'rsk2')]!==_0x1b751f[_0x31474f]&&_0x72c7b7[_0x17371d(0x214,'S)sn')]('',_0x26ab8a[_0x31474f])||_0x72c7b7['eBGUK']('0',_0x432e5d[_0x31474f]))&&(_0x3c05ba[_0x31474f]=_0x220db3[_0x31474f]);return _0x3c05ba;}});else{if(this[_0x2621ee(0x315,'KNyD')]())_0x14fe20[_0x2621ee(0x200,'LH%%')]=_0x57982d[_0x2621ee(0x24a,'7]lZ')],this[_0x2621ee(0x2a1,'resf')]&&(_0x14fe20[_0x2621ee(0x4d6,'S)sn')]=_0x14fe20[_0x2621ee(0x2f0,'d)Sd')]||{},Object[_0x2621ee(0x351,'LnMN')](_0x14fe20[_0x2621ee(0x4d1,'RJt#')],{'hints':!0x1})),$task[_0x2621ee(0x515,'%y&N')](_0x14fe20)['then'](_0x329a5f=>{const _0x19e623=_0x2621ee,{statusCode:_0x7bdac8,statusCode:_0x5ce9b8,headers:_0x112c57,body:_0x3cb4c4}=_0x329a5f;_0x72c7b7[_0x19e623(0x3dc,'1VtW')](_0x15d495,null,{'status':_0x7bdac8,'statusCode':_0x5ce9b8,'headers':_0x112c57,'body':_0x3cb4c4},_0x3cb4c4);},_0x133692=>_0x15d495(_0x133692));else{if(this[_0x2621ee(0x537,'cxhZ')]()){this[_0x2621ee(0x3e8,'6ahG')](_0x14fe20);const {url:_0x20c43f,..._0x2465db}=_0x14fe20;this[_0x2621ee(0x33c,'d)Sd')]['post'](_0x20c43f,_0x2465db)[_0x2621ee(0x222,'g%TA')](_0x41b9e6=>{const _0x133dc4=_0x2621ee,{statusCode:_0x5e807f,statusCode:_0x4cde24,headers:_0x3e1f3d,body:_0x4a0249}=_0x41b9e6;_0x72c7b7[_0x133dc4(0x31b,'W!([')](_0x15d495,null,{'status':_0x5e807f,'statusCode':_0x4cde24,'headers':_0x3e1f3d,'body':_0x4a0249},_0x4a0249);},_0x43970f=>{const _0x26b567=_0x2621ee,_0x215e6d={'xOYpy':function(_0x1a37a9,_0x136cde){return _0x1a37a9&&_0x136cde;},'XnsPE':function(_0x451435,_0x365e24,_0x42ab8a,_0x2d9ff3){const _0x383fb2=_0xda81;return _0x57982d[_0x383fb2(0x3c8,'7]lZ')](_0x451435,_0x365e24,_0x42ab8a,_0x2d9ff3);}};if(_0x57982d[_0x26b567(0x2ab,'wJHf')](_0x57982d[_0x26b567(0x533,'ekrS')],_0x57982d['tUTqo']))_0x215e6d[_0x26b567(0x344,'aOTO')](!_0x3bc0d4,_0x162cd5)&&(_0x4a7dfa[_0x26b567(0x43b,'1Q4z')]=_0x3836ee,_0x465e59['statusCode']=_0x256912[_0x26b567(0x19d,'alvl')]),_0x215e6d['XnsPE'](_0x4c4324,_0x193cbe,_0x3ec382,_0x3090fd);else{const {message:_0x4fb7ef,response:_0x1cfbeb}=_0x43970f;_0x57982d[_0x26b567(0x360,'7]lZ')](_0x15d495,_0x4fb7ef,_0x1cfbeb,_0x1cfbeb&&_0x1cfbeb[_0x26b567(0x333,'R1Xr')]);}});}}}}[_0x470067(0x312,'t04B')](_0x4b1e33,_0x33bace=null){const _0x1bf6fc=_0x470067;if(_0x57982d[_0x1bf6fc(0x3cc,'%y&N')](_0x1bf6fc(0x190,'5rKg'),_0x57982d[_0x1bf6fc(0x1d8,'resf')]))_0x5ccc22['error'](_0x4d8e78);else{const _0x46ced7=_0x33bace?new Date(_0x33bace):new Date();let _0x3fb527={'M+':_0x46ced7[_0x1bf6fc(0x20c,'yV8!')]()+0x1,'d+':_0x46ced7['getDate'](),'H+':_0x46ced7[_0x1bf6fc(0x2aa,'HTYv')](),'m+':_0x46ced7[_0x1bf6fc(0x246,'(E*w')](),'s+':_0x46ced7[_0x1bf6fc(0x4e7,'rsk2')](),'q+':Math['floor'](_0x57982d[_0x1bf6fc(0x478,'8aYL')](_0x57982d['OrEVQ'](_0x46ced7[_0x1bf6fc(0x348,'N$hN')](),0x3),0x3)),'S':_0x46ced7[_0x1bf6fc(0x2ea,'5rKg')]()};/(y+)/['test'](_0x4b1e33)&&(_0x4b1e33=_0x4b1e33[_0x1bf6fc(0x1b9,'1VtW')](RegExp['$1'],(_0x46ced7[_0x1bf6fc(0x34d,'pIAz')]()+'')['substr'](_0x57982d['ncmYF'](0x4,RegExp['$1'][_0x1bf6fc(0x555,'X@N)')]))));for(let _0x447f50 in _0x3fb527)new RegExp(_0x57982d[_0x1bf6fc(0x346,'S)sn')]('(',_0x447f50)+')')[_0x1bf6fc(0x385,'yV8!')](_0x4b1e33)&&(_0x4b1e33=_0x4b1e33[_0x1bf6fc(0x499,'LnMN')](RegExp['$1'],_0x57982d[_0x1bf6fc(0x48e,'RJt#')](0x1,RegExp['$1'][_0x1bf6fc(0x506,'yV8!')])?_0x3fb527[_0x447f50]:_0x57982d['wgoxq']('00',_0x3fb527[_0x447f50])[_0x1bf6fc(0x43a,'yV8!')]((''+_0x3fb527[_0x447f50])[_0x1bf6fc(0x3f5,'l^Rx')])));return _0x4b1e33;}}['msg'](_0x516bbe=_0x4ad131,_0x3dbecd='',_0x1ef3f3='',_0x43ca5d){const _0x44d6a9=_0x470067,_0x2eae8a={'NFjee':function(_0x50e114,_0x263a19){const _0x549d10=_0xda81;return _0x57982d[_0x549d10(0x1f3,'ekrS')](_0x50e114,_0x263a19);},'APKjm':function(_0x1874ab,_0x2acdd2){const _0x4370e3=_0xda81;return _0x57982d[_0x4370e3(0x3f4,'%y&N')](_0x1874ab,_0x2acdd2);},'DFPgY':function(_0x23be52,_0x2d7a3b){return _0x23be52+_0x2d7a3b;},'ZcRtq':_0x44d6a9(0x252,'5rKg'),'FNbEN':function(_0x43e0c0,_0x46706c){return _0x43e0c0(_0x46706c);},'VTVrP':function(_0x166900,_0x1e2b34){return _0x57982d['ItFtr'](_0x166900,_0x1e2b34);},'cDcFa':_0x57982d[_0x44d6a9(0x2af,'5rKg')],'neTYt':_0x44d6a9(0x19e,'resf'),'JTjHR':_0x57982d[_0x44d6a9(0x557,'d)Sd')],'ZybmL':_0x44d6a9(0x1ba,'%y&N'),'cTaub':_0x44d6a9(0x576,'dY%D'),'NoxCz':function(_0x30ff22,_0x2673c8){const _0x2444f6=_0x44d6a9;return _0x57982d[_0x2444f6(0x3f6,'ekrS')](_0x30ff22,_0x2673c8);},'jbDaZ':_0x44d6a9(0x3f2,'D(]3')},_0x1508d0=_0x427309=>{const _0x29628c=_0x44d6a9;if(!_0x427309)return _0x427309;if(_0x2eae8a['VTVrP'](_0x2eae8a[_0x29628c(0x2a5,'yV8!')],typeof _0x427309))return this[_0x29628c(0x23d,'KNyD')]()?_0x427309:this[_0x29628c(0x461,'FUYF')]()?{'open-url':_0x427309}:this['isSurge']()?{'url':_0x427309}:void 0x0;if(_0x2eae8a[_0x29628c(0x217,'l^Rx')]==typeof _0x427309){if(this[_0x29628c(0x471,'S)sn')]()){if(_0x29628c(0x462,'TX2W')===_0x2eae8a[_0x29628c(0x405,'(dEz')])_0x2dfdc7=_0xe0f88[_0x29628c(0x191,'dY%D')],_0x1f4662&&(_0x2eae8a['NFjee'](_0xa19ca2,_0x29628c(0x1a8,'cxhZ')),_0xc2e1a1(_0x7b19b1['stringify'](_0x316b8f[_0x29628c(0x191,'dY%D')]))),_0x2eae8a[_0x29628c(0x3d4,'g%TA')](_0x180e83,_0x2eae8a[_0x29628c(0x36e,'d)Sd')](_0x2eae8a[_0x29628c(0x483,'5rKg')],_0x480f68['msg']));else{let _0x4eb487=_0x427309[_0x29628c(0x413,'CRr2')]||_0x427309[_0x29628c(0x507,'LH%%')]||_0x427309[_0x2eae8a['ZybmL']],_0x4ef6c3=_0x427309[_0x29628c(0x428,'6ahG')]||_0x427309[_0x2eae8a[_0x29628c(0x1f7,'(V3c')]];return{'openUrl':_0x4eb487,'mediaUrl':_0x4ef6c3};}}if(this[_0x29628c(0x32d,'g%TA')]()){let _0x4a421e=_0x427309[_0x2eae8a[_0x29628c(0x19c,'LH%%')]]||_0x427309['url']||_0x427309[_0x29628c(0x545,'&2TI')],_0x281530=_0x427309[_0x29628c(0x3d9,'(V3c')]||_0x427309['mediaUrl'];return{'open-url':_0x4a421e,'media-url':_0x281530};}if(this['isSurge']()){if(_0x2eae8a[_0x29628c(0x2d5,'rsk2')](_0x2eae8a[_0x29628c(0x2ac,'(E*w')],_0x29628c(0x36d,'hs5z'))){let _0x422b83=_0x427309['url']||_0x427309[_0x29628c(0x4e3,'B)Ge')]||_0x427309[_0x2eae8a['ZybmL']];return{'url':_0x422b83};}else _0x379370&&_0x2eae8a[_0x29628c(0x525,'HTYv')](_0x302a22,_0x59f000+'\x0a'),_0xb06468+=_0x5583db+'\x0a';}}};if(this['isMute']||(this[_0x44d6a9(0x1a0,'2oEZ')]()||this[_0x44d6a9(0x4b5,'6ahG')]()?$notification[_0x44d6a9(0x2c7,'7]lZ')](_0x516bbe,_0x3dbecd,_0x1ef3f3,_0x57982d['RdpdG'](_0x1508d0,_0x43ca5d)):this['isQuanX']()&&_0x57982d[_0x44d6a9(0x457,'KNyD')]($notify,_0x516bbe,_0x3dbecd,_0x1ef3f3,_0x57982d['vxTqZ'](_0x1508d0,_0x43ca5d))),!this[_0x44d6a9(0x375,'t04B')]){if(_0x57982d[_0x44d6a9(0x4ba,'7VyP')]('pTpXb',_0x57982d[_0x44d6a9(0x374,'HTYv')]))_0x5617a6(_0x44d6a9(0x18d,'rsk2')),_0x2eae8a[_0x44d6a9(0x505,'2oEZ')](_0x1bb9bf,_0x5140a2[_0x44d6a9(0x2d7,'hs5z')](_0x53eb4c));else{let _0x1a1a17=['',_0x44d6a9(0x33e,'yV8!')];_0x1a1a17['push'](_0x516bbe),_0x3dbecd&&_0x1a1a17['push'](_0x3dbecd),_0x1ef3f3&&_0x1a1a17['push'](_0x1ef3f3),console[_0x44d6a9(0x402,'N$hN')](_0x1a1a17[_0x44d6a9(0x308,'RJt#')]('\x0a')),this[_0x44d6a9(0x3b0,'(E*w')]=this[_0x44d6a9(0x53e,'aOTO')][_0x44d6a9(0x27f,'7]lZ')](_0x1a1a17);}}}[_0x470067(0x4b1,'1Q4z')](..._0x334f37){const _0x3a6fc4=_0x470067,_0xa8f4f1={'EkYRV':function(_0x44371b,_0x52abaa){const _0x572523=_0xda81;return _0x57982d[_0x572523(0x529,'HTYv')](_0x44371b,_0x52abaa);},'SGloQ':_0x57982d[_0x3a6fc4(0x559,'7]lZ')]};if(_0x57982d[_0x3a6fc4(0x511,'va$Q')]===_0x3a6fc4(0x306,'alvl'))try{_0x355e4e=_0x595f83[_0x3a6fc4(0x3c1,'D(]3')],_0x2438ae&&(_0xa8f4f1[_0x3a6fc4(0x491,'aOTO')](_0x25f773,'\x0a\x0a【debug】===============这是\x20返回data=============='),_0xa8f4f1[_0x3a6fc4(0x1c5,'FUYF')](_0x2b865f,_0x236f16['stringify'](_0x3c5312['data']))),_0x4fb947(_0xa8f4f1['SGloQ']+_0x251816[_0x3a6fc4(0x4f4,'5t2A')]);}catch(_0x3ad749){_0xa8f4f1[_0x3a6fc4(0x220,'rsk2')](_0x549804,_0x3a6fc4(0x26d,'^a!B')+_0x40b8c9+_0x3a6fc4(0x1d5,'resf')+_0x3b1e12[_0x3a6fc4(0x31e,'LnMN')]);}else _0x334f37[_0x3a6fc4(0x37f,'B)Ge')]>0x0&&(this['logs']=[...this[_0x3a6fc4(0x41f,'(dEz')],..._0x334f37]),console[_0x3a6fc4(0x23f,'d)Sd')](_0x334f37[_0x3a6fc4(0x202,'%y&N')](this['logSeparator']));}[_0x470067(0x25d,'7VyP')](_0x1aa1a7,_0x5406d0){const _0xefa1d7=_0x470067,_0x495930=!this['isSurge']()&&!this['isQuanX']()&&!this[_0xefa1d7(0x1b1,'CRr2')]();_0x495930?this[_0xefa1d7(0x3d3,'%y&N')]('','❗️'+this['name']+_0xefa1d7(0x2f9,'pIAz'),_0x1aa1a7['stack']):this[_0xefa1d7(0x513,'g%TA')]('','❗️'+this[_0xefa1d7(0x1da,'rsk2')]+_0xefa1d7(0x409,'jeiZ'),_0x1aa1a7);}[_0x470067(0x201,'%y&N')](_0x4e1463){return new Promise(_0x67aa53=>setTimeout(_0x67aa53,_0x4e1463));}[_0x470067(0x564,'R1Xr')](_0x310ad9={}){const _0x1ed88b=_0x470067;if(_0x57982d[_0x1ed88b(0x411,'7VyP')](_0x57982d['rAilJ'],_0x57982d[_0x1ed88b(0x3c0,'(dEz')]))_0x369ab9(_0x1ed88b(0x35f,'g%TA')+_0x1c5092[_0x1ed88b(0x4f5,'W!([')][_0x1ed88b(0x24b,'B)Ge')]);else{const _0x2df5a2=new Date()['getTime'](),_0x2097c5=_0x57982d[_0x1ed88b(0x25f,'utaD')](_0x2df5a2,this['startTime'])/0x3e8;this[_0x1ed88b(0x196,'(E*w')]('','🔔'+this['name']+_0x1ed88b(0x1e2,'alvl')+_0x2097c5+'\x20秒'),this['log'](),(this[_0x1ed88b(0x436,'5rKg')]()||this['isQuanX']()||this[_0x1ed88b(0x1e5,'7]lZ')]())&&_0x57982d[_0x1ed88b(0x46d,'rsk2')]($done,_0x310ad9);}}}(_0x4ad131,_0x221774);}var version_ = 'jsjiami.com.v7';
+====================蹇呰缁存姢====================
+馃尮鏇村璧勬簮,#genre#
+鍐板鍑哄搧,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+鍏虫敞QQ缇??,https://vd4.bdstatic.com/mda-ncg44ya2nmih7avs/1080p/cae_h264_delogo/1647487969274086287/mda-ncg44ya2nmih7avs.mp4
+Q缇ゅ彿,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
+866175387,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
+鍔犲叆QQ缇??,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
+128771707,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
+鑾峰彇瀵嗙爜,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
+
+铚＄瑪灏忔柊涓荤嚎,#genre#
+铚＄瑪灏忔柊鍓ч泦,http://cfss.cc/cdn/hy/11352970.m3u8
+
+鐢佃鐩存挱,#genre# 
+杩樼彔1涓棣栨挱,https://cccimg.com/view.php/83fa9c9ee9a76fc3c8bd48422d130b7c.mp4
+杩樼彔涓棣栨挱,https://pan.qqimm.cn/view.php/1225700df4ea7388f3d5ffac1bfc84cc.mp4
+閲嶆俯缁忓吀,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+鏄熷厜缁煎悎鍙??,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+缁忓吀绁炶瘽鍙??,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
+缁忓吀閮藉競鍙??,http://ali.hlspull.yximgs.com/live/asdfg32516.flv
+
+娴峰崡棰戦亾[V4],#genre#
+娴峰崡鍗,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
+涓夋矙鍗,https://live3.hnntv.cn/srs/tv/ssws.m3u8
+娴峰崡鑷锤,https://live3.hnntv.cn/srs/tv/jjpd.m3u8
+娴峰崡鏂伴椈,https://live3.hnntv.cn/srs/tv/xwpd.m3u8
+娴峰崡鍏叡,https://live3.hnntv.cn/srs/tv/ggpd.m3u8
+娴峰崡鏂囨梾,https://live3.hnntv.cn/srs/tv/wlpd.m3u8
+娴峰崡灏戝効,https://live3.hnntv.cn/srs/tv/sepd.m3u8
+
+娴欐睙棰戦亾[V4],#genre#
+娴欐睙缁忔祹鐢熸椿,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+娴欐睙姘戠敓浼戦棽,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+缁嶅叴鏂囧寲褰辫,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+鏂版槍鏂伴椈棰戦亾,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+钀у北缁煎悎,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+
+婀栧寳棰戦亾[V4],#genre#
+鑽嗛棬鏂伴椈缁煎悎,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+楹诲煄缁煎悎,http://119.36.30.199:8888/mctv1.m3u8
+姹熷鏂伴椈缁煎悎,http://59.175.226.142:280/gb28181/xwzh.m3u8
+
+榛戦緳姹熼閬揫V4],#genre#
+鍝堝皵婊ㄦ柊闂荤患鍚??,http://stream.hrbtv.net/xwzh/sd/live.m3u8
+鍝堝皵婊ㄥ奖瑙??,http://stream.hrbtv.net/yspd/sd/live.m3u8
+鍝堝皵婊ㄧ敓娲??,http://stream.hrbtv.net/shpd/sd/live.m3u8
+瀵岃鏂伴椈缁煎悎,http://221.209.44.174:1980/hls/1001.m3u8
+
+璐靛窞棰戦亾[V4],#genre#
+涓冩槦鍏崇數瑙嗗彴,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
+閬撶湡鐢佃,http://live.dzrmtzx.org.cn:90/live/dspd_1M.m3u8
+
+瀹夊窘棰戦亾[V4],#genre#
+瀹夊窘瀵艰,https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
+瀹夊窘缁艰壓浣撹偛,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd锛熶笘鐣屾澂涓栫晫鏉??
+
+闈掓捣棰戦亾[V4],#genre#
+闈掓捣缁忚,http://stream.qhbtv.com/qhsh/playlist.m3u8
+闈掓捣閮藉競,http://stream.qhbtv.com/qhds/playlist.m3u8
+
+灞辫タ棰戦亾[V4],#genre#
+灞辫タ缁忔祹涓庣鎶??,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
+灞辫タ绀句細涓庢硶娌??,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
+灞辫タ鏂囦綋鐢熸椿,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
+灞辫タ褰辫,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
+榛勬渤鐢佃鍙??,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+楂樺钩缁煎悎棰戦亾,http://live.gprmt.cn/gpnews/hd/live.m3u8
+鐏电煶缁煎悎,https://live-stream.lsxrmtzx.com/live/video.m3u8
+娼炲煄鐢佃鍙??,http://59.48.42.6:62204/lucheng.m3u8
+鏅嬩腑缁煎悎,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+
+骞夸笢棰戦亾[V4],#genre#
+骞夸笢褰辫,http://cdn.u55u.cn/migu.php?id=gdys
+骞夸笢褰辫,http://116.199.24.6:2901/udp/225.1.101.64:7523
+骞夸笢姘戠敓,http://116.199.24.6:2901/udp/225.1.101.49:7523
+骞夸笢缁忔祹绉戞暀,http://116.199.24.6:2901/udp/225.1.101.211:7523
+骞夸笢灏戝効,http://116.199.24.6:2901/udp/225.1.101.66:7523
+骞夸笢浣撹偛,http://116.199.24.6:2901/udp/225.1.101.102:7523
+骞夸笢鏂伴椈,http://116.199.24.6:2901/udp/225.1.101.65:7523
+骞夸笢鐝犳睙,http://116.199.24.6:2901/udp/225.1.101.106:7523
+骞垮窞娉曟不,http://116.199.24.6:2901/udp/225.1.101.203:7523
+骞垮窞绔炶禌,http://116.199.24.6:2901/udp/225.1.101.1:7523
+骞垮窞鏂伴椈,http://116.199.24.6:2901/udp/225.1.101.159:7523
+骞垮窞褰辫,http://116.199.24.6:2901/udp/225.1.101.5:7523
+骞垮窞缁煎悎,http://116.199.24.6:2901/udp/225.1.101.158:7523
+鍢変匠鍗￠????,http://cdn.u55u.cn/migu.php?id=jjkt
+鍢変匠鍗￠????,http://116.199.24.6:2901/udp/225.1.101.129:7523
+娌虫簮缁煎悎,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+娌虫簮鍏叡,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+浣涘北鍏叡,http://116.199.24.6:2901/udp/225.1.101.131:7523
+宀崡鎴忔洸,http://116.199.24.6:2901/udp/225.1.101.119:7523
+
+绂忓缓棰戦亾[V4],#genre#
+涓夋槑鏂伴椈缁煎悎,http://stream.smntv.cn/smtv1/sd/live.m3u8
+姝﹀し灞辩患鍚??,http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
+
+
+瑗胯棌棰戦亾[V4],#genre#
+瀵熼殔棰戦亾,http://file.chayutv.com/nmip-media/channellive/channel105276/playlist.m3u8
+
+
+瀹佸棰戦亾[V4],#genre#
+瀹佸缁忔祹,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
+
+
+娌冲崡棰戦亾[V4],#genre#
+姊ㄥ洯棰戦亾,http://xuys.top:8888/udp/225.1.2.104:5002
+姊ㄥ洯棰戦亾,http://106.115.26.212:9999/tsfile/live/1021_1.m3u8
+姊ㄥ洯棰戦亾,http://wsd.saj-web.top:4000/udp/225.1.2.104:5002
+姊ㄥ洯棰戦亾,http://222.241.211.36:10010/udp/239.86.1.196:1234
+鏂囩墿瀹濆簱,http://xuys.top:8888/udp/225.1.2.105:5002
+鏂囩墿瀹濆簱,http://wsd.saj-web.top:4000/udp/225.1.2.105:5002
+鏂囩墿瀹濆簱,http://222.241.211.36:10010/udp/239.86.1.197:1234
+姝︽湳涓栫晫,http://xuys.top:8888/udp/225.1.2.129:5002
+姝︽湳涓栫晫,http://wsd.saj-web.top:4000/udp/225.1.2.129:5002
+姝︽湳涓栫晫,http://222.241.211.36:10010/udp/239.86.1.212:1234
+
+閲嶅簡棰戦亾[V4],#genre#
+閲嶅簡姹芥懇,http://xuys.top:8888/udp/225.1.1.205:5002
+閲嶅簡姹芥懇,http://wsd.saj-web.top:4000/udp/225.1.1.205:5002
+
+鐢樿們棰戦亾[V4],#genre#
+璇佸埜鏈嶅姟,http://xuys.top:8888/udp/225.1.1.72:5002
+璇佸埜鏈嶅姟,http://wsd.saj-web.top:4000/udp/225.1.1.72:5002
+
+
+灞变笢棰戦亾[V4],#genre#
+灞变笢鍗,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
+灞变笢榻愰瞾,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+灞变笢鏂囨梾,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+灞变笢缁艰壓,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+灞变笢鐢熸椿,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+灞变笢鏂伴椈,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+灞变笢鍐滅,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+灞变笢浣撹偛浼戦棽,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+灞变笢灏戝効,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+鏋ｅ簞鏂伴椈缁煎悎,http://stream.zztvzd.com/1/sd/live.m3u8
+鏋ｅ簞缁忔祹鐢熸椿,http://stream.zztvzd.com/2/sd/live.m3u8
+鏋ｅ簞鍏叡棰戦亾,http://stream.zztvzd.com/3/sd/live.m3u8
+闈掑窞缁煎悎,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
+闈掑窞鏂囧寲鏃呮父,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
+娉板畨缁煎悎,http://zzbb.1545ts.com:8068/live/tatv0111.m3u8
+娉板畨缁忔祹鐢熸椿,http://zzbb.1545ts.com:8068/live/tatv222.m3u8
+鐑熷彴鏂伴椈缁煎悎,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
+鐑熷彴鍏叡,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+鐑熷彴缁忔祹绉戞妧,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
+鐑熷彴褰辫,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+
+鏂伴椈棰戦亾[V4],#genre#
+绔睙鏂伴椈,http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
+鎬??鍖栨柊闂??,http://222.241.211.36:10010/udp/239.86.1.241:1234
+
+
+涓ぎ棰戦亾[V6],#genre#
+CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+
+鍗棰戦亾[V6],#genre#
+鍚夋灄鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+鍚夋灄鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+榛戦緳姹熷崼瑙??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+榛戦緳姹熷崼瑙??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+榛戦緳姹熷崼瑙??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+涓滃崡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+涓滃崡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+涓滃崡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+涓滄柟鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+涓滄柟鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+涓滄柟鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+鍖椾含鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+鍖椾含鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+鍖椾含鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+鍥涘窛鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+鍥涘窛鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+澶╂触鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+澶╂触鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+澶╂触鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+瀹夊窘鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+瀹夊窘鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+灞变笢鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+灞变笢鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226507/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+骞夸笢鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+骞夸笢鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+姹熻嫃鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+姹熻嫃鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+姹熻嫃鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+姹熻タ鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+姹熻タ鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226504/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娌冲寳鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娌冲寳鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娌冲寳鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娌冲崡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娌冲崡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娴欐睙鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娴欐睙鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娴欐睙鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娴峰崡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娴峰崡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娴峰崡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娣卞湷鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娣卞湷鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+娣卞湷鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+婀栧寳鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+婀栧寳鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+婀栧寳鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226501/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+婀栧崡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+婀栧崡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+婀栧崡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+璐靛窞鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+璐靛窞鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+璐靛窞鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+閲嶅簡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+閲嶅簡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+閲嶅簡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+浜戝崡鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+鍐呰挋鍙ゅ崼瑙??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+鍐呰挋鍙ゅ崼瑙??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+瀹佸鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+瀹佸鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+灞辫タ鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+灞辫タ鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+骞胯タ鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+鏂扮枂鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+鏂扮枂鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+鐢樿們鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+鐢樿們鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+瑗胯棌鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+瑗胯棌鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+杈藉畞鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+杈藉畞鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+闄曡タ鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+闄曡タ鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+闈掓捣鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+闈掓捣鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+寤惰竟鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+澶ф咕鍖哄崼瑙??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+鍏靛洟鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+搴峰反鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+灞变笢鏁欒偛鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+瀹夊鍗,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$榛戦緳姹熷搱灏旀花 绉诲姩
+
+鐭墽绯诲垪[V4],#genre#
+宸惧讣绁炶豹(95闆??),https://txmov2.a.kwimgs.com/bs3/video-hls/5228679273869081590_hlsb.m3u8
+缁濅笘鍖讳粰(93闆??),https://txmov2.a.kwimgs.com/bs3/video-hls/5251760220360466164_hlsb.m3u8
+涓婇棬璞┛(94闆??),https://txmov2.a.kwimgs.com/bs3/video-hls/5226145996125317106_hlsb.m3u8
+缇庡コ鏍¤姳鐨勯姘村ぇ甯??(40闆??),https://txmov2.a.kwimgs.com/bs3/video-hls/5258797093473252232_hlsb.m3u8
+鍗佸叓宀佺殑閫氱伒濂??(80闆??),https://vd2.bdstatic.com/mda-pdku4kxcmm81g7h9/sc/cae_h264/1682112514968138630/mda-pdku4kxcmm81g7h9.mp4
+瀵岃豹鑰佸叕鍚屽浼??(114闆??),https://txmov2.a.kwimgs.com/bs3/video-hls/5222205348866063631_hlsb.m3u8
+鐙傞椋庢毚(88闆??),https://vd4.bdstatic.com/mda-pe9mfch4kg5gyf3s/sc/cae_h264/1683788994589438440/mda-pe9mfch4kg5gyf3s.mp4
+閮藉競鏈??寮虹户鎵胯????(100闆??),https://txmov2.a.kwimgs.com/bs3/video-hls/5232619920811866768_hlsb.m3u8           璧樺┛褰掓潵(101闆??),https://vd3.bdstatic.com/mda-pevb0xbdxkqavidi/720p/h264/1685433516028971486/mda-pevb0xbdxkqavidi.mp4
+鎴戞湁绁炰粰寰俊缇??(81闆??),https://txmov2.a.kwimgs.com/bs3/video-hls/5189272774546429629_hlsb.m3u8
+閲嶇敓鍒板崠濂冲効閭ｅぉ,https://vd4.bdstatic.com/mda-pd58y1bca4eqwdy1/sc/cae_h264/1680765030478096611/mda-pd58y1bca4eqwdy1.mp4
+濂宠??佹澘鐨勫弽鍑??(100闆??),https://vd2.bdstatic.com/mda-pd63rfuh803uepji/720p/h264/1680837193888969534/mda-pd63rfuh803uepji.mp4
+宸ㄥ瘜鍚屽浼??(100闆??),https://txmov2.a.kwimgs.com/bs3/video-hls/5238249422970059143_hlsb.m3u8
+鍦ｅ尰濂崇殗(100闆??),https://txmov2.a.kwimgs.com/bs3/video-hls/5205598323687222877_hlsb.m3u8
+瓒呯骇璧樺┛(80闆??),https://vd3.bdstatic.com/mda-pe7n75qra322fzg1/sc/cae_h264/1683612584707668218/mda-pe7n75qra322fzg1.mp4
+澶╅獎鍖诲┛(102闆??),https://vd4.bdstatic.com/mda-pe7qsxras8c7mpx0/sc/cae_h264/1683613152590699530/mda-pe7qsxras8c7mpx0.mp4       鏃犱笂鎬昏(80闆??),https://vd2.bdstatic.com/mda-pe7rikuj1jveu6m1/sc/cae_h264/1683615228963572913/mda-pe7rikuj1jveu6m1.mp4
+闇哥埍涓哄ゴ(100闆??),https://vd4.bdstatic.com/mda-pe89k65is9xdwqen/sc/cae_h264/1683667911711262079/mda-pe89k65is9xdwqen.mp4
+闇告??荤殑鏇垮珌濞囧(60闆??),https://vd4.bdstatic.com/mda-pe8ar4g2yhw6qgfj/sc/cae_h264/1683668393614566668/mda-pe8ar4g2yhw6qgfj.mp4
+瀹犲鍏ユ????(100闆??),https://vd4.bdstatic.com/mda-pe8dzumbi13eve70/sc/cae_h264/1683681373360436407/mda-pe8dzumbi13eve70.mp4
+鍐嶈闄嗗厛鐢??(88闆??),https://vd4.bdstatic.com/mda-pe9cq6zbt1adgb0m/sc/cae_h264/1683773573447572218/mda-pe9cq6zbt1adgb0m.mp4
+閮藉競閫嶉仴绁炲尰(93闆??),https://vd4.bdstatic.com/mda-pe9f7u2qj8qi7r04/720p/h264/1683716481871424650/mda-pe9f7u2qj8qi7r04.mp4
+閮藉競缁濅唬绁炶豹(100闆??),https://vd3.bdstatic.com/mda-pe9eqrb4tadeeq8u/sc/cae_h264/1683775782275951628/mda-pe9eqrb4tadeeq8u.mp4
+閮藉競鑽帇鍖讳粰(61闆??),https://vd4.bdstatic.com/mda-pe9p7t88g3zwkn0w/sc/cae_h264/1683812630561498452/mda-pe9p7t88g3zwkn0w.mp4
+
+NewTV绯诲垪[V6],#genre#
+NewTV鍙よ鍓у満,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+NewTV涓滃寳鐑墽,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV涓浗鍔熷か,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NewTV鍐涗簨璇勮,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV鍐涙梾鍓у満,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NewTV鍐滀笟鑷村瘜,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV鍔ㄤ綔鐢靛奖,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV瀹跺涵鍓у満,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV鎬′即鍋ュ悍,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+NewTV鎯婃倸鎮枒,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NewTV鏄庢槦澶х墖,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+NewTV娆箰鍓у満,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NewTV姝︽悘涓栫晫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+NewTV娴峰鍓у満,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+NewTV娼杈ｅ﹩,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NewTV绮惧搧澶у墽,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV绮惧搧绾綍,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+NewTV绮惧搧浣撹偛,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+NewTV瓒呯骇浣撹偛,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+NewTV瓒呯骇鐢靛奖,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV瓒呯骇鐢佃鍓??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV瓒呯骇缁艰壓,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+NewTV閲戠墝缁艰壓,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+NewTV绮惧搧钀屽疇,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+
+姹熻嫃棰戦亾[V6],#genre#
+浼樻极鍗￠????,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+
+婀栧崡棰戦亾[V6],#genre#
+閲戦拱鍗￠????,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+
+涓婃捣棰戦亾[V6],#genre#
+绾疄浜烘枃,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+鍝堝搱鐐姩,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+
+鍖椾含棰戦亾[V6],#genre#
+绾疄绉戞暀,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+鍗￠叿灏戝効,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+
+榛戦緳姹熼閬揫V6],#genre#
+榛戦緳姹熷啘涓氱鏁??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+榛戦緳姹熷啘涓氱鏁??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
+榛戦緳姹熷皯鍎??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+榛戦緳姹熷皯鍎??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
+榛戦緳姹熷奖瑙??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+榛戦緳姹熷奖瑙??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
+榛戦緳姹熸枃浣??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+榛戦緳姹熸枃浣??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
+榛戦緳姹熸柊闂绘硶娌??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+榛戦緳姹熸柊闂绘硶娌??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
+榛戦緳姹熼兘甯??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+榛戦緳姹熼兘甯??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
+楣ゅ矖鏂伴椈缁煎悎,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+楣ゅ矖鏂伴椈缁煎悎,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226496/index.m3u8
+浣虫湪鏂柊闂荤患鍚??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+浼婃槬鏂伴椈缁煎悎,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
+鍙岄腑灞辨柊闂荤患鍚??,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
+澶у叴瀹夊箔鏂伴椈缁煎悎,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8
+澶у簡鏂伴椈缁煎悎,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
+楦¤タ瀹夊叏鐢熸椿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
+楦¤タ鏂伴椈缁煎悎,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
+榻愰綈鍝堝皵鏂伴椈缁煎悎,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
+榻愰綈鍝堝皵缁忔祹娉曟不,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
+
+鏁欒偛棰戦亾[V6],#genre#
+涓浗鏁欒偛1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+涓浗鏁欒偛2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+涓浗鏁欒偛3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+
+鏂伴椈棰戦亾[V6],#genre#
+鏂伴椈缁煎悎,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
+
+鐢靛奖棰戦亾[V6],#genre#
+榛戣帗鐢靛奖,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+閭垫皬褰遍櫌@浠??,http://159.75.85.63:35455/douyu/4246519
+閭垫皬褰遍櫌@浠??,https://www.goodiptv.club/douyu/4246519
+閭垫皬褰遍櫌@浠??,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
+閭垫皬褰遍櫌@浠??,http://www.goodiptv.club/douyu/4246519
+閲嶆俯缁忓吀棰戦亾,http://mtw.so/5NPX0U
+閲嶆俯缁忓吀棰戦亾,http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+閲嶆俯缁忓吀棰戦亾,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
+閲嶆俯缁忓吀棰戦亾,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+閲嶆俯缁忓吀棰戦亾,http://116.11.159.170:1188/tsfile/live/1034_1.m3u8
+閲嶆俯缁忓吀棰戦亾,http://116.11.159.186:1188/tsfile/live/1034_1.m3u8
+閲嶆俯缁忓吀棰戦亾,http://116.11.159.172:1188/tsfile/live/1034_1.m3u8
+閲嶆俯缁忓吀棰戦亾,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+缁忓吀鐢靛奖棰戦亾,https://ali.hlspull.yximgs.com/live/asdfg32522.flv 
+缁忓吀褰遍櫌棰戦亾,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
+缁忓吀鍓у満棰戦亾,http://live.dxms.top:80/dwy/jdjc.php
+缁忓吀瀹涵棰戦亾,http://live.dxms.top:80/dwy/gtjc.php
+缁忓吀澶╅緳棰戦亾,http://live.dxms.top:80/dwy/jdtl.php
+缁忓吀閲戝焊棰戦亾,http://live.dxms.top:80/dwy/jyjc.php
+缁忓吀涓夊浗棰戦亾,http://live.dxms.top:80/dwy/jdsg.php
+缁忓吀鍠滃墽棰戦亾,http://live.dxms.top:80/dwy/jdxj.php
+缁忓吀鍥炲繂棰戦亾,http://live.dxms.top:80/dwy/hyyy.php
+缁忓吀褰遍櫌@浠??,http://ali.hlspull.yximgs.com/live/asdfg32516.flv
+鏄熷厜瑙嗙晫鍙??,http://cfss.cc/cdn/yy/1353422557.flv
+1905鐢靛奖(浜氭床),http://php.jdshipin.com:8880/1905.php?id=1905dy
+鏄熷厜缁煎悎鍙??,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+缁忓吀褰辫鍙??,http://ali.hlspull.yximgs.com/live/asdfg32516.flv
+缁忓吀鐢靛奖鍙??,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
+缁忓吀鍔熷か鍙??,http://cfss.cc/cdn/yy/1355002394.flv
+缁忓吀鍔熷か鍙??,http://cfss.cc/cdn/yy/1355002394.flv
+棣欐腐鐢靛奖棰戦亾,http://live-cmvideo.cmread.com:80/wd_r2/virtuallive/5100180869/150/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a78e73c9d50f677a369a589aace6f489
+鍛ㄦ槦椹板吀@浠??,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
+鍚冪背婊磋櫕鉁斿師,http://159.75.85.63:35455/douyu/315457
+鏄熺埛褰遍櫌鉁斿師,http://159.75.85.63:35455/douyu/508118
+鍑屽効褰遍櫌鉁斿師,http://159.75.85.63:35455/douyu/1377142
+鎬″褰遍櫌鉁斿師,http://159.75.85.63:35455/douyu/434971
+绁炰箰鍓у満鉁斿師,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+绁炰箰鍓ч櫌鉁斿師,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+绁炰箰褰卞墽鉁斿師,http://159.75.85.63:35455/douyu/122402
+鍙箰褰遍櫌鉁斿師,http://159.75.85.63:35455/douyu/20415
+灏忓畤60甯р湐鍘??,http://159.75.85.63:35455/douyu/323876
+鎭愭??栨儕鎮氣湐鍘??,http://159.75.85.63:35455/douyu/96577
+灏弖*楝肩墖鉁斿師,http://159.75.85.63:35455/douyu/96577
+鍚冨ザ婊磋櫕鉁斿師,http://159.75.85.63:35455/douyu/263824
+鍗庤缁忓吀鉁斿師,http://159.75.85.63:35455/douyu/434971
+璐濈埛max鉁斿師,http://159.75.85.63:35455/douyu/4332
+璐濈埛褰卞巺鉁斿師,http://159.75.85.63:35455/douyu/252802
+缁嶅叴褰遍櫌棰戦亾,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+鍗椾含褰遍櫌棰戦亾,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+骞虫硥褰遍櫌棰戦亾,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+
+浣撹偛棰戦亾[V6],#genre#
+鍜挄瓒崇悆,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+鍜挄鐩存挱-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+鍜挄鐩存挱-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+鍜挄鐩存挱-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+
+
+
+鏀堕煶涓撳尯[V4],#genre#
+澶╂触婊ㄦ捣骞挎挱,http://wsd.saj-web.top:4000/udp/225.1.1.178:5002
+澶╂触鍔ㄥ惉885,http://wsd.saj-web.top:4000/udp/225.1.1.180:5002
+澶╂触浜ら??氬箍鎾??,http://wsd.saj-web.top:4000/udp/225.1.1.175:5002
+澶╂触缁忔祹骞挎挱,http://wsd.saj-web.top:4000/udp/225.1.1.172:5002
+澶╂触鐢熸椿骞挎挱,http://wsd.saj-web.top:4000/udp/225.1.1.174:5002
+澶╂触鏂囪壓骞挎挱,http://wsd.saj-web.top:4000/udp/225.1.1.171:5002
+澶╂触鐩稿０骞挎挱,http://wsd.saj-web.top:4000/udp/225.1.1.176:5002
+澶╂触灏忚骞挎挱,http://wsd.saj-web.top:4000/udp/225.1.1.177:5002
+澶╂触鏂伴椈骞挎挱,http://wsd.saj-web.top:4000/udp/225.1.1.173:5002
+澶╂触闊充箰骞挎挱,http://wsd.saj-web.top:4000/udp/225.1.1.179:5002
+澶╂触浜ら??氬箍鎾??,http://xuys.top:8888/udp/225.1.1.175:5002
+澶╂触缁忔祹骞挎挱,http://xuys.top:8888/udp/225.1.1.172:5002
+澶╂触鐢熸椿骞挎挱,http://xuys.top:8888/udp/225.1.1.174:5002
+澶╂触鏂囪壓骞挎挱,http://xuys.top:8888/udp/225.1.1.171:5002
+澶╂触鐩稿０骞挎挱,http://xuys.top:8888/udp/225.1.1.176:5002
+澶╂触灏忚骞挎挱,http://xuys.top:8888/udp/225.1.1.177:5002
+澶╂触鏂伴椈骞挎挱,http://xuys.top:8888/udp/225.1.1.173:5002
+澶╂触闊充箰骞挎挱,http://xuys.top:8888/udp/225.1.1.179:5002
+澶╂触婊ㄦ捣骞挎挱,http://xuys.top:8888/udp/225.1.1.178:5002
+澶╂触鍔ㄥ惉885,http://xuys.top:8888/udp/225.1.1.180:5002
+鏈濋槼缁忔祹骞挎挱,http://live.xmcdn.com/live/355/64.m3u8
+绉︾殗宀涢煶涔愬仴搴峰箍鎾??,http://live.xmcdn.com/live/522/64.m3u8
+骞胯タ闊充箰骞挎挱,http://live.xmcdn.com/live/301/64.m3u8
+寤跺畨缁煎悎骞挎挱,http://live.xmcdn.com/live/2699/64.m3u8
+鍗楀厖缁煎悎骞挎挱,http://live.xmcdn.com/live/1242/64.m3u8
+骞胯タ浜ら??氬箍鎾璅M100.3,http://live.xmcdn.com/live/304/64.m3u8
+鏀??鏋濊姳瀵瑰啘骞挎挱,http://live.xmcdn.com/live/770/64.m3u8
+鎵窞姹熼兘骞挎挱,http://live.xmcdn.com/live/2540/64.m3u8
+淇濆畾鏂伴椈骞挎挱,http://live.xmcdn.com/live/516/64.m3u8
+浜戝崡缁忔祹骞挎挱,http://live.xmcdn.com/live/909/64.m3u8
+鏉窞涔嬪０,http://live.xmcdn.com/live/646/64.m3u8
+鏉窞浜ら??氱粡娴庡箍鎾??,http://live.xmcdn.com/live/632/64.m3u8
+鏈濋槼鏂伴椈缁煎悎骞挎挱,http://live.xmcdn.com/live/353/64.m3u8
+涓逛笢缁煎悎骞挎挱,http://live.xmcdn.com/live/342/64.m3u8
+椴呴奔鍦堟柊闂荤患鍚堝箍鎾??,http://live.xmcdn.com/live/2733/64.m3u8
+鍟嗕笜浜ら??氬箍鎾??,http://live.xmcdn.com/live/1261/64.m3u8
+娣卞湷闈掑伐骞挎挱,http://live.xmcdn.com/live/267/64.m3u8
+寰峰窞鏂囪壓骞挎挱,http://live.xmcdn.com/live/2555/64.m3u8
+骞胯タ鏂伴椈骞挎挱,http://live.xmcdn.com/live/299/64.m3u8
+淇濆畾浜ら??氬箍鎾??,http://live.xmcdn.com/live/517/64.m3u8
+骞胯タ鍖楅儴婀句箣澹??(骞胯タ瀵瑰骞挎挱),http://live.xmcdn.com/live/303/64.m3u8
+涓存本浜ら??氭枃鑹哄箍鎾??,http://live.xmcdn.com/live/2515/64.m3u8
+涓存本闊充箰骞挎挱,http://live.xmcdn.com/live/2516/64.m3u8
+闃跨﹩灏旀渤-楦¤タ浜ら??氬箍鎾??,http://live.xmcdn.com/live/2735/64.m3u8
+闃跨﹩灏旀渤-楦¤タ缁煎悎骞挎挱,http://live.xmcdn.com/live/2734/64.m3u8
+鍖椾含-BeijingTrafficRadio,http://live.xmcdn.com/live/93/64.m3u8
+骞胯タ-骞胯タ绉佸杞﹁皟棰慒M93.0,http://live.xmcdn.com/live/302/64.m3u8
+婀栧寳-鎭╂柦缁煎悎骞挎挱,https://live.xmcdn.com/live/1435/64.m3u8
+婀栧寳-鎭╂柦浜ら??氶煶涔愬箍鎾??,https://live.xmcdn.com/live/1434/64.m3u8
+婀栧寳-鍗佸牥鏃呮父鐢熸椿骞挎挱,http://live.xmcdn.com/live/2682/64.m3u8
+婀栧崡-娲涢槼缁煎悎骞挎挱,http://live.xmcdn.com/live/491/64.m3u8
+婀栧崡-娲涢槼浜ら??氬箍鎾??,http://live.xmcdn.com/live/492/64.m3u8
+婀栧崡-璁告槍缁煎悎骞挎挱,http://live.xmcdn.com/live/484/64.m3u8
+婀栧崡-鍟嗕笜缁煎悎骞挎挱,http://live.xmcdn.com/live/1271/64.m3u8
+鍚夋灄-鍚夋灄甯傜患鍚堝箍鎾??,http://live.xmcdn.com/live/443/64.m3u8
+姹熻嫃-鎵窞閭楁睙骞挎挱,http://live.xmcdn.com/live/2539/64.m3u8
+杈藉畞-鐩橀敠浜ら??氭枃鑹哄箍鎾??,http://live.xmcdn.com/live/350/64.m3u8
+杈藉畞-鐩橀敠缁煎悎骞挎挱,http://live.xmcdn.com/live/348/64.m3u8
+杈藉畞-鐩橀敠缁忔祹鐢熸椿骞挎挱,http://live.xmcdn.com/live/2696/64.m3u8
+杈藉畞-鏈濋槼浜ら??氬箍鎾??,http://live.xmcdn.com/live/354/64.m3u8
+鍐呰挋鍙??-璧ゅ嘲缁煎悎骞挎挱,http://live.xmcdn.com/live/1085/64.m3u8
+灞变笢-鐑熷彴缁忓吀闊充箰骞挎挱,http://live.xmcdn.com/live/2718/64.m3u8
+灞变笢-鐑熷彴浜ら??氬箍鎾??,http://live.xmcdn.com/live/2715/64.m3u8
+灞变笢-鐑熷彴闊充箰骞挎挱,http://live.xmcdn.com/live/2716/64.m3u8
+灞变笢-娴庡崡闊充箰骞挎挱,http://live.xmcdn.com/live/799/64.m3u8
+灞变笢-娴庡崡缁忔祹骞挎挱,http://live.xmcdn.com/live/800/64.m3u8
+灞变笢-鐑熷彴缁煎悎骞挎挱,http://live.xmcdn.com/live/2717/64.m3u8
+灞辫タ-涓存本缁煎悎骞挎挱,http://live.xmcdn.com/live/2514/64.m3u8
+灞辫タ-杩愬煄缁煎悎骞挎挱,http://live.xmcdn.com/live/1252/64.m3u8
+灞辫タ-杩愬煄鏂囪壓骞挎挱,http://live.xmcdn.com/live/1251/64.m3u8
+绁炴????-寤跺畨浜ら??氶煶涔愬箍鎾??,http://live.xmcdn.com/live/2698/64.m3u8
+鍥涘窛-涔愬北缁煎悎骞挎挱,http://live.xmcdn.com/live/2702/64.m3u8
+鍥涘窛-涔愬北闊充箰浜ら??氬箍鎾??,http://live.xmcdn.com/live/2703/64.m3u8
+鍥涘窛-SzechuanTouristRadio,http://live.xmcdn.com/live/753/64.m3u8
+鍥涘窛-鐪夊北浜ら??氶煶涔愬箍鎾??,http://live.xmcdn.com/live/2358/64.m3u8
+鍥涘窛-鏀??鏋濊姳缁煎悎骞挎挱,http://live.xmcdn.com/live/1064/64.m3u8
+浜戝崡-浜戝崡闊充箰骞挎挱,http://live.xmcdn.com/live/904/64.m3u8
+浜戝崡-浜戝崡浜ら??氬箍鎾??,http://live.xmcdn.com/live/903/64.m3u8
+浜戝崡-浜戝崡鏂伴椈骞挎挱,http://live.xmcdn.com/live/905/64.m3u8
+浜戝崡-鏄嗘槑鍩庡競绠＄悊骞挎挱,https://live.xmcdn.com/live/906/64.m3u8
+浜戝崡-鏄嗘槑缁煎悎骞挎挱,https://live.xmcdn.com/live/910/64.m3u8
+浜戝崡-浜戝崡姘戞棌骞挎挱,http://live.xmcdn.com/live/911/64.m3u8
+娴欐睙-鏉窞瑗挎箹涔嬪０,http://live.xmcdn.com/live/635/64.m3u8
+涓浗-宸村溅娣栧皵鏂囪壓鐢熸椿骞挎挱,http://live.xmcdn.com/live/2599/64.m3u8
+閲嶅簡-涓囧窞浜ら??氬箍鎾??,http://live.xmcdn.com/live/1678/64.m3u8
+閲嶅簡-涓囧窞缁煎悎骞挎挱,http://live.xmcdn.com/live/1679/64.m3u8
+闈栬繙鏂伴椈缁煎悎骞挎挱,http://live.xmcdn.com/live/2646/64.m3u8
+宸村溅娣栧皵缁煎悎骞挎挱,http://live.xmcdn.com/live/2598/64.m3u8
+瀹佹尝浜ら??氬箍鎾??,http://live.xmcdn.com/live/649/64.m3u8
+瀹佹尝闊充箰骞挎挱,http://live.xmcdn.com/live/660/64.m3u8
+榛戞渤缁煎悎骞挎挱,http://live.xmcdn.com/live/2139/64.m3u8
+灞辫タ鍋ュ悍涔嬪０,http://live.xmcdn.com/live/2736/64.m3u8
+鏂扮枂-闃垮厠鑻忔眽璇箍鎾??,http://live.xmcdn.com/live/2681/64.m3u8
+鍥涘窛-SzechuanMetroVoiceRadio,http://live.xmcdn.com/live/755/64.m3u8
+鍥涘窛-SzechuanLiterature&ArtRadio,http://live.xmcdn.com/live/1641/64.m3u8
+甯屾湜-绉︾殗宀涗氦閫氭枃鑹哄箍鎾??,http://live.xmcdn.com/live/523/64.m3u8
+甯屾湜-绉︾殗宀涘ū涔愮敓娲诲箍鎾涔愯皟棰??,http://live.xmcdn.com/live/1129/64.m3u8
+甯屾湜-娌冲寳闊充箰骞挎挱Hopeimusicradio,http://live.xmcdn.com/live/494/64.m3u8
+甯屾湜-绉︾殗宀涚瀹惰溅骞挎挱,http://live.xmcdn.com/live/1122/64.m3u8
+瑗勯槼缁煎悎骞挎挱,http://ls.qingting.fm/live/1307.m3u8
+瑗勯槼浜ら??氶煶涔愬箍鎾??,http://ls.qingting.fm/live/1308.m3u8
+闃跨﹩灏旀渤-AmurRiverUniversityRadio,http://ls.qingting.fm/live/4976.m3u8
+闃跨﹩灏旀渤-HarbinMusicRadio,http://ls.qingting.fm/live/839.m3u8
+闃跨﹩灏旀渤-HarbinTrafficRadio,http://ls.qingting.fm/live/838.m3u8
+闃跨﹩灏旀渤-AmurRiverFamilyRadio,http://ls.qingting.fm/live/4972.m3u8
+闃跨﹩灏旀渤-HarbinEconomicsRadio,http://ls.qingting.fm/live/837.m3u8
+闃跨﹩灏旀渤-AmurRiverPrivateCarRadio,http://ls.qingting.fm/live/4970.m3u8
+瀹夊窘-榛勫北浜ら??氭梾娓稿箍鎾??,http://ls.qingting.fm/live/1969.m3u8
+瀹夊窘-榛勫北缁煎悎骞挎挱,http://ls.qingting.fm/live/1968.m3u8
+ChaochowOperaRadio,http://ls.qingting.fm/live/4595.m3u8
+ChaochowNewsRadio,http://ls.qingting.fm/live/4596.m3u8
+ChaochowTraffic&MusicRadio,http://ls.qingting.fm/live/4594.m3u8
+璐靛窞-KweiyangMusicRadio,http://ls.qingting.fm/live/4874.m3u8
+璐靛窞-KweiyangTrafficRadio,http://ls.qingting.fm/live/1774.m3u8
+婀栧寳-姝︽眽浜ら??氬箍鎾锋姹夊競搴旀??ュ箍鎾數鍙??,http://ls.qingting.fm/live/4665.m3u8
+婀栧寳-姝︽眽闊充箰骞挎挱路鍔ㄦ劅93.6,http://ls.qingting.fm/live/5011.m3u8
+婀栧寳-姝︽眽缁忓吀闊充箰骞挎挱路宀佹湀鎮犻暱,鍚濂芥椂鍏??,http://ls.qingting.fm/live/1297.m3u8
+婀栧崡-HunanModernMusicRadio,http://ls.qingting.fm/live/4980.m3u8
+婀栧崡-HunanNewsRadio,http://ls.qingting.fm/live/4978.m3u8
+婀栧崡-HunanTrafficRadio,http://ls.qingting.fm/live/4879.m3u8
+婀栧崡-HunanVoiceofHsiaoHsiangRadio,http://ls.qingting.fm/live/4982.m3u8
+婀栧崡-HunanCarMusicRadio,http://ls.qingting.fm/live/4979.m3u8
+婀栧崡-HunanGoldenOldieRadio,http://ls.qingting.fm/live/4981.m3u8
+姹熻嫃-ChangchowMusicRadio,http://ls.qingting.fm/live/2799.m3u8
+姹熻嫃-ChangchowNewsRadio,http://ls.qingting.fm/live/2798.m3u8
+姹熻嫃-ChangchowMetroRadio,http://ls.qingting.fm/live/2794.m3u8
+姹熻タ-KiangsiMetroRadio,http://ls.qingting.fm/live/1810.m3u8
+姹熻タ-涓婇ザ鏂伴椈缁煎悎骞挎挱,http://ls.qingting.fm/live/1808.m3u8
+杈藉畞-TantungTrafficRadio,http://ls.qingting.fm/live/1091.m3u8
+杈藉畞-TantungNewsRadio,http://ls.qingting.fm/live/1090.m3u8
+灞变笢-TsingtaoMusic&SportsRadio,http://ls.qingting.fm/live/1677.m3u8
+灞变笢-TsingtaoEconomicsRadio,http://ls.qingting.fm/live/1674.m3u8
+灞变笢-WeifangTrafficRadio,http://ls.qingting.fm/live/4014.m3u8
+灞变笢-WeifangMusicRadio,http://ls.qingting.fm/live/4865.m3u8
+灞变笢-TsingtaoPrivateCarRadio,http://ls.qingting.fm/live/1675.m3u8
+灞辫タ-ShansiMusicRadio,http://ls.qingting.fm/live/4932.m3u8
+鍥涘窛-MianyangTrafficRadio,http://ls.qingting.fm/live/4026.m3u8
+鍥涘窛-ChengtuTrafficRadio,http://ls.qingting.fm/live/4891.m3u8
+鍥涘窛-MianyangMusicRadio,http://ls.qingting.fm/live/4025.m3u8
+鍥涘窛-MianyangNewsRadio,http://ls.qingting.fm/live/4024.m3u8
+澶╃-婊ㄦ捣闊充箰骞挎挱FM100.5,http://ls.qingting.fm/live/23869.m3u8
+甯屾湜-ShikiachwangMusicRadio,http://ls.qingting.fm/live/1654.m3u8
+甯屾湜-ShikiachwangNewsRadio,http://ls.qingting.fm/live/1652.m3u8
+甯屾湜-ShikiachwangTrafficRadio,http://ls.qingting.fm/live/1655.m3u8
+鏂扮枂-UrumtsiUyghurRadio,http://ls.qingting.fm/live/1923.m3u8
+鏂扮枂-UrumtsiTrafficRadio,http://ls.qingting.fm/live/1919.m3u8
+鏂扮枂-UrumtsiNewsRadio,http://ls.qingting.fm/live/1918.m3u8
+鏂扮枂-UrumtsiTourist&MusicRadio,http://ls.qingting.fm/live/1920.m3u8
+鍗庤閲戞洸500棣??,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+鏂囧北浜ら??氬箍鎾??,http://m3u8.channel.wsrtv.com.cn/cms/audios/nmip-media/audiolive/audio10/playlist.m3u8
+浜戝崡-鏂囧北缁煎悎骞挎挱,http://m3u8.channel.wsrtv.com.cn/cms/audios/nmip-media/audiolive/audio9/playlist.m3u8
+灞变笢浜ら??氬箍鎾??,http://audiolive302.iqilu.com/sdradioJiaotong/sdradio05/playlist.m3u8
+鍥涘窛-鎴愰兘浜ら??氭枃鑹哄箍鎾??,http://livecdn.pull.cdbs.com.cn/live/fm914/playlist.m3u8
+涓浗-鎴愰兘鏁呬簨骞挎挱,http://livecdn.pull.cdbs.com.cn/live/fm882/playlist.m3u8
+姹熻嫃-KiangsuHealthRadio,http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
+姹熻嫃-KiangsuTrafficRadio,http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8
+姹熻嫃-KiangsuMusicRadio,http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8
+姹熻嫃-KiangsuVoiceofKinglingRadio,http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
+姹熻嫃-KiangsuLiterature&ArtRadio,http://lzlive.vojs.cn/pL6NkZo/92/live.m3u8
+姹熻嫃-KiangsuFinanceRadio,http://lzlive.vojs.cn/caijing/92/live.m3u8
+姹熻嫃-KiangsuStoryRadio,http://lzlive.vojs.cn/rWjyus9/92/live.m3u8
+姹熻嫃-KiangsuNewsRadio,http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
+姹熻嫃-KiangsuGeneralNewsRadio,http://lzlive.vojs.cn/rTyLc36/92/live.m3u8
+绁炴????-SianMusicRadio,http://stream3.xiancity.cn/4/sd/live.m3u8
+绁炴????-SianInfoRadio,http://stream3.xiancity.cn/2/sd/live.m3u8
+绁炴????-SianNewsRadio,http://stream3.xiancity.cn/1/sd/live.m3u8
+绁炴????-SianTrafficRadio,http://stream3.xiancity.cn/5/sd/live.m3u8
+甯屾湜-寮犲鍙ｇ患鍚堝箍鎾??,http://nlive.zjkgdcs.com:8091/live/xwgb.m3u8
+甯屾湜-寮犲鍙ｅ啘涓氱粡娴庡箍鎾??,http://nlive.zjkgdcs.com:8091/live/sjc.m3u8
+甯屾湜-寮犲鍙ｇ患鑹哄箍鎾??,http://nlive.zjkgdcs.com:8091/live/jtgb.m3u8
+甯屾湜-寮犲鍙ｅ煄甯傜敓娲诲箍鎾??,http://nlive.zjkgdcs.com:8091/live/pwgb.m3u8
+娴欐睙-SinchangVoiceofTienmu,http://l.cztvcloud.com/channels/lantian/SXxinchangaud/128k.m3u8
+娴欐睙-ShangyuPeopleRadio,http://l.cztvcloud.com/channels/lantian/SXshangyuaud/128k.m3u8
+娴欐睙-SiaoshanFMRadio,http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8
+娴欐睙-缁嶅叴缁煎悎骞挎挱,http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
+娴欐睙-缁嶅叴浜ら??氬箍鎾??,http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
+娴欐睙-缁嶅叴鎴忔洸骞挎挱,http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
+浜冲窞浜ら??氶煶涔愬箍鎾??,http://zbbf2.ahbztv.com/live/41c.m3u8
+浜冲窞缁煎悎骞挎挱,http://zbbf2.ahbztv.com/live/41a.m3u8
+CNR-9鏂囪壓涔嬪０,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+閾滄榫欎埂涔嬪０,http://183.64.174.171:10124/tlgb.m3u8
+婀栧崡-SiangtanNewsRadio,http://live.hnxttv.com:9601/live/radiomg/100K/tzwj_video.m3u8
+灞变笢-TsingchowNewsRadio,http://sdqz.chinashadt.com:2036/live/4.stream/playlist.m3u8
+浜戝崡-瑗垮弻鐗堢撼姹夎缁煎悎骞挎挱,http://file.xsbnrtv.cn/vms/audios/nmip-media/audiolive/audio2/playlist.m3u8
+CNR-12鏁呬簨骞挎挱,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR-16涔℃潙涔嬪０,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR-10鑰佸勾涔嬪０,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR-8姘戞棌涔嬪０,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+鎬??闆嗛煶涔愬彴,http://live.xmcdn.com:80/live/966/64.m3u8
+楂樻竻闊充箰鍙??,http://live.xmcdn.com:80/live/1427/64.m3u8
+娓呮櫒闊充箰鍙??,http://live.xmcdn.com:80/live/1011/64.m3u8
+鑰佹瓕闊充箰鍙??,http://live.xmcdn.com:80/live/2628/64.m3u8
+浜氭床缁忓吀闊充箰鍙??,http://live.xmcdn.com:80/live/1005/64.m3u8
+鍖椾含闊充箰骞挎挱,http://live.xmcdn.com/live/95/64.m3u8
+闊充箰-宸村溅娣栧皵浜ら??氬箍鎾??,http://live.xmcdn.com/live/1096/64.m3u8
+娴欐睙鍔ㄥ惉,http://ls.qingting.fm/live/4866.m3u8
+鍥涘窛宀锋睙闊充箰骞挎挱,http://ls.qingting.fm/live/1110.m3u8
+骞夸笢闊充箰骞挎挱,http://ls.qingting.fm/live/1260.m3u8
+娣卞湷椋炴壃闊充箰鍙??,http://ls.qingting.fm/live/1271.m3u8
+閲嶅簡鏂伴椈骞挎挱 FM96.80*0][0*0],http://live.xmcdn.com/live/128/64.m3u8
+閲嶅簡浜ら??氬箍鎾?? FM95.50*0][0*0],http://live.xmcdn.com/live/130/64.m3u8
+閲嶅簡闊充箰骞挎挱 FM88.10*0][0*0],http://live.xmcdn.com/live/131/64.m3u8
+閲嶅簡閮藉競骞挎挱 FM93.80*0][0*0],http://live.xmcdn.com/live/132/64.m3u8
+骞垮窞鏂伴椈鐢靛彴 FM96.20*0][0*0],http://live.xmcdn.com/live/256/64.m3u8
+骞垮窞姹借溅闊充箰鐢靛彴 FM102.70*0][0*0],http://live.xmcdn.com/live/257/64.m3u8
+閲嶅簡鏂伴椈骞挎挱 FM96.80*0][0*0],http://ls.qingting.fm/live/1498.m3u8
+閲嶅簡缁忔祹骞挎挱 FM101.50*0][0*0],http://ls.qingting.fm/live/1499.m3u8
+閲嶅簡浜ら??氬箍鎾?? FM95.50*0][0*0],http://ls.qingting.fm/live/1500.m3u8
+閲嶅簡闊充箰骞挎挱 FM88.10*0][0*0],http://ls.qingting.fm/live/647.m3u8
+閲嶅簡閮藉競骞挎挱 FM93.80*0][0*0],http://ls.qingting.fm/live/1502.m3u8
+宸存笣涔嬪０ FM104.50*0][0*0],http://ls.qingting.fm/live/3545693.m3u8
+骞垮窞鏂伴椈鐢靛彴 FM96.20*0][0*0],http://ls.qingting.fm/live/4848.m3u8
+骞垮窞姹借溅闊充箰鐢靛彴 FM102.70*0][0*0],http://ls.qingting.fm/live/52710.m3u8
+骞垮窞浜ら??氱數鍙?? FM106.10*0][0*0],http://ls.qingting.fm/live/4955.m3u8
+骞垮窞 MYFM 88.0 (閮藉競鐢熸椿)0*0][0*0],http://ls.qingting.fm/live/52712.m3u8
+涓滃箍鏂伴椈鍙?? FM90.9[0*0],http://ls.qingting.fm/live/275.m3u8
+涓滆帪FM104闊充箰骞挎挱[0*0],http://ls.qingting.fm/live/93619.m3u8
+涓滆帪鐣呬韩1075浜ら??氬箍鎾璠0*0],http://ls.qingting.fm/live/1288.m3u8
+涔濇睙浜ら??氬箍鎾?? FM88.4 FM88.9[0*0],http://ls.qingting.fm/live/2785094.m3u8
+浜戝崡浜ら??氬箍鎾?? FM91.8[0*0],http://ls.qingting.fm/live/1928.m3u8
+浜戝崡鏁欒偛骞挎挱 FM100[0*0],http://ls.qingting.fm/live/1930.m3u8
+浜戝崡鏂伴椈骞挎挱 FM105.8[0*0],http://ls.qingting.fm/live/1926.m3u8
+浜戝崡姘戞棌骞挎挱 SW7210[0*0],http://ls.qingting.fm/live/1933.m3u8
+浜戝崡缁忔祹骞挎挱 绉佸杞?? FM88.7[0*0],http://ls.qingting.fm/live/1927.m3u8
+浜戝崡闊充箰骞挎挱 FM97[0*0],http://ls.qingting.fm/live/1929.m3u8
+淇濆畾浜ら??氬箍鎾?? FM104.8[0*0],http://ls.qingting.fm/live/28140.m3u8
+淇濆畾鏂伴椈骞挎挱 FM93.7[0*0],http://ls.qingting.fm/live/3701149.m3u8
+淇濆畾缁忓吀964姹借溅闊充箰骞挎挱[0*0],http://ls.qingting.fm/live/2227017.m3u8
+鍗楀畞浜ら??氶煶涔愬箍鎾?? FM107.4[0*0],http://ls.qingting.fm/live/80793.m3u8
+鍛煎拰娴╃壒鍩庡競鐢熸椿骞挎挱 FM90.1[0*0],http://ls.qingting.fm/live/2218717.m3u8
+鍛煎拰娴╃壒鏂伴椈缁煎悎骞挎挱 FM92.9[0*0],http://ls.qingting.fm/live/2218711.m3u8
+鍜搁槼鍩庡競涔嬪０ FM100.7[0*0],http://ls.qingting.fm/live/3559664.m3u8
+鍥涘窛鏂囪壓骞挎挱 蹇箰900 FM90.0[0*0],http://ls.qingting.fm/live/4887.m3u8
+鍥涘窛鏂伴椈缁煎悎骞挎挱 FM98.1[0*0],http://ls.qingting.fm/live/4906.m3u8
+鍥涘窛姘戞棌骞挎挱 AM954[0*0],http://ls.qingting.fm/live/1115.m3u8
+鍥涘窛绉佸杞﹀箍鎾?? FM92.5[0*0],http://ls.qingting.fm/live/4939.m3u8
+鍥涘窛璐㈠瘜骞挎挱 FM94.0[0*0],http://ls.qingting.fm/live/4927.m3u8
+澶師浜ら??氬箍鎾?? FM107[0*0],http://ls.qingting.fm/live/4900.m3u8
+澶師鏂伴椈骞挎挱 FM91.2[0*0],http://ls.qingting.fm/live/23873.m3u8
+澶師绉佸杞adio FM104.4[0*0],http://ls.qingting.fm/live/4018.m3u8
+澶師闊充箰骞挎挱 FM102.6[0*0],http://ls.qingting.fm/live/1185.m3u8
+瀹佸浜ら??氬箍鎾?? FM98.4[0*0],http://ls.qingting.fm/live/1840.m3u8
+瀹佸閮藉競骞挎挱 FM103.7[0*0],http://ls.qingting.fm/live/1842.m3u8
+灞变笢浣撹偛骞挎挱 FM102.1[0*0],http://ls.qingting.fm/live/60266.m3u8
+灞变笢鏂伴椈骞挎挱 FM95[0*0],http://ls.qingting.fm/live/60180.m3u8
+灞变笢鐢熸椿骞挎挱 MyFM FM105[0*0],http://ls.qingting.fm/live/60260.m3u8
+灞变笢闊充箰骞挎挱 FM99.1[0*0],http://ls.qingting.fm/live/1665.m3u8
+宀抽槼浜ら??氬箍鎾?? FM106.1[0*0],http://ls.qingting.fm/live/88931.m3u8
+宀抽槼鏂伴椈缁煎悎骞挎挱[0*0],http://ls.qingting.fm/live/88933.m3u8
+甯稿窞浜ら??氬箍鎾?? FM90[0*0],http://ls.qingting.fm/live/2796.m3u8
+骞胯タ濂充富鎾數鍙?? FM97.0[0*0],http://ls.qingting.fm/live/1754.m3u8
+骞胯タ鏂伴椈910 FM91.0[0*0],http://ls.qingting.fm/live/1753.m3u8
+骞胯タ绉佸杞??930 FM93.0[0*0],http://ls.qingting.fm/live/1756.m3u8
+骞胯タ闊充箰鍙?? FM95.0[0*0],http://ls.qingting.fm/live/4875.m3u8
+鎯犲窞鏂伴椈缁煎悎骞挎挱 FM100[0*0],http://ls.qingting.fm/live/5016.m3u8
+鎯犲窞鐜繚浜ら??氬箍鎾?? FM98.8[0*0],http://ls.qingting.fm/live/5017.m3u8
+鎯犲窞闊充箰骞挎挱 FM90.7[0*0],http://ls.qingting.fm/live/2212959.m3u8
+鏂扮枂浜ら??氬箍鎾?? FM94.9 (Opt-2)[0*0],http://ls.qingting.fm/live/1910.m3u8
+鏂扮枂姘戠敓骞挎挱 FM92.4 (Opt-2)[0*0],http://ls.qingting.fm/live/76186.m3u8
+鏃犻敗鏂伴椈骞挎挱 FM93.7[0*0],http://ls.qingting.fm/live/2777.m3u8
+鏄嗘槑姹借溅骞挎挱 FM95.4[0*0],http://ls.qingting.fm/live/1936.m3u8
+鏄嗘槑閮藉競璋冮 FM102.8[0*0],http://ls.qingting.fm/live/1935.m3u8
+鏄嗘槑闃冲厜骞挎挱[0*0],http://ls.qingting.fm/live/1934.m3u8
+姊呭窞浜ら??氬箍鎾?? FM105.8[0*0],http://ls.qingting.fm/live/24195.m3u8
+姊呭窞鏂伴椈骞挎挱 FM94.8[0*0],http://ls.qingting.fm/live/24173.m3u8
+姹熻嫃鏂伴椈骞挎挱 FM93.7[0*0],http://ls.qingting.fm/live/4944.m3u8
+娌堥槼鏂伴椈骞挎挱 FM104.5[0*0],http://ls.qingting.fm/live/23891.m3u8
+娌冲寳 My FM 102.9[0*0],http://ls.qingting.fm/live/2508757.m3u8
+娌冲寳浜ら??氬箍鎾?? FM99.2[0*0],http://ls.qingting.fm/live/1646.m3u8
+娌冲寳鍐滄皯骞挎挱 AM558[0*0],http://ls.qingting.fm/live/1650.m3u8
+娌冲寳鏁呬簨骞挎挱 FM107.9[0*0],http://ls.qingting.fm/live/1645.m3u8
+娌冲寳鏂伴椈骞挎挱 FM104.3[0*0],http://ls.qingting.fm/live/1644.m3u8
+娌冲寳鏃呮父骞挎挱 AM603[0*0],http://ls.qingting.fm/live/1651.m3u8
+娌冲寳鐢熸椿骞挎挱 FM88.8[0*0],http://ls.qingting.fm/live/4867.m3u8
+娌冲寳绉佸杞﹀箍鎾?? FM90.7[0*0],http://ls.qingting.fm/live/4868.m3u8
+娌冲寳闊充箰骞挎挱 FM102.4[0*0],http://ls.qingting.fm/live/1649.m3u8
+娴庡崡鏁呬簨骞挎挱 FM104.3[0*0],http://ls.qingting.fm/live/1672.m3u8
+娴庡崡绉佸杞﹀箍鎾?? FM93.6[0*0],http://ls.qingting.fm/live/1670.m3u8
+娴庡崡缁忔祹骞挎挱 FM90.9[0*0],http://ls.qingting.fm/live/1668.m3u8
+娴庡崡闊充箰骞挎挱(MUSIC887)[0*0],http://ls.qingting.fm/live/1671.m3u8
+娴欐睙涔嬪０ FM88 (Opt-1)[0*0],http://ls.qingting.fm/live/4518.m3u8
+娴欐睙浜ら??氫箣澹?? FM93 (Opt-1)[0*0],http://ls.qingting.fm/live/4522.m3u8
+娴欐睙濂充富鎾數鍙?? FM104.5 (Opt-2)[0*0],http://ls.qingting.fm/live/4524.m3u8
+娴欐睙璐㈠瘜骞挎挱 FM95 (Opt-1)[0*0],http://ls.qingting.fm/live/4519.m3u8
+娴峰崡浜ら??氬箍鎾?? FM100[0*0],http://ls.qingting.fm/live/4911.m3u8
+娴峰崡鍥介檯鏃呮父涔嬪０ FM103.8[0*0],http://ls.qingting.fm/live/1862.m3u8
+娴峰崡鏂伴椈骞挎挱 FM88.6[0*0],http://ls.qingting.fm/live/1861.m3u8
+娴峰崡姘戠敓骞挎挱 FM101[0*0],http://ls.qingting.fm/live/1511803.m3u8
+娣卞湷蹇箰1062(浜ら??氬箍鎾??)[0*0],http://ls.qingting.fm/live/1272.m3u8
+娣卞湷绉佸杞﹀箍鎾?? FM94.2[0*0],http://ls.qingting.fm/live/1273.m3u8
+娓╁窞浜ら??氬箍鎾?? FM103.9[0*0],http://ls.qingting.fm/live/23863.m3u8
+娓╁窞鏂伴椈骞挎挱 FM94.9[0*0],http://ls.qingting.fm/live/23861.m3u8
+娓╁窞绉佸杞﹂煶涔愬箍鎾?? FM100.3[0*0],http://ls.qingting.fm/live/23865.m3u8
+娓╁窞缁忔祹鐢熸椿骞挎挱 FM88.8[0*0],http://ls.qingting.fm/live/23867.m3u8
+娓╁窞缁胯壊涔嬪０ FM93.8[0*0],http://ls.qingting.fm/live/1158.m3u8
+鐝犳捣鐢靛彴浜ら??氶煶涔??875[0*0],http://ls.qingting.fm/live/1275.m3u8
+瑗垮畞浜ら??氶鐜嘯0*0],http://ls.qingting.fm/live/3400408.m3u8
+瑗垮畞鏂伴椈棰戠巼[0*0],http://ls.qingting.fm/live/3400403.m3u8
+瑗垮畨浜ら??氬箍鎾?? FM104.3 (Opt-1)[0*0],http://ls.qingting.fm/live/1611.m3u8
+瑗垮畨鏂伴椈骞挎挱 FM95.0 (Opt-1)[0*0],http://ls.qingting.fm/live/1610.m3u8
+瑗垮畨闊充箰骞挎挱 FM93.1 (Opt-1)[0*0],http://ls.qingting.fm/live/1612.m3u8
+璐靛窞鏂伴椈缁煎悎骞挎挱 FM94.6[0*0],http://ls.qingting.fm/live/23933.m3u8
+璐靛窞鐢靛彴浜ら??氬箍鎾?? FM95.2[0*0],http://ls.qingting.fm/live/23927.m3u8
+璐靛窞鐢靛彴鏃呮父骞挎挱 FM97.2[0*0],http://ls.qingting.fm/live/23929.m3u8
+璐靛窞鐢靛彴缁忔祹骞挎挱 FM98.9[0*0],http://ls.qingting.fm/live/23935.m3u8
+璐靛窞鐢靛彴闊充箰骞挎挱 FM91.6[0*0],http://ls.qingting.fm/live/23937.m3u8
+杈藉畞浜ら??氬箍鎾?? FM97.5[0*0],http://ls.qingting.fm/live/23801.m3u8
+閮戝窞鏂伴椈骞挎挱 FM98.6[0*0],http://ls.qingting.fm/live/1220.m3u8
+閮戝窞姹借溅骞挎挱 FM91.2[0*0],http://ls.qingting.fm/live/1211.m3u8
+閮戝窞娲诲姏944[0*0],http://ls.qingting.fm/live/4921.m3u8
+閮戝窞杞﹂亾931[0*0],http://ls.qingting.fm/live/1221.m3u8
+閮村窞缁煎悎骞挎挱 FM99.2[0*0],http://ls.qingting.fm/live/76765.m3u8
+閮村窞闊充箰浜ら??氬箍鎾?? FM102.8[0*0],http://ls.qingting.fm/live/86747.m3u8
+閲戦拱955鐢靛彴[0*0],http://ls.qingting.fm/live/4937.m3u8
+闀挎矙鍩庡競涔嬪０ FM101.7[0*0],http://ls.qingting.fm/live/4237.m3u8
+闀挎不浜ら??氭枃鑹哄箍鎾?? FM94.9[0*0],http://ls.qingting.fm/live/2669405.m3u8
+闃充俊浜烘皯骞挎挱鐢靛彴 FM103.4[0*0],http://ls.qingting.fm/live/2915753.m3u8
+闃虫硥浜ら??氬箍鎾璠0*0],http://ls.qingting.fm/live/4592896.m3u8
+闃虫硥鏂伴椈缁煎悎骞挎挱[0*0],http://ls.qingting.fm/live/5876899.m3u8
+闈掑矝浜ら??氬箍鎾?? FM89.7[0*0],http://ls.qingting.fm/live/1676.m3u8
+闈掑矝鏂伴椈骞挎挱 FM107.6[0*0],http://ls.qingting.fm/live/1673.m3u8
+闈掑矝瑗挎捣宀稿煄甯傜敓娲诲箍鎾?? FM92.6[0*0],http://ls.qingting.fm/live/33446.m3u8
+闈掓捣缁忔祹骞挎挱 FM07.5[0*0],http://ls.qingting.fm/live/5008.m3u8
+楣ゅ浜ら??氶煶涔愬箍鎾?? FM93.5[0*0],http://ls.qingting.fm/live/3032681.m3u8
+榫欏箍浜ら??氬箍鎾?? FM99.8[0*0],http://ls.qingting.fm/live/4973.m3u8
+榫欏箍鏂伴椈骞挎挱 FM94.6[0*0],http://ls.qingting.fm/live/4974.m3u8
+榫欏箍闊充箰骞挎挱 FM95.8[0*0],http://ls.qingting.fm/live/4969.m3u8
+
+
+涔℃潙椋熻氨[V4],#genre#
+鍦伴攨楦??,https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033701-0-0-448270cbc0e8dd01b1d3e3e79c645ede&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0300946132&vid=11820591972211290892&abtest=all
+娌宠煿涓??閿呯儵,https://vd2.bdstatic.com/mda-nekcx3v9ett2ris5/480p/h264/1653125375347700570/mda-nekcx3v9ett2ris5.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033479-0-0-b49abd06012eb0b266a58d9dca5c7f5f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0079449514&vid=6322076425195603579&abtest=all
+绾㈡洸閰遍腑,https://vd3.bdstatic.com/mda-neh81rk1eiuv3w27/480p/h264/1652854920609442406/mda-neh81rk1eiuv3w27.mp4?auth_key=1655033521-0-0-f906c86fac0f9d712e6b40db422982b9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0121635443&vid=6641467693514512194&abtest=all
+绾㈢儳娴疯寗瀛??,https://vd2.bdstatic.com/mda-ne9adpzib1w2s7i6/480p/h264/1652168146543774177/mda-ne9adpzib1w2s7i6.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655034801-0-0-619992652cfa0b8d01757056583c773a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1401746639&vid=10650375313183094889&abtest=all
+楦胯繍鐚ご,https://vd3.bdstatic.com/mda-ndj8t1xtu0qf1vp7/480p/h264_delogo/1650436754621760647/mda-ndj8t1xtu0qf1vp7.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035359-0-0-e2b5b52787d54808740e5abc56f67794&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1959759277&vid=11845744374558766684&abtest=all
+濮滆荆妫掗,https://vd2.bdstatic.com/mda-nda9532dzfpmrpjb/480p/h264_delogo/1649660429454395375/mda-nda9532dzfpmrpjb.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035937-0-0-e8dc2cb7fe4807a23083c7a22a38899c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2537470207&vid=17829729200355816866&abtest=all
+鐐曢攨缇婂ご,https://vd2.bdstatic.com/mda-ndkbtvkkzmzry5gr/hd/cae_h264_delogo/1650858156241136824/mda-ndkbtvkkzmzry5gr.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035320-0-0-148e9e7804a8284edd6678b00cb60beb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1920864857&vid=8826414521234968806&abtest=all
+楹昏荆鍏斿ご,https://vd2.bdstatic.com/mda-ndr9vd3muu069myi/480p/h264_delogo/1650956744271709907/mda-ndr9vd3muu069myi.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655035207-0-0-35a7618c2c86d9455e0d8550e048ead7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1807001502&vid=10868651239061775579&abtest=all
+楹昏荆灏忛緳铏??,https://vd3.bdstatic.com/mda-ndu9tguy0fay7ye1/480p/h264_delogo/1651215429015875965/mda-ndu9tguy0fay7ye1.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655035125-0-0-f68c0c5448e434f9570361e845bdce0d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1725743161&vid=9743722764712261597&abtest=all
+260涔板崄鏉ュ彧灏忕敳楸??,https://vd4.bdstatic.com/mda-nf29yjvnrcqwwy2q/480p/h264/1654240313985806512/mda-nf29yjvnrcqwwy2q.mp4?auth_key=1655032564-0-0-747aa1c4fdd90716418995aa885348a7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2764614902&vid=9984932099035144842&abtest=all
+闇哥帇鐗涘熬,https://vd3.bdstatic.com/mda-nf39wk2de3ryede7/480p/h264/1654326718567558149/mda-nf39wk2de3ryede7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655032908-0-0-21cb435cc1f8eb263984e073bb6106c5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3108822864&vid=6595468946187502994&abtest=all
+骞查攨鐗涜洐,https://vd4.bdstatic.com/mda-neu9v10u2tk22kwt/480p/h264/1653808467692279237/mda-neu9v10u2tk22kwt.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655033139-0-0-6ffe17fd9a49c1b38bd9efbed61a05e8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3339243039&vid=14953153288685054828&abtest=all
+楦¤叞鐐栭粍槌??,https://vd3.bdstatic.com/mda-nf5b4qfywy5pzjgu/480p/h264/1654502805261088051/mda-nf5b4qfywy5pzjgu.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655032849-0-0-433e12f29eaab498df3667819d6d9d5b&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3049228437&vid=3904751968646806841&abtest=all
+閰辩剸鐗涙楠??,https://vd2.bdstatic.com/mda-nerafr1ft7affzwk/480p/h264/1653552110960778877/mda-nerafr1ft7affzwk.mp4?auth_key=1655033260-0-0-e4c291de85acb14f57b8728592bce8d0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3460184673&vid=12330119679350378689&abtest=all
+杈ｅ崵椹煎ご,https://vd3.bdstatic.com/mda-newe17bhfrmd35a9/480p/h264/1653991101001259092/mda-newe17bhfrmd35a9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655032944-0-0-352bdafaee4bbadacf814f1344beecd5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3144408041&vid=1387963609971371324&abtest=all
+閾佹《鐑ら浮,https://vd2.bdstatic.com/mda-nf9c27rq4xcbjmk4/480p/h264/1654931961791216300/mda-nf9c27rq4xcbjmk4.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655032635-0-0-7c3ad26ae39d51e736978d393ad44242&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2835878236&vid=15570804519629633873&abtest=all
+闆北椹兼帉,https://vd2.bdstatic.com/mda-nf89bup48h33rnsi/480p/h264/1654758415054577400/mda-nf89bup48h33rnsi.mp4?auth_key=1655032748-0-0-b7c12af769785740b322753442e5c1ff&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2948153948&vid=2972680187953890553&abtest=all
+鍥涜箘鍚岀儵,https://vd3.bdstatic.com/mda-nefa29rfui86n3pw/480p/h264/1652685563112169821/mda-nefa29rfui86n3pw.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033628-0-0-ad9c96bb17140c4d2d2f0a2ac1ab2acf&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0228464890&vid=9369566642451833404&abtest=all
+绯栭唻鐗涙帓,https://vd2.bdstatic.com/mda-ne6apsvwr0mmengs/480p/h264/1651909954766095518/mda-ne6apsvwr0mmengs.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655034849-0-0-30a90703c068320a18a17d308cd93f61&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1449510204&vid=394264423709055760&abtest=all
+鍦熷尓閰ュ共,https://vd2.bdstatic.com/mda-ndua1tez8vc7zr5z/480p/h264_delogo/1651217539984001622/mda-ndua1tez8vc7zr5z.mp4?auth_key=1655035071-0-0-49402cbadff899380a97b36cc4c6108e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1671740184&vid=13634275945822664360&abtest=all
+鍏斿寘楦??,https://vd3.bdstatic.com/mda-ne086qd7pxsrab3f/480p/h264_delogo/1651385481542929517/mda-ne086qd7pxsrab3f.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655035021-0-0-5df18cbf9592a36078f609ffabfc46a4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1621918400&vid=9952112813454050741&abtest=all
+娌宠煿涓??閿呯儵,https://vd2.bdstatic.com/mda-nekcx3v9ett2ris5/480p/h264/1653125375347700570/mda-nekcx3v9ett2ris5.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033479-0-0-b49abd06012eb0b266a58d9dca5c7f5f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0079449514&vid=6322076425195603579&abtest=all
+绾㈡洸閰遍腑,https://vd3.bdstatic.com/mda-neh81rk1eiuv3w27/480p/h264/1652854920609442406/mda-neh81rk1eiuv3w27.mp4?auth_key=1655033521-0-0-f906c86fac0f9d712e6b40db422982b9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0121635443&vid=6641467693514512194&abtest=all
+鍥涜箘鍚岀儵,https://vd3.bdstatic.com/mda-nefa29rfui86n3pw/480p/h264/1652685563112169821/mda-nefa29rfui86n3pw.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033628-0-0-ad9c96bb17140c4d2d2f0a2ac1ab2acf&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0228464890&vid=9369566642451833404&abtest=all
+鍦伴攨楦??,https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033701-0-0-448270cbc0e8dd01b1d3e3e79c645ede&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0300946132&vid=11820591972211290892&abtest=all
+绾㈢儳娴疯寗瀛??,https://vd2.bdstatic.com/mda-ne9adpzib1w2s7i6/480p/h264/1652168146543774177/mda-ne9adpzib1w2s7i6.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655034801-0-0-619992652cfa0b8d01757056583c773a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1401746639&vid=10650375313183094889&abtest=all
+绯栭唻鐗涙帓,https://vd2.bdstatic.com/mda-ne6apsvwr0mmengs/480p/h264/1651909954766095518/mda-ne6apsvwr0mmengs.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655034849-0-0-30a90703c068320a18a17d308cd93f61&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1449510204&vid=394264423709055760&abtest=all
+鍏斿寘楦??,https://vd3.bdstatic.com/mda-ne086qd7pxsrab3f/480p/h264_delogo/1651385481542929517/mda-ne086qd7pxsrab3f.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655035021-0-0-5df18cbf9592a36078f609ffabfc46a4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1621918400&vid=9952112813454050741&abtest=all
+鍦熷尓閰ュ共,https://vd2.bdstatic.com/mda-ndua1tez8vc7zr5z/480p/h264_delogo/1651217539984001622/mda-ndua1tez8vc7zr5z.mp4?auth_key=1655035071-0-0-49402cbadff899380a97b36cc4c6108e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1671740184&vid=13634275945822664360&abtest=all
+楹昏荆灏忛緳铏??,https://vd3.bdstatic.com/mda-ndu9tguy0fay7ye1/480p/h264_delogo/1651215429015875965/mda-ndu9tguy0fay7ye1.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655035125-0-0-f68c0c5448e434f9570361e845bdce0d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1725743161&vid=9743722764712261597&abtest=all
+楹昏荆鍏斿ご,https://vd2.bdstatic.com/mda-ndr9vd3muu069myi/480p/h264_delogo/1650956744271709907/mda-ndr9vd3muu069myi.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655035207-0-0-35a7618c2c86d9455e0d8550e048ead7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1807001502&vid=10868651239061775579&abtest=all
+鐐曢攨缇婂ご,https://vd2.bdstatic.com/mda-ndkbtvkkzmzry5gr/hd/cae_h264_delogo/1650858156241136824/mda-ndkbtvkkzmzry5gr.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035320-0-0-148e9e7804a8284edd6678b00cb60beb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1920864857&vid=8826414521234968806&abtest=all
+楦胯繍鐚ご,https://vd3.bdstatic.com/mda-ndj8t1xtu0qf1vp7/480p/h264_delogo/1650436754621760647/mda-ndj8t1xtu0qf1vp7.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035359-0-0-e2b5b52787d54808740e5abc56f67794&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1959759277&vid=11845744374558766684&abtest=all
+濮滆荆妫掗,https://vd2.bdstatic.com/mda-nda9532dzfpmrpjb/480p/h264_delogo/1649660429454395375/mda-nda9532dzfpmrpjb.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035937-0-0-e8dc2cb7fe4807a23083c7a22a38899c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2537470207&vid=17829729200355816866&abtest=all
+鏉胯偁铻虹嫯绮??,https://vd4.bdstatic.com/mda-nd98hi8r73ztrpya/480p/h264_delogo/1649573004142585909/mda-nd98hi8r73ztrpya.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036003-0-0-dabd15ea0dd95129755c956d50da5fef&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2603471359&vid=8288566267298198452&abtest=all
+澶ч攨鍙??,https://vd3.bdstatic.com/mda-nd89jph9c9hh7rcf/480p/h264_delogo/1649488575217940578/mda-nd89jph9c9hh7rcf.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655036071-0-0-5289bacc04858b3cb16d1e5fcb442da2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2671193173&vid=10128460658145386557&abtest=all
+鐩愮剹閯傞緹,https://vd3.bdstatic.com/mda-nd7c2f8nq4hcnrkn/480p/h264_delogo/1649407459996974581/mda-nd7c2f8nq4hcnrkn.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036140-0-0-f311eaf138660e84836cc8ce5559e7b2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2740696995&vid=8924502782467213214&abtest=all
+鏋滈鎺掗,https://vd3.bdstatic.com/mda-nd68ai08aj0ewj9s/480p/h264_delogo/1649313333330734786/mda-nd68ai08aj0ewj9s.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036207-0-0-feb91443f39a8905fd834a69b4170c6d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2807567938&vid=15309846064687821084&abtest=all
+閾佹澘楸块奔,https://vd2.bdstatic.com/mda-nd47jpggnervrjev/480p/h264_delogo/1649138428625881592/mda-nd47jpggnervrjev.mp4?auth_key=1655036357-0-0-ac3c5503cbaae86d97c9a0b315d19524&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2957492859&vid=3160589265422527523&abtest=all
+鑴嗙毊鐚墜,https://vd3.bdstatic.com/mda-nd37fvbi8ns75v8k/480p/h264_delogo/1649051367811032897/mda-nd37fvbi8ns75v8k.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036409-0-0-f2e5408b79d1f40315a8f33c67fdf6fb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3009075188&vid=7860934379477494781&abtest=all
+鐗涙灦瀛??,https://vd2.bdstatic.com/mda-nd18ibhe9e17sxv0/480p/h264_delogo/1648880628803892130/mda-nd18ibhe9e17sxv0.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036457-0-0-b0bac9742c6ace4561c8f521c1bcaf85&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3057160852&vid=11761064184755722546&abtest=all
+涔惧潳鐗涜倸,https://vd3.bdstatic.com/mda-ncsc455a412m4wha/480p/h264_delogo/1648370949637453882/mda-ncsc455a412m4wha.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036517-0-0-3c7b1fe1382c869d73153c5f225316e4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3117533700&vid=8833269090986204171&abtest=all
+楸兼场缇婅倝,https://vd3.bdstatic.com/mda-nck76h2megnj3mbh/480p/h264_delogo/1647841284503494555/mda-nck76h2megnj3mbh.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036589-0-0-880e0f1de125181b5b9bb5f6476c661e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3189017543&vid=10780357048643047061&abtest=all
+绾㈢儳椹瀺妗??,https://vd4.bdstatic.com/mda-nci8vdhp6s1ppcg8/480p/h264_delogo/1647672848908064952/mda-nci8vdhp6s1ppcg8.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036663-0-0-0818d0aeb59ba3a9eb89b30505ea46f5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3263147606&vid=11272322946744536045&abtest=all
+鐗涜倝姹??,https://vd3.bdstatic.com/mda-ncg7mynaykcnexuw/480p/h264_delogo/1647496893316677116/mda-ncg7mynaykcnexuw.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655036697-0-0-5049e23603faba336b89cd56fa14bd35&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3297611495&vid=10038164832874949087&abtest=all
+浜旇姳鑲夊嵎,https://vd4.bdstatic.com/mda-nca7q9hnjmqh2iw6/hd/cae_h264_delogo/1646984324539660807/mda-nca7q9hnjmqh2iw6.mp4?auth_key=1655036757-0-0-85759a1b396a5484fea9719f6289ddba&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3356934915&vid=13602902236587799952&abtest=all
+鎵掗浮,https://vd3.bdstatic.com/mda-nc8a1imqiriahjd2/hd/cae_h264_delogo/1646811978078057591/mda-nc8a1imqiriahjd2.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036784-0-0-ec2770049bd45db0649cd03b54cc0881&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3384576631&vid=2238279565543294477&abtest=all
+纰崇儰鐗涜洐,https://vd2.bdstatic.com/mda-nc78zsmegndnzq8b/480p/h264_delogo/1646722879137832380/mda-nc78zsmegndnzq8b.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036807-0-0-53893a25709e7523ab7ce56c7572d59a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3407937406&vid=10249442721586817393&abtest=all
+鐑ゅ▋濞冮奔,https://vd3.bdstatic.com/mda-nc581x9xhdu2hy97/480p/h264_delogo/1646547280542647694/mda-nc581x9xhdu2hy97.mp4?auth_key=1655036844-0-0-f8a7a7558c735830c08499beccabf494&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3444083058&vid=3100447263476279517&abtest=all
+閾佹澘缇婅叞,https://vd3.bdstatic.com/mda-nbs76a3f70kr1p7z/480p/h264_delogo/1645939971169058430/mda-nbs76a3f70kr1p7z.mp4?auth_key=1655036969-0-0-f0668b07563e01efce1109fa29fe1493&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3569246752&vid=503945329068855314&abtest=all
+骞查攨椹存帓,https://vd2.bdstatic.com/mda-nbr9bdfxwcr4gycy/480p/h264_delogo/1645859749729497000/mda-nbr9bdfxwcr4gycy.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655037028-0-0-817e5db534adce46fbcdd34b08b07d93&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0028654692&vid=662793154143694639&abtest=all
+鐚倸楦??,https://vd3.bdstatic.com/mda-nbp9ei7iz1phjnq9/hd/cae_h264_delogo/1645687952128151129/mda-nbp9ei7iz1phjnq9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655037069-0-0-791c4af47a2ed975ecd114bfe7f8c447&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0069680214&vid=5082689025159486327&abtest=all
+鍦熺獞鐢查奔,https://vd2.bdstatic.com/mda-nbj8z1k8ea5utxd7/hd/cae_h264_nowatermark_delogo/1645341838851808364/mda-nbj8z1k8ea5utxd7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655037104-0-0-bfaf717ba909ebe3aa949a51546ab548&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0104238481&vid=5574764205239806126&abtest=all
+鐗涢灜鐏攨,https://vd4.bdstatic.com/mda-nbh8cz7cj4kzq9me/hd/cae_h264_nowatermark_delogo/1645166700349951420/mda-nbh8cz7cj4kzq9me.mp4?auth_key=1655037133-0-0-427317304b03c7650d491c3e00826159&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0133329035&vid=2874643620946063398&abtest=all
+鐔忚偉鑲??,https://vd2.bdstatic.com/mda-nbe3mtgtsfcp7kdg/hd/cae_h264_nowatermark_delogo/1644908120637406906/mda-nbe3mtgtsfcp7kdg.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037170-0-0-b568e06ec50c50788e98cda08d2a9d51&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0170849634&vid=3395772809045714873&abtest=all
+鍏ㄦ堡鑲ョ墰,https://vd2.bdstatic.com/mda-nbc9jdz0e547ga0m/hd/cae_h264_nowatermark_delogo/1644738793530014099/mda-nbc9jdz0e547ga0m.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037211-0-0-e333e4727bdc8a4ee1e333a40f3686fc&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0211510296&vid=7226776632075914153&abtest=all
+鍙姳鐗涜箘,https://vd3.bdstatic.com/mda-nb82f0r4ehxpchn9/hd/cae_h264_nowatermark_delogo/1644394964122599695/mda-nb82f0r4ehxpchn9.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037263-0-0-72228e882810c7c4f1b5ed3d1b3a49f2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0262954778&vid=10258566865842026441&abtest=all
+棣欒荆椹村ご,https://vd4.bdstatic.com/mda-nb5d0hz6bv4tckwf/hd/cae_h264_nowatermark_delogo/1644141076715754303/mda-nb5d0hz6bv4tckwf.mp4?auth_key=1655037321-0-0-ad3a7ff1165836492d89d0304bfa3ba9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0321420638&vid=10996736921375310032&abtest=all
+缇婅箘琛??鑲??,https://vd2.bdstatic.com/mda-nb39vepdxvigcrjn/hd/cae_h264_nowatermark_delogo/1643960728217969923/mda-nb39vepdxvigcrjn.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037353-0-0-d21426c37711f030a5b0bafbfb2e0dce&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0353654814&vid=12816752308784095343&abtest=all
+娴烽矞鍑ょ埅,https://vd3.bdstatic.com/mda-nb09atbmh54tx1dy/hd/cae_h264_nowatermark_delogo/1643700081927987800/mda-nb09atbmh54tx1dy.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037387-0-0-76617b8afcbb944c6f96a9fa2161dc1f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0387224320&vid=3323052900774976687&abtest=all
+鑲ヨ偁楦??,https://vd2.bdstatic.com/mda-nav961ga5d6njuf7/hd/cae_h264_nowatermark_delogo/1643528150130489648/mda-nav961ga5d6njuf7.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655037446-0-0-accb9993f5c56712f68eb6bcc10d5ad8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0446210838&vid=5728774520691302739&abtest=all
+椹存潅鐏攨,https://vd4.bdstatic.com/mda-natd8fqhddamndcf/hd/cae_h264_nowatermark_delogo/1643363346179801123/mda-natd8fqhddamndcf.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037476-0-0-10212199bd20ee9e8e27f08d6839767e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0476545798&vid=1160656646864348805&abtest=all
+鐑ゅ叏缇??,https://vd4.bdstatic.com/mda-nar9cxbsfvrp10kh/hd/cae_h264_nowatermark_delogo/1643183099240871416/mda-nar9cxbsfvrp10kh.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037505-0-0-cb0aaacdc4b3f7e87340e7c300bcadeb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0505844978&vid=17035328380334661422&abtest=all
+鐗涜倝閰??,https://vd2.bdstatic.com/mda-nak7x5f1rjgqq2ub/hd/cae_h264_nowatermark_delogo/1642746165515514357/mda-nak7x5f1rjgqq2ub.mp4?auth_key=1655037586-0-0-6bbce1807e3e90d609b92d0a2197f761&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0586464048&vid=8482998811716257270&abtest=all
+鐗涢楂??,https://vd2.bdstatic.com/mda-nai94ia9vzvb3mv3/hd/cae_h264_nowatermark_delogo/1642578572157820446/mda-nai94ia9vzvb3mv3.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655037613-0-0-0dcd67e03bedc80216d0a2cce793ad67&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0613036666&vid=18227113013263922370&abtest=all
+钂滆搲铏惧熬,https://vd4.bdstatic.com/mda-naf8hkrjgwxbj8us/hd/cae_h264_nowatermark_delogo/1642316302701242007/mda-naf8hkrjgwxbj8us.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037642-0-0-0a2e5f66d87800fcd27948a991534731&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0642633258&vid=16462556052025207878&abtest=all
+楹昏荆鍏埅,https://vd2.bdstatic.com/mda-nad9szzn7242x8k7/hd/cae_h264_nowatermark_delogo/1642145445591674821/mda-nad9szzn7242x8k7.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037674-0-0-9d8cd549c13645d23be6d079717822c0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0674246809&vid=11217872974709049113&abtest=all
+娑伀閿??,https://vd4.bdstatic.com/mda-na67fq41v8myeed4/hd/cae_h264_delogo/1643273295594908296/mda-na67fq41v8myeed4.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037770-0-0-4a73db93fe978b091e64dd51427c0fff&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0770662256&vid=3361054794105641742&abtest=all
+鐗涜倝鐢熻殱,https://vd3.bdstatic.com/mda-na39suky43apd0y1/hd/cae_h264_delogo/1642482679484559135/mda-na39suky43apd0y1.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037836-0-0-abe38e70f64a1f717b3aa90c4172bfce&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0836912986&vid=5854775358506483714&abtest=all
+鍥哄楣呭潡,https://vd2.bdstatic.com/mda-na19ij023wzim6xu/hd/cae_h264_delogo/1643521798902946428/mda-na19ij023wzim6xu.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037875-0-0-83ff535f19cdb74b404736586bef5858&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0875764428&vid=16420128698490995780&abtest=all
+涓??鍝侀攨,https://vd2.bdstatic.com/mda-mmw8zpq9h1du2uk3/hd/cae_h264_nowatermark/1640934182747498850/mda-mmw8zpq9h1du2uk3.mp4?auth_key=1655037915-0-0-e5f34e2c8c6c22a05759b8fea89d145a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0915558658&vid=3534618154135369010&abtest=all
+鑳¤荆缇婂ご,https://vd4.bdstatic.com/mda-mms71px4squvd00p/hd/cae_h264_nowatermark/1640590775126218266/mda-mms71px4squvd00p.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037970-0-0-a8de30df388bf4bc4334bfd499064a93&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0970541550&vid=5534693109837298442&abtest=all
+闇哥帇鍏??,https://vd4.bdstatic.com/mda-mmp7he34swdh6gsw/hd/cae_h264_delogo/1643140446383773433/mda-mmp7he34swdh6gsw.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038013-0-0-9d4d0895582fe798566151e3ffe1c128&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1013375367&vid=11350547968857944275&abtest=all
+鑲ヨ偁鐢查奔,https://vd3.bdstatic.com/mda-mmm8c3hewxedh66d/hd/cae_h264_nowatermark/1640158495064205292/mda-mmm8c3hewxedh66d.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038036-0-0-a2c8c1beff9caa0baf15149aba16f9ef&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1036844022&vid=14079846926121003957&abtest=all
+鐑ゅ叏缇??,https://vd3.bdstatic.com/mda-mmj8nq3seh9ffdnh/hd/cae_h264_delogo/1643139052644510616/mda-mmj8nq3seh9ffdnh.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655038070-0-0-c9ae4c20ac8d1f0ddb06a442fd417df6&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1070581740&vid=7791397655272587831&abtest=all
+鏉??鐚彍,https://vd4.bdstatic.com/mda-mmh8enzg9dufcjew/hd/cae_h264_delogo/1643148855922505652/mda-mmh8enzg9dufcjew.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038099-0-0-f2f4d73fdf23b80f24d750f784037649&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1098964941&vid=10983940605509037492&abtest=all
+鐗涚槳鐏攨,https://vd2.bdstatic.com/mda-mme8fmkv8b99th0e/hd/cae_h264_delogo/1643344430820658205/mda-mme8fmkv8b99th0e.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038136-0-0-81d4655b92f38756cbe75d3a09c26844&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1136892942&vid=1972881066801322336&abtest=all
+閾佹澘鐚箘,https://vd4.bdstatic.com/mda-mm19upe0w7ez7w6a/hd/cae_h264_delogo/1643294485844966415/mda-mm19upe0w7ez7w6a.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038299-0-0-b66f9251670a14d75602c7838d5c37bb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1299363477&vid=15953743817154897422&abtest=all
+鍙ゆ硶鐑ч附,https://vd3.bdstatic.com/mda-mm099uaj0ke9fihc/hd/cae_h264_delogo/1643394054911732959/mda-mm099uaj0ke9fihc.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038328-0-0-24729d553323f678544e3a29d8ba535a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1328609491&vid=4857230690725699951&abtest=all
+鐓庣尓鑸??,https://vd2.bdstatic.com/mda-mkuai8ivt3av9zkj/hd/cae_h264_delogo/1643299213879017531/mda-mkuai8ivt3av9zkj.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038368-0-0-396cfe3bedebc336cc2ed04124775e60&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1368877154&vid=13877551118599665393&abtest=all
+鐗涘ご瀹??,https://vd3.bdstatic.com/mda-mks9y8dy7impm9c2/hd/cae_h264_nowatermark/1638008851889524241/mda-mks9y8dy7impm9c2.mp4?auth_key=1655038417-0-0-201ef016f55053537c8da92303367c58&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1417127944&vid=8187387678536469261&abtest=all
+鐏浮闂烽キ,https://vd2.bdstatic.com/mda-mkq8kvnx6xptxf62/hd/cae_h264_delogo/1643237169792138546/mda-mkq8kvnx6xptxf62.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038464-0-0-cd37771d3548a72466dea893a0dbf87c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1464024416&vid=3383676781628031336&abtest=all
+濮滆荆鐗涙帓,https://vd4.bdstatic.com/mda-mkj9mb2e0d3uxz46/hd/cae_h264_delogo/1643237569847823147/mda-mkj9mb2e0d3uxz46.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038533-0-0-8de2c016e06c678c89ba08a5843daba1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1533733823&vid=3612463229561403288&abtest=all
+鐧芥按缇婂ご,https://vd2.bdstatic.com/mda-mkha4vvyawp5r1qm/hd/cae_h264_nowatermark/1637222214759381999/mda-mkha4vvyawp5r1qm.mp4?auth_key=1655038602-0-0-60675b1329861d9006a970785c381982&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1602639633&vid=8593366559295747886&abtest=all
+鐚剳鑺??,https://vd4.bdstatic.com/mda-mke8ye6thivbi3ee/hd/cae_h264_nowatermark/1636960733213609865/mda-mke8ye6thivbi3ee.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038654-0-0-a01673c426577deb519aea5ae1f79260&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1654280990&vid=4689139380671627088&abtest=all
+缇婅倝鏆栭攨,https://vd2.bdstatic.com/mda-mkc905af4gw0k2k4/hd/cae_h264_nowatermark/1636787396972251106/mda-mkc905af4gw0k2k4.mp4?auth_key=1655038682-0-0-ed11dc83a6da1af49e377b9c91cca7af&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1682380047&vid=2068483150629839983&abtest=all
+楹昏荆棣欓攨,https://vd2.bdstatic.com/mda-mkb9ewc5ncirbt3w/hd/cae_h264_nowatermark/1636703902467648330/mda-mkb9ewc5ncirbt3w.mp4?auth_key=1655038715-0-0-f4b23575749b0571d12220478b66e94c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1715331197&vid=3626079908275042619&abtest=all
+鐑や簲鑺??,https://vd2.bdstatic.com/mda-mkabgb9y5zicbhy7/hd/cae_h264_delogo/1643148675355964834/mda-mkabgb9y5zicbhy7.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038744-0-0-5336098a2609e69f43c3729f9c18a462&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1744659768&vid=4787275538437731463&abtest=all
+楸肩緤椴??,https://vd2.bdstatic.com/mda-mk89gvesx7b3v2sp/hd/cae_h264_nowatermark/1636442796730604113/mda-mk89gvesx7b3v2sp.mp4?auth_key=1655038776-0-0-4e3b8ba097a617bb9c4436c85a66d52f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1776628144&vid=65227182157962730&abtest=all
+缇婅倸鍖呰倝,https://vd4.bdstatic.com/mda-mk5d99p7c8mb0xg3/hd/cae_h264_delogo/1643307354471528651/mda-mk5d99p7c8mb0xg3.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038825-0-0-0538bfb38404c15359376e8db40765af&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1825942656&vid=7275766357624895532&abtest=all
+宕╅攨楦甸笩鑴??,https://vd2.bdstatic.com/mda-mk29gjfuymjq6z7t/hd/cae_h264_delogo/1643133846880662509/mda-mk29gjfuymjq6z7t.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038873-0-0-2cd82618c7c77a4aa118207982ddf2b9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1873581778&vid=5751203570637112090&abtest=all
+澶ч緳铏??,https://vd3.bdstatic.com/mda-mjk90p9g5wc9n1at/hd/cae_h264_delogo/1643288388530304311/mda-mjk90p9g5wc9n1at.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038990-0-0-e7fc879f362baf07da9a0651252050e4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1990929487&vid=18056752908014310824&abtest=all
+鐏劙閱夐箙,https://vd3.bdstatic.com/mda-mjiatn4qf193dt08/hd/cae_h264_delogo/1643345184575680334/mda-mjiatn4qf193dt08.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655048025-0-0-eb09c86ea67d1a51c8fff3936c87a2b3&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0225267198&vid=10095541657962494981&abtest=all
+娴烽矞鐏攨,https://vd2.bdstatic.com/mda-mjf9wydtwjykhs8g/hd/cae_h264_delogo/1643288227647929268/mda-mjf9wydtwjykhs8g.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655048110-0-0-1b5723da8043f318e4f297a496d11810&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0310512780&vid=10889186030930338226&abtest=all
+纰崇儰涓夊疂,https://vd2.bdstatic.com/mda-mje8f2z5nvnaqxx5/hd/cae_h264_delogo/1643299933931628442/mda-mje8f2z5nvnaqxx5.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655048140-0-0-5d03ea95219590cc74e1e90b924bddc5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0340633722&vid=9207932154469744116&abtest=all
+鍦熺獞鐚帓,https://vd3.bdstatic.com/mda-mja9808byebsih24/hd/cae_h264_delogo/1643145464986574279/mda-mja9808byebsih24.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655048267-0-0-1d7ade69fcb79230184aaa069b510ea8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0467544216&vid=15395825279250866027&abtest=all
+绯熼奔,https://vd2.bdstatic.com/mda-mj99qt5jmnr68x9i/hd/cae_h264_delogo/1643396392968044649/mda-mj99qt5jmnr68x9i.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655048300-0-0-fae488d44b10a521238a5234e764f7b7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0500244543&vid=5445321693841193463&abtest=all
+鍦熺獞涔崇尓,https://vd3.bdstatic.com/mda-nds73vki5mn28pfm/480p/h264_delogo/1651038226344965832/mda-nds73vki5mn28pfm.mp4?auth_key=1655048435-0-0-51d61eb0ec1d8fbfe1c959533d2f9075&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0635204816&vid=16145146088565215341&abtest=all
+鑷懗鐩告姇,https://vd2.bdstatic.com/mda-mj68mqz61txfmbux/hd/cae_h264_delogo/1643398555352482143/mda-mj68mqz61txfmbux.mp4?v_from_s=hkapp-haokan-suzhou&auth_key=1655048547-0-0-abbe5df99e3cb8d44af4c92089f225df&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0747290485&vid=9316133598782000133&abtest=all
+涓??鍦ｄ袱鍚??,https://vd3.bdstatic.com/mda-mj49wzs4nbtipw7r/hd/cae_h264_delogo/1643347230722924103/mda-mj49wzs4nbtipw7r.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655048583-0-0-65cf41e665dd7b4812ed17980ccbffc9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0783812465&vid=1474341097213281207&abtest=all
+鑲ヨ偁楦甸笩,https://vd4.bdstatic.com/mda-mj3aznj03miqb90i/hd/cae_h264_delogo/1643395222269072007/mda-mj3aznj03miqb90i.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655048674-0-0-23dde4a707f273c5830644acd423c431&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0874377330&vid=12582352752573451618&abtest=all
+椹存澘鑲??,https://vd3.bdstatic.com/mda-mir98exz23pc0kag/hd/cae_h264_delogo/1643268269600619303/mda-mir98exz23pc0kag.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655048865-0-0-f6df485c633ad487360c0f98afdfa900&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1065728472&vid=12213425554589901517&abtest=all
+鐔忕墰澶??,https://vd3.bdstatic.com/mda-mipad2w74c5ve16r/hd/cae_h264_nowatermark/1632470564677186726/mda-mipad2w74c5ve16r.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655049037-0-0-e49ca33b1492c8b406181a9550448c03&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1237735318&vid=3564792331748451907&abtest=all
+鑼勬眮鐗涙帓,https://vd2.bdstatic.com/mda-min84pfus06fa5ty/hd/cae_h264_delogo/1643399692479309748/mda-min84pfus06fa5ty.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655049079-0-0-3cf5aadaddada521ac98deb187aaaf70&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1278959445&vid=12380583999886786330&abtest=all
+鐢查奔涓ゅ悆,https://vd2.bdstatic.com/mda-mik9hqxvc3d7wfa9/hd/cae_h264_nowatermark/1632209792414825761/mda-mik9hqxvc3d7wfa9.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655049248-0-0-9c2321e6483cb05142c2a38b3a85f9cd&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1448796100&vid=517908038500912846&abtest=all
+楠嗛┘鑴栧瓙,https://vd2.bdstatic.com/mda-mih4j16kyuayu48t/hd/cae_h264_nowatermark/1631954645472769915/mda-mih4j16kyuayu48t.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655049902-0-0-a87e7ee8d479f9a46f780e08d8d382b6&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2102649959&vid=13449991231537939716&abtest=all
+绾㈡补鐑у厰,https://vd3.bdstatic.com/mda-mif1ufq0yid8d08t/hd/cae_h264_nowatermark/1631771666930725095/mda-mif1ufq0yid8d08t.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655049952-0-0-7f8441ab416ccfcc7a766d4c08eade76&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2152259891&vid=4192445000353986497&abtest=all
+铚傜獫鐓??,https://vd2.bdstatic.com/mda-ncu8qjqrixkbq4dh/hd/cae_h264_delogo/1648539013955836156/mda-ncu8qjqrixkbq4dh.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655050058-0-0-6e30cdf0f83910724e55ae6df0cd3110&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2258630461&vid=16950748271499815250&abtest=all
+鍦熺獞鐑ょ緤澶??,https://vd3.bdstatic.com/mda-miaa4mvnh3tvdx5v/hd/cae_h264_delogo/1643285147008260737/mda-miaa4mvnh3tvdx5v.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204366-0-0-31089ea4b9f00316d88a72090d166c07&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1766676433&vid=14138898109607446197&abtest=all
+鍏ㄧ緤瀹??,https://vd2.bdstatic.com/mda-mi8b8n1fapkfzy30/hd/cae_h264_nowatermark/1631177030299243081/mda-mi8b8n1fapkfzy30.mp4?auth_key=1655204410-0-0-3251cfef0e96bbbe4193a73d6a4cd92f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1810327203&vid=2629651966226721826&abtest=all
+鐗涜倝骞??,https://vd2.bdstatic.com/mda-mi69jfdzkvwnvbvs/hd/cae_h264_delogo/1643393450199617691/mda-mi69jfdzkvwnvbvs.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204438-0-0-d5ebeacf2fcce06a01ab59547e29108c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1838395857&vid=5493966352868834919&abtest=all
+铏庣毊楦甸笩鐖??,https://vd4.bdstatic.com/mda-net93dwtcueu4u9j/480p/h264/1653721609596437460/mda-net93dwtcueu4u9j.mp4?auth_key=1655204465-0-0-4555bfccb4bed5cf2bb84b2b81f39791&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1865212778&vid=7156446621409829348&abtest=all
+閰辩剸鐗涙楠??,https://vd2.bdstatic.com/mda-nerafr1ft7affzwk/480p/h264/1653552110960778877/mda-nerafr1ft7affzwk.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204509-0-0-fe4375d1a5e8304fccf49d01b6324dce&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1909050999&vid=12330119679350378689&abtest=all
+鐗涜啙鐩栭,https://vd2.bdstatic.com/mda-neqaikd1xvvtrc2a/480p/h264/1653464493901543639/mda-neqaikd1xvvtrc2a.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204544-0-0-a53c001488f603cd221661571b2f103b&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1944334658&vid=8419620275932311899&abtest=all
+鑲ヨ偁楣??,https://vd4.bdstatic.com/mda-nepbnx1gkwwfe6h4/480p/h264/1653380567130163019/mda-nepbnx1gkwwfe6h4.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204574-0-0-b9da591587e593e5f557c8194e75b886&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1974069537&vid=5831581271697130378&abtest=all
+棣嶅寘缇婅吙,https://vd2.bdstatic.com/mda-nen8av4mmq6b6jdn/hd/cae_h264/1653291282172118783/mda-nen8av4mmq6b6jdn.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204602-0-0-efbc5c1de5c0ff8ee15421f8074a594c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2002854443&vid=778061406411546269&abtest=all
+娌宠煿涓??閿呯儵,https://vd2.bdstatic.com/mda-nekcx3v9ett2ris5/480p/h264/1653125375347700570/mda-nekcx3v9ett2ris5.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204646-0-0-4f75622c2dcb0ff704cffc958aa2e91a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2046265149&vid=6322076425195603579&abtest=all
+绾㈡洸閰遍腑,https://vd3.bdstatic.com/mda-neh81rk1eiuv3w27/480p/h264/1652854920609442406/mda-neh81rk1eiuv3w27.mp4?auth_key=1655204675-0-0-4da5a87245bb475374748f8b4e1a45df&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2075350062&vid=6641467693514512194&abtest=all
+鐚倝鑴??,https://vd2.bdstatic.com/mda-neg8b0x05h7m10p0/480p/h264/1652767840097582134/mda-neg8b0x05h7m10p0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204711-0-0-024d09eb08d08f43793d846e1093e578&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2111154281&vid=8563202664943920713&abtest=all
+鍥涜箘鍚岀儵,https://vd3.bdstatic.com/mda-nefa29rfui86n3pw/480p/h264/1652685563112169821/mda-nefa29rfui86n3pw.mp4?auth_key=1655204740-0-0-1de9b9617d3e512a2b1fb2c94a657ba1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2140773727&vid=9369566642451833404&abtest=all
+鍦伴攨楦??,https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204769-0-0-307f31c8d52fc424d102f72fc60b80f3&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2169229312&vid=11820591972211290892&abtest=all
+楹昏荆鐢拌灪,https://vd2.bdstatic.com/mda-nebbx1csfuye4nu0/480p/h264/1652344240987321761/mda-nebbx1csfuye4nu0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204811-0-0-174455300eacf7613f0acb6e916341bf&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2211130595&vid=3348990192010659836&abtest=all
+绯栭唻鐗涙帓,https://vd2.bdstatic.com/mda-ne6apsvwr0mmengs/480p/h264/1651909954766095518/mda-ne6apsvwr0mmengs.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204880-0-0-8050868679601ee7a1cb08726e9e82bf&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2280149339&vid=394264423709055760&abtest=all
+姘寸叜姣涜倸,https://vd3.bdstatic.com/mda-ncq9rn183n6gnvs7/480p/h264_delogo/1648192109377463064/mda-ncq9rn183n6gnvs7.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655205004-0-0-f98169ef2f34b0e782d65225cc0256e1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2404287018&vid=4898549614574730434&abtest=all
+鐭冲ご鐑よ倝,https://vd3.bdstatic.com/mda-mi4ab8i1w6w4y5jj/hd/cae_h264_nowatermark/1630828286668238373/mda-mi4ab8i1w6w4y5jj.mp4?auth_key=1655224094-0-0-4c0c81d29b6d8e6396e0250d44b739b1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3494340903&vid=11287013436425742467&abtest=all
+閰辨眮涔抽附,https://vd2.bdstatic.com/mda-mi2a6c3jc2a7j6hd/hd/cae_h264_nowatermark/1630655129237630780/mda-mi2a6c3jc2a7j6hd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224244-0-0-f07eacc56aaadd6ee5e73c1cd0cebcf2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0044502052&vid=13481194564157475203&abtest=all
+楹昏荆椹村ぇ鎺??,https://vd2.bdstatic.com/mda-mi0arbxk7eckrcew/hd/cae_h264_nowatermark/1630484038350026458/mda-mi0arbxk7eckrcew.mp4?auth_key=1655224296-0-0-c1b64c518a1a522853ebe41160bf097a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0096043637&vid=9221544344203440669&abtest=all
+棣欑剸椹存澘鑲??,https://vd2.bdstatic.com/mda-mhuagwk8xqy4r0f3/hd/cae_h264_delogo/1643139533885975965/mda-mhuagwk8xqy4r0f3.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224381-0-0-e70ac774b4f198c04cb31c91e4eeb8dd&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0181458419&vid=7010485010016896710&abtest=all
+杈ｅ崵缇婂ご,https://vd2.bdstatic.com/mda-mht8xwcyw34qjw51/hd/cae_h264_delogo/1650783822006328405/mda-mht8xwcyw34qjw51.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224505-0-0-65823773e481cc498567701e3714ea0c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0305335743&vid=17644310508529398649&abtest=all
+绾㈢儳鐗涢灜,https://vd3.bdstatic.com/mda-mhr9cvdz49zuvkv0/hd/cae_h264_nowatermark/1629962253314476344/mda-mhr9cvdz49zuvkv0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224544-0-0-62f9615455168cd152d260c49c3221bb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0344050121&vid=4418756710345833871&abtest=all
+鐗涙灦瀛??,https://vd2.bdstatic.com/mda-nd18ibhe9e17sxv0/480p/h264_delogo/1648880628803892130/mda-nd18ibhe9e17sxv0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224607-0-0-0c9e1157287f77dbda2cbb670758980d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0407350166&vid=11761064184755722546&abtest=all
+鐗涢灜鐏攨,https://vd4.bdstatic.com/mda-nbh8cz7cj4kzq9me/hd/cae_h264_nowatermark_delogo/1645166700349951420/mda-nbh8cz7cj4kzq9me.mp4?auth_key=1655224669-0-0-72ae03d34ba3143dcb66b6b95a4eb635&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0469334287&vid=2874643620946063398&abtest=all
+鐔忚偉鑲??,https://vd2.bdstatic.com/mda-nbe3mtgtsfcp7kdg/hd/cae_h264_nowatermark_delogo/1644908120637406906/mda-nbe3mtgtsfcp7kdg.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224716-0-0-132df145c9ecc0975e276ff35ee64c9c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0516069562&vid=3395772809045714873&abtest=all
+鍙姳鐗涘ご,https://vd4.bdstatic.com/mda-nan9ayjfqc79ntag/hd/cae_h264_nowatermark_delogo/1642922236652462702/mda-nan9ayjfqc79ntag.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224804-0-0-5e1abc459d6cd7c7614cd8628dd7ebfd&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0604825727&vid=780864674833455805&abtest=all
+椹磋倝鐒栭ゼ瀛??,https://vd3.bdstatic.com/mda-mhkb8qqr7tfs2ayv/hd/cae_h264_nowatermark/1629533560474289772/mda-mhkb8qqr7tfs2ayv.mp4?auth_key=1655225037-0-0-41643ab13c15f208522e48dafc914584&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0837458498&vid=12177150870923519991&abtest=all
+椹寸毊闃胯兌鑶??,https://vd2.bdstatic.com/mda-mhh9vz373qs26apd/hd/cae_h264_delogo/1643135339221745617/mda-mhh9vz373qs26apd.mp4?auth_key=1655257329-0-0-4dc784191a762c1877b4eaf12470f05f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0729258624&vid=1665905482183797316&abtest=all
+榫欏嚖涓??閿呯剸,https://vd4.bdstatic.com/mda-mhc9q24e8aanyqfq/hd/cae_h264_nowatermark/1628843986055712987/mda-mhc9q24e8aanyqfq.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257406-0-0-bfc3d2f0c45a002785a3a2f18fca2d74&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0806911487&vid=12345621156566779145&abtest=all
+鍙姳闈掕煿,https://vd4.bdstatic.com/mda-mhba45j94002q00p/hd/cae_h264_nowatermark/1628754279184882298/mda-mhba45j94002q00p.mp4?auth_key=1655257441-0-0-74939346279b1eecf1a476d32f39ac05&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0841777840&vid=4195214514960735448&abtest=all
+鍗ょ墰鑸??,https://vd4.bdstatic.com/mda-mha9ctbvx0p7xpeg/hd/cae_h264_nowatermark/1628666552624701166/mda-mha9ctbvx0p7xpeg.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257501-0-0-304a2529a6a9b285d3d10fc72149c2a5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0901421755&vid=9780762439742807862&abtest=all
+杩囨ˉ鎺掗,https://vd2.bdstatic.com/mda-mh7bjjwcystw4mc0/hd/cae_h264_delogo/1643280138786882129/mda-mh7bjjwcystw4mc0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257532-0-0-39d708415d86377f72b07876b181ab28&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0932409639&vid=9573940101718703463&abtest=all
+鑲ヨ偁楦??,https://vd2.bdstatic.com/mda-mh3and1rhqmr4k3h/hd/cae_h264_nowatermark/1628064525749686545/mda-mh3and1rhqmr4k3h.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257659-0-0-15cde9d5eaf863b7b194c2a7dbc6609b&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1059204417&vid=6994985705243832833&abtest=all
+鐗涘ご瀹??,https://vd3.bdstatic.com/mda-mgsa1vg25rckhjkk/hd/cae_h264_delogo/1643147762137003200/mda-mgsa1vg25rckhjkk.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257727-0-0-d37fe6926af0452a4bb75cf47b9a4e67&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1127449100&vid=1568144016198433247&abtest=all
+骞查攨鐗涘熬宸??,https://vd4.bdstatic.com/mda-mgmav7wcir7rb2f8/480p/h264/1626940245358233958/mda-mgmav7wcir7rb2f8.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257764-0-0-685dbaa14b4a1b5075b9e96504dae580&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1164351639&vid=10080784919998694375&abtest=all
+濮滆荆鐗涙帓,https://vd2.bdstatic.com/mda-mgkb1kwfauv71x6e/hd/cae_h264_delogo/1643244107842039684/mda-mgkb1kwfauv71x6e.mp4?auth_key=1655257794-0-0-22a98e536494b29bbb73a2969175ece1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1194049235&vid=7155148110564772909&abtest=all
+骞查攨鐗涜箘,https://vd2.bdstatic.com/mda-mge91ri2iru3wykc/hd/cae_h264_nowatermark/1626337351411778855/mda-mge91ri2iru3wykc.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257870-0-0-a78cfff1dce4370d8671a8d667fdd05f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1270126781&vid=7910494474868230546&abtest=all
+鐢查奔绾㈢儳鑲??,https://vd3.bdstatic.com/mda-mgd8m926mxmzpvyk/hd/cae_h264_nowatermark/1626246546733040179/mda-mgd8m926mxmzpvyk.mp4?auth_key=1655257895-0-0-d7b1041f9019885ad6749decf3b4c419&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1295580996&vid=8651845722237068177&abtest=all
+鐑ら傅楦??,https://vd2.bdstatic.com/mda-mgc7ieuztjvigy0b/hd/cae_h264_delogo/1643347652547661468/mda-mgc7ieuztjvigy0b.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655538663-0-0-5302b6b49c1bb17f568ba0afc8e8ce45&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1263535191&vid=18402895477617002606&abtest=all
+鐗涜倸,https://vd3.bdstatic.com/mda-mgaahyx05kc17shj/hd/cae_h264_delogo/1643148219873544123/mda-mgaahyx05kc17shj.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655538716-0-0-e365bcfff0dc3b1d59452851d1a061c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1316564528&vid=124207598866063251&abtest=all
+娌欑垎缇婅倸鑲??,https://vd4.bdstatic.com/mda-mg989gmh31icebre/hd/cae_h264_nowatermark/1625900251935570127/mda-mg989gmh31icebre.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655538741-0-0-4c666dd44b3d88113922d41e0f5afba4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1341651933&vid=12602458672085290732&abtest=all
+楹昏荆铏惧熬,https://vd4.bdstatic.com/mda-mg68s8tqk7821s6k/hd/cae_h264_nowatermark/1625641172105934010/mda-mg68s8tqk7821s6k.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655538969-0-0-7bfccc324c52478736dc70e062094866&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1569373880&vid=11811291272039624762&abtest=all
+鐩愮剹铚楃墰,https://vd2.bdstatic.com/mda-mg261uczhazzbumj/hd/cae_h264_nowatermark/1625287386848136206/mda-mg261uczhazzbumj.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539042-0-0-b6d7d9647510a88457f7ce7d89a7bc53&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1642439863&vid=13411255577314359660&abtest=all
+鑲ヨ偁楸??,https://vd2.bdstatic.com/mda-mg0btvw520f4v5p3/hd/cae_h264_delogo/1643268316499059221/mda-mg0btvw520f4v5p3.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539075-0-0-188da7a211510a4529a7b450b946c22a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1675618344&vid=16038520668528867050&abtest=all
+鍦熺獞鐒栫墰鑲??,https://vd2.bdstatic.com/mda-mfv9tjrkir997dti/hd/cae_h264_delogo/1643341066464883120/mda-mfv9tjrkir997dti.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539100-0-0-8461a5d8bdcaca4e07452a05a96452a8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1700682143&vid=1135914335542454643&abtest=all
+楹昏荆鐗涜箘绛??,https://vd2.bdstatic.com/mda-mft9aa1avhs9g0ph/hd/cae_h264_delogo/1643339235177987078/mda-mft9aa1avhs9g0ph.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539192-0-0-6ec30acd4a6af58127c4d1ea5c2be6ca&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1792820059&vid=8208704483460990256&abtest=all
+楹昏荆娴烽様,https://vd2.bdstatic.com/mda-mfs99rqhgpt6v934/hd/cae_h264_delogo/1643303636102225625/mda-mfs99rqhgpt6v934.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539217-0-0-ebd2aaf57f08cf8f2ac3de4ff34a3cf3&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1817594664&vid=9950505995046552920&abtest=all
+鐢查奔鐗涘疂鑵板瓙,https://vd3.bdstatic.com/mda-mfr98jrwgy0yib25/hd/cae_h264_delogo/1643299176541153962/mda-mfr98jrwgy0yib25.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539292-0-0-d837a2f38715ccfe24261b3ccc2884e6&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1892535846&vid=8382022140161735924&abtest=all
+鐑ょ墰澶??,https://vd3.bdstatic.com/mda-mfn8rxujpfike758/hd/cae_h264_nowatermark/1624432761274873194/mda-mfn8rxujpfike758.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539425-0-0-2a1641d72c0a3f5ba1870b50b83d7b25&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2025095327&vid=18112967870396033807&abtest=all
+閱嬬剸鐗涙楠??,https://vd4.bdstatic.com/mda-mfk8c204weuzvhxa/hd/cae_h264_delogo/1643147501963347947/mda-mfk8c204weuzvhxa.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539585-0-0-24b9fe9d219b0f49b06df39857209fe9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2185448310&vid=5252020132714521845&abtest=all
+鐑ら硠楸??,https://vd2.bdstatic.com/mda-mfj7wkcb3ugdjps5/hd/cae_h264_nowatermark/1624172723749332267/mda-mfj7wkcb3ugdjps5.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539649-0-0-a175fefb3807e7439b792c13e1aed199&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2249886013&vid=12025283582895359559&abtest=all
+绯栫啅缇婅吙,https://vd2.bdstatic.com/mda-mfg8vfbmg467mf0j/hd/cae_h264_nowatermark/1623912912615331814/mda-mfg8vfbmg467mf0j.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655540034-0-0-229eac90b59ad78cfc6309c3d70ca7af&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2634275153&vid=11714533152811144599&abtest=all
+閾侀攨鐐栭硠楸??,https://vd2.bdstatic.com/mda-mffa8f1tufiwpwtr/hd/cae_h264_nowatermark/1623829700798483965/mda-mffa8f1tufiwpwtr.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655540065-0-0-313bc3b6b4df827ff2f37dbe061d1057&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2665644554&vid=6992502162957399959&abtest=all
+椋熷彅260涔板崄鏉ュ彧灏忕敳楸??,https://vd4.bdstatic.com/mda-nf29yjvnrcqwwy2q/480p/h264/1654240313985806512/mda-nf29yjvnrcqwwy2q.mp4?auth_key=1655032564-0-0-747aa1c4fdd90716418995aa885348a7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2764614902&vid=9984932099035144842&abtest=all
+椋熷彅閾佹《鐑ら浮,https://vd2.bdstatic.com/mda-nf9c27rq4xcbjmk4/480p/h264/1654931961791216300/mda-nf9c27rq4xcbjmk4.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655032635-0-0-7c3ad26ae39d51e736978d393ad44242&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2835878236&vid=15570804519629633873&abtest=all
+椋熷彅闆北椹兼帉,https://vd2.bdstatic.com/mda-nf89bup48h33rnsi/480p/h264/1654758415054577400/mda-nf89bup48h33rnsi.mp4?auth_key=1655032748-0-0-b7c12af769785740b322753442e5c1ff&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2948153948&vid=2972680187953890553&abtest=all
+椋熷彅楦¤叞鐐栭粍槌??,https://vd3.bdstatic.com/mda-nf5b4qfywy5pzjgu/480p/h264/1654502805261088051/mda-nf5b4qfywy5pzjgu.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655032849-0-0-433e12f29eaab498df3667819d6d9d5b&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3049228437&vid=3904751968646806841&abtest=all
+椋熷彅闇哥帇鐗涘熬,https://vd3.bdstatic.com/mda-nf39wk2de3ryede7/480p/h264/1654326718567558149/mda-nf39wk2de3ryede7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655032908-0-0-21cb435cc1f8eb263984e073bb6106c5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3108822864&vid=6595468946187502994&abtest=all
+椋熷彅杈ｅ崵椹煎ご,https://vd3.bdstatic.com/mda-newe17bhfrmd35a9/480p/h264/1653991101001259092/mda-newe17bhfrmd35a9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655032944-0-0-352bdafaee4bbadacf814f1344beecd5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3144408041&vid=1387963609971371324&abtest=all
+椋熷彅骞查攨鐗涜洐,https://vd4.bdstatic.com/mda-neu9v10u2tk22kwt/480p/h264/1653808467692279237/mda-neu9v10u2tk22kwt.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655033139-0-0-6ffe17fd9a49c1b38bd9efbed61a05e8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3339243039&vid=14953153288685054828&abtest=all
+椋熷彅閰辩剸鐗涙楠??,https://vd2.bdstatic.com/mda-nerafr1ft7affzwk/480p/h264/1653552110960778877/mda-nerafr1ft7affzwk.mp4?auth_key=1655033260-0-0-e4c291de85acb14f57b8728592bce8d0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3460184673&vid=12330119679350378689&abtest=all
+椴嶆眮璞嗚厫,https://vd4.bdstatic.com/mda-nec91x1nvgejnd5u/480p/h264/1652425268946984260/mda-nec91x1nvgejnd5u.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033746-0-0-1964bc131eb8a4757e126fa7072034c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0346634098&vid=13175973280064025498&abtest=all
+鍦伴攨楦??,https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033701-0-0-448270cbc0e8dd01b1d3e3e79c645ede&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0300946132&vid=11820591972211290892&abtest=all
+娌宠煿涓??閿呯儵,https://vd2.bdstatic.com/mda-nekcx3v9ett2ris5/480p/h264/1653125375347700570/mda-nekcx3v9ett2ris5.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033479-0-0-b49abd06012eb0b266a58d9dca5c7f5f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0079449514&vid=6322076425195603579&abtest=all
+绾㈡洸閰遍腑,https://vd3.bdstatic.com/mda-neh81rk1eiuv3w27/480p/h264/1652854920609442406/mda-neh81rk1eiuv3w27.mp4?auth_key=1655033521-0-0-f906c86fac0f9d712e6b40db422982b9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0121635443&vid=6641467693514512194&abtest=all
+绾㈢儳娴疯寗瀛??,https://vd2.bdstatic.com/mda-ne9adpzib1w2s7i6/480p/h264/1652168146543774177/mda-ne9adpzib1w2s7i6.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655034801-0-0-619992652cfa0b8d01757056583c773a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1401746639&vid=10650375313183094889&abtest=all
+楦胯繍鐚ご,https://vd3.bdstatic.com/mda-ndj8t1xtu0qf1vp7/480p/h264_delogo/1650436754621760647/mda-ndj8t1xtu0qf1vp7.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035359-0-0-e2b5b52787d54808740e5abc56f67794&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1959759277&vid=11845744374558766684&abtest=all
+濮滆荆妫掗,https://vd2.bdstatic.com/mda-nda9532dzfpmrpjb/480p/h264_delogo/1649660429454395375/mda-nda9532dzfpmrpjb.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035937-0-0-e8dc2cb7fe4807a23083c7a22a38899c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2537470207&vid=17829729200355816866&abtest=all
+鐐曢攨缇婂ご,https://vd2.bdstatic.com/mda-ndkbtvkkzmzry5gr/hd/cae_h264_delogo/1650858156241136824/mda-ndkbtvkkzmzry5gr.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035320-0-0-148e9e7804a8284edd6678b00cb60beb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1920864857&vid=8826414521234968806&abtest=all
+楹昏荆鍏斿ご,https://vd2.bdstatic.com/mda-ndr9vd3muu069myi/480p/h264_delogo/1650956744271709907/mda-ndr9vd3muu069myi.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655035207-0-0-35a7618c2c86d9455e0d8550e048ead7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1807001502&vid=10868651239061775579&abtest=all
+楹昏荆灏忛緳铏??,https://vd3.bdstatic.com/mda-ndu9tguy0fay7ye1/480p/h264_delogo/1651215429015875965/mda-ndu9tguy0fay7ye1.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655035125-0-0-f68c0c5448e434f9570361e845bdce0d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1725743161&vid=9743722764712261597&abtest=all
+260涔板崄鏉ュ彧灏忕敳楸??,https://vd4.bdstatic.com/mda-nf29yjvnrcqwwy2q/480p/h264/1654240313985806512/mda-nf29yjvnrcqwwy2q.mp4?auth_key=1655032564-0-0-747aa1c4fdd90716418995aa885348a7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2764614902&vid=9984932099035144842&abtest=all
+闇哥帇鐗涘熬,https://vd3.bdstatic.com/mda-nf39wk2de3ryede7/480p/h264/1654326718567558149/mda-nf39wk2de3ryede7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655032908-0-0-21cb435cc1f8eb263984e073bb6106c5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3108822864&vid=6595468946187502994&abtest=all
+骞查攨鐗涜洐,https://vd4.bdstatic.com/mda-neu9v10u2tk22kwt/480p/h264/1653808467692279237/mda-neu9v10u2tk22kwt.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655033139-0-0-6ffe17fd9a49c1b38bd9efbed61a05e8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3339243039&vid=14953153288685054828&abtest=all
+楦¤叞鐐栭粍槌??,https://vd3.bdstatic.com/mda-nf5b4qfywy5pzjgu/480p/h264/1654502805261088051/mda-nf5b4qfywy5pzjgu.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655032849-0-0-433e12f29eaab498df3667819d6d9d5b&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3049228437&vid=3904751968646806841&abtest=all
+閰辩剸鐗涙楠??,https://vd2.bdstatic.com/mda-nerafr1ft7affzwk/480p/h264/1653552110960778877/mda-nerafr1ft7affzwk.mp4?auth_key=1655033260-0-0-e4c291de85acb14f57b8728592bce8d0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3460184673&vid=12330119679350378689&abtest=all
+杈ｅ崵椹煎ご,https://vd3.bdstatic.com/mda-newe17bhfrmd35a9/480p/h264/1653991101001259092/mda-newe17bhfrmd35a9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655032944-0-0-352bdafaee4bbadacf814f1344beecd5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3144408041&vid=1387963609971371324&abtest=all
+閾佹《鐑ら浮,https://vd2.bdstatic.com/mda-nf9c27rq4xcbjmk4/480p/h264/1654931961791216300/mda-nf9c27rq4xcbjmk4.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655032635-0-0-7c3ad26ae39d51e736978d393ad44242&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2835878236&vid=15570804519629633873&abtest=all
+闆北椹兼帉,https://vd2.bdstatic.com/mda-nf89bup48h33rnsi/480p/h264/1654758415054577400/mda-nf89bup48h33rnsi.mp4?auth_key=1655032748-0-0-b7c12af769785740b322753442e5c1ff&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2948153948&vid=2972680187953890553&abtest=all
+鍥涜箘鍚岀儵,https://vd3.bdstatic.com/mda-nefa29rfui86n3pw/480p/h264/1652685563112169821/mda-nefa29rfui86n3pw.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033628-0-0-ad9c96bb17140c4d2d2f0a2ac1ab2acf&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0228464890&vid=9369566642451833404&abtest=all
+绯栭唻鐗涙帓,https://vd2.bdstatic.com/mda-ne6apsvwr0mmengs/480p/h264/1651909954766095518/mda-ne6apsvwr0mmengs.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655034849-0-0-30a90703c068320a18a17d308cd93f61&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1449510204&vid=394264423709055760&abtest=all
+鍦熷尓閰ュ共,https://vd2.bdstatic.com/mda-ndua1tez8vc7zr5z/480p/h264_delogo/1651217539984001622/mda-ndua1tez8vc7zr5z.mp4?auth_key=1655035071-0-0-49402cbadff899380a97b36cc4c6108e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1671740184&vid=13634275945822664360&abtest=all
+鍏斿寘楦??,https://vd3.bdstatic.com/mda-ne086qd7pxsrab3f/480p/h264_delogo/1651385481542929517/mda-ne086qd7pxsrab3f.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655035021-0-0-5df18cbf9592a36078f609ffabfc46a4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1621918400&vid=9952112813454050741&abtest=all
+娌宠煿涓??閿呯儵,https://vd2.bdstatic.com/mda-nekcx3v9ett2ris5/480p/h264/1653125375347700570/mda-nekcx3v9ett2ris5.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033479-0-0-b49abd06012eb0b266a58d9dca5c7f5f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0079449514&vid=6322076425195603579&abtest=all 
+绾㈡洸閰遍腑,https://vd3.bdstatic.com/mda-neh81rk1eiuv3w27/480p/h264/1652854920609442406/mda-neh81rk1eiuv3w27.mp4?auth_key=1655033521-0-0-f906c86fac0f9d712e6b40db422982b9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0121635443&vid=6641467693514512194&abtest=all 
+鍥涜箘鍚岀儵,https://vd3.bdstatic.com/mda-nefa29rfui86n3pw/480p/h264/1652685563112169821/mda-nefa29rfui86n3pw.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033628-0-0-ad9c96bb17140c4d2d2f0a2ac1ab2acf&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0228464890&vid=9369566642451833404&abtest=all 
+鍦伴攨楦??,https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033701-0-0-448270cbc0e8dd01b1d3e3e79c645ede&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0300946132&vid=11820591972211290892&abtest=all 
+椴嶆眮璞嗚厫,https://vd4.bdstatic.com/mda-nec91x1nvgejnd5u/480p/h264/1652425268946984260/mda-nec91x1nvgejnd5u.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033746-0-0-1964bc131eb8a4757e126fa7072034c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0346634098&vid=13175973280064025498&abtest=all 
+绾㈢儳娴疯寗瀛??,https://vd2.bdstatic.com/mda-ne9adpzib1w2s7i6/480p/h264/1652168146543774177/mda-ne9adpzib1w2s7i6.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655034801-0-0-619992652cfa0b8d01757056583c773a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1401746639&vid=10650375313183094889&abtest=all 
+绯栭唻鐗涙帓,https://vd2.bdstatic.com/mda-ne6apsvwr0mmengs/480p/h264/1651909954766095518/mda-ne6apsvwr0mmengs.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655034849-0-0-30a90703c068320a18a17d308cd93f61&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1449510204&vid=394264423709055760&abtest=all 
+鍏斿寘楦??,https://vd3.bdstatic.com/mda-ne086qd7pxsrab3f/480p/h264_delogo/1651385481542929517/mda-ne086qd7pxsrab3f.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655035021-0-0-5df18cbf9592a36078f609ffabfc46a4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1621918400&vid=9952112813454050741&abtest=all 
+鍦熷尓閰ュ共,https://vd2.bdstatic.com/mda-ndua1tez8vc7zr5z/480p/h264_delogo/1651217539984001622/mda-ndua1tez8vc7zr5z.mp4?auth_key=1655035071-0-0-49402cbadff899380a97b36cc4c6108e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1671740184&vid=13634275945822664360&abtest=all 
+楹昏荆灏忛緳铏??,https://vd3.bdstatic.com/mda-ndu9tguy0fay7ye1/480p/h264_delogo/1651215429015875965/mda-ndu9tguy0fay7ye1.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655035125-0-0-f68c0c5448e434f9570361e845bdce0d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1725743161&vid=9743722764712261597&abtest=all 
+楹昏荆鍏斿ご,https://vd2.bdstatic.com/mda-ndr9vd3muu069myi/480p/h264_delogo/1650956744271709907/mda-ndr9vd3muu069myi.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655035207-0-0-35a7618c2c86d9455e0d8550e048ead7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1807001502&vid=10868651239061775579&abtest=all 
+鐐曢攨缇婂ご,https://vd2.bdstatic.com/mda-ndkbtvkkzmzry5gr/hd/cae_h264_delogo/1650858156241136824/mda-ndkbtvkkzmzry5gr.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035320-0-0-148e9e7804a8284edd6678b00cb60beb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1920864857&vid=8826414521234968806&abtest=all 
+楦胯繍鐚ご,https://vd3.bdstatic.com/mda-ndj8t1xtu0qf1vp7/480p/h264_delogo/1650436754621760647/mda-ndj8t1xtu0qf1vp7.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035359-0-0-e2b5b52787d54808740e5abc56f67794&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1959759277&vid=11845744374558766684&abtest=all 
+濮滆荆妫掗,https://vd2.bdstatic.com/mda-nda9532dzfpmrpjb/480p/h264_delogo/1649660429454395375/mda-nda9532dzfpmrpjb.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655035937-0-0-e8dc2cb7fe4807a23083c7a22a38899c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2537470207&vid=17829729200355816866&abtest=all 
+鏉胯偁铻虹嫯绮??,https://vd4.bdstatic.com/mda-nd98hi8r73ztrpya/480p/h264_delogo/1649573004142585909/mda-nd98hi8r73ztrpya.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036003-0-0-dabd15ea0dd95129755c956d50da5fef&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2603471359&vid=8288566267298198452&abtest=all 
+澶ч攨鍙??,https://vd3.bdstatic.com/mda-nd89jph9c9hh7rcf/480p/h264_delogo/1649488575217940578/mda-nd89jph9c9hh7rcf.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655036071-0-0-5289bacc04858b3cb16d1e5fcb442da2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2671193173&vid=10128460658145386557&abtest=all 
+鐩愮剹閯傞緹,https://vd3.bdstatic.com/mda-nd7c2f8nq4hcnrkn/480p/h264_delogo/1649407459996974581/mda-nd7c2f8nq4hcnrkn.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036140-0-0-f311eaf138660e84836cc8ce5559e7b2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2740696995&vid=8924502782467213214&abtest=all 
+鏋滈鎺掗,https://vd3.bdstatic.com/mda-nd68ai08aj0ewj9s/480p/h264_delogo/1649313333330734786/mda-nd68ai08aj0ewj9s.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036207-0-0-feb91443f39a8905fd834a69b4170c6d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2807567938&vid=15309846064687821084&abtest=all 
+閾佹澘楸块奔,https://vd2.bdstatic.com/mda-nd47jpggnervrjev/480p/h264_delogo/1649138428625881592/mda-nd47jpggnervrjev.mp4?auth_key=1655036357-0-0-ac3c5503cbaae86d97c9a0b315d19524&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2957492859&vid=3160589265422527523&abtest=all 
+鑴嗙毊鐚墜,https://vd3.bdstatic.com/mda-nd37fvbi8ns75v8k/480p/h264_delogo/1649051367811032897/mda-nd37fvbi8ns75v8k.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036409-0-0-f2e5408b79d1f40315a8f33c67fdf6fb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3009075188&vid=7860934379477494781&abtest=all 
+鐗涙灦瀛??,https://vd2.bdstatic.com/mda-nd18ibhe9e17sxv0/480p/h264_delogo/1648880628803892130/mda-nd18ibhe9e17sxv0.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036457-0-0-b0bac9742c6ace4561c8f521c1bcaf85&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3057160852&vid=11761064184755722546&abtest=all 
+涔惧潳鐗涜倸,https://vd3.bdstatic.com/mda-ncsc455a412m4wha/480p/h264_delogo/1648370949637453882/mda-ncsc455a412m4wha.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036517-0-0-3c7b1fe1382c869d73153c5f225316e4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3117533700&vid=8833269090986204171&abtest=all 
+楸兼场缇婅倝,https://vd3.bdstatic.com/mda-nck76h2megnj3mbh/480p/h264_delogo/1647841284503494555/mda-nck76h2megnj3mbh.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036589-0-0-880e0f1de125181b5b9bb5f6476c661e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3189017543&vid=10780357048643047061&abtest=all 
+绾㈢儳椹瀺妗??,https://vd4.bdstatic.com/mda-nci8vdhp6s1ppcg8/480p/h264_delogo/1647672848908064952/mda-nci8vdhp6s1ppcg8.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036663-0-0-0818d0aeb59ba3a9eb89b30505ea46f5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3263147606&vid=11272322946744536045&abtest=all 
+鐗涜倝姹??,https://vd3.bdstatic.com/mda-ncg7mynaykcnexuw/480p/h264_delogo/1647496893316677116/mda-ncg7mynaykcnexuw.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655036697-0-0-5049e23603faba336b89cd56fa14bd35&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3297611495&vid=10038164832874949087&abtest=all 
+浜旇姳鑲夊嵎,https://vd4.bdstatic.com/mda-nca7q9hnjmqh2iw6/hd/cae_h264_delogo/1646984324539660807/mda-nca7q9hnjmqh2iw6.mp4?auth_key=1655036757-0-0-85759a1b396a5484fea9719f6289ddba&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3356934915&vid=13602902236587799952&abtest=all 
+鎵掗浮,https://vd3.bdstatic.com/mda-nc8a1imqiriahjd2/hd/cae_h264_delogo/1646811978078057591/mda-nc8a1imqiriahjd2.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655036784-0-0-ec2770049bd45db0649cd03b54cc0881&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3384576631&vid=2238279565543294477&abtest=all 
+纰崇儰鐗涜洐,https://vd2.bdstatic.com/mda-nc78zsmegndnzq8b/480p/h264_delogo/1646722879137832380/mda-nc78zsmegndnzq8b.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655036807-0-0-53893a25709e7523ab7ce56c7572d59a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3407937406&vid=10249442721586817393&abtest=all 
+鐑ゅ▋濞冮奔,https://vd3.bdstatic.com/mda-nc581x9xhdu2hy97/480p/h264_delogo/1646547280542647694/mda-nc581x9xhdu2hy97.mp4?auth_key=1655036844-0-0-f8a7a7558c735830c08499beccabf494&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3444083058&vid=3100447263476279517&abtest=all 
+閾佹澘缇婅叞,https://vd3.bdstatic.com/mda-nbs76a3f70kr1p7z/480p/h264_delogo/1645939971169058430/mda-nbs76a3f70kr1p7z.mp4?auth_key=1655036969-0-0-f0668b07563e01efce1109fa29fe1493&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3569246752&vid=503945329068855314&abtest=all 
+骞查攨椹存帓,https://vd2.bdstatic.com/mda-nbr9bdfxwcr4gycy/480p/h264_delogo/1645859749729497000/mda-nbr9bdfxwcr4gycy.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655037028-0-0-817e5db534adce46fbcdd34b08b07d93&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0028654692&vid=662793154143694639&abtest=all 
+鐚倸楦??,https://vd3.bdstatic.com/mda-nbp9ei7iz1phjnq9/hd/cae_h264_delogo/1645687952128151129/mda-nbp9ei7iz1phjnq9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655037069-0-0-791c4af47a2ed975ecd114bfe7f8c447&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0069680214&vid=5082689025159486327&abtest=all 
+鍦熺獞鐢查奔,https://vd2.bdstatic.com/mda-nbj8z1k8ea5utxd7/hd/cae_h264_nowatermark_delogo/1645341838851808364/mda-nbj8z1k8ea5utxd7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655037104-0-0-bfaf717ba909ebe3aa949a51546ab548&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0104238481&vid=5574764205239806126&abtest=all 
+鐗涢灜鐏攨,https://vd4.bdstatic.com/mda-nbh8cz7cj4kzq9me/hd/cae_h264_nowatermark_delogo/1645166700349951420/mda-nbh8cz7cj4kzq9me.mp4?auth_key=1655037133-0-0-427317304b03c7650d491c3e00826159&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0133329035&vid=2874643620946063398&abtest=all 
+鐔忚偉鑲??,https://vd2.bdstatic.com/mda-nbe3mtgtsfcp7kdg/hd/cae_h264_nowatermark_delogo/1644908120637406906/mda-nbe3mtgtsfcp7kdg.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037170-0-0-b568e06ec50c50788e98cda08d2a9d51&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0170849634&vid=3395772809045714873&abtest=all 
+鍏ㄦ堡鑲ョ墰,https://vd2.bdstatic.com/mda-nbc9jdz0e547ga0m/hd/cae_h264_nowatermark_delogo/1644738793530014099/mda-nbc9jdz0e547ga0m.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037211-0-0-e333e4727bdc8a4ee1e333a40f3686fc&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0211510296&vid=7226776632075914153&abtest=all 
+鍙姳鐗涜箘,https://vd3.bdstatic.com/mda-nb82f0r4ehxpchn9/hd/cae_h264_nowatermark_delogo/1644394964122599695/mda-nb82f0r4ehxpchn9.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037263-0-0-72228e882810c7c4f1b5ed3d1b3a49f2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0262954778&vid=10258566865842026441&abtest=all 
+棣欒荆椹村ご,https://vd4.bdstatic.com/mda-nb5d0hz6bv4tckwf/hd/cae_h264_nowatermark_delogo/1644141076715754303/mda-nb5d0hz6bv4tckwf.mp4?auth_key=1655037321-0-0-ad3a7ff1165836492d89d0304bfa3ba9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0321420638&vid=10996736921375310032&abtest=all 
+缇婅箘琛??鑲??,https://vd2.bdstatic.com/mda-nb39vepdxvigcrjn/hd/cae_h264_nowatermark_delogo/1643960728217969923/mda-nb39vepdxvigcrjn.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037353-0-0-d21426c37711f030a5b0bafbfb2e0dce&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0353654814&vid=12816752308784095343&abtest=all 
+娴烽矞鍑ょ埅,https://vd3.bdstatic.com/mda-nb09atbmh54tx1dy/hd/cae_h264_nowatermark_delogo/1643700081927987800/mda-nb09atbmh54tx1dy.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037387-0-0-76617b8afcbb944c6f96a9fa2161dc1f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0387224320&vid=3323052900774976687&abtest=all 
+鑲ヨ偁楦??,https://vd2.bdstatic.com/mda-nav961ga5d6njuf7/hd/cae_h264_nowatermark_delogo/1643528150130489648/mda-nav961ga5d6njuf7.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655037446-0-0-accb9993f5c56712f68eb6bcc10d5ad8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0446210838&vid=5728774520691302739&abtest=all 
+椹存潅鐏攨,https://vd4.bdstatic.com/mda-natd8fqhddamndcf/hd/cae_h264_nowatermark_delogo/1643363346179801123/mda-natd8fqhddamndcf.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037476-0-0-10212199bd20ee9e8e27f08d6839767e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0476545798&vid=1160656646864348805&abtest=all 
+鐑ゅ叏缇??,https://vd4.bdstatic.com/mda-nar9cxbsfvrp10kh/hd/cae_h264_nowatermark_delogo/1643183099240871416/mda-nar9cxbsfvrp10kh.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037505-0-0-cb0aaacdc4b3f7e87340e7c300bcadeb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0505844978&vid=17035328380334661422&abtest=all 
+鐗涜倝閰??,https://vd2.bdstatic.com/mda-nak7x5f1rjgqq2ub/hd/cae_h264_nowatermark_delogo/1642746165515514357/mda-nak7x5f1rjgqq2ub.mp4?auth_key=1655037586-0-0-6bbce1807e3e90d609b92d0a2197f761&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0586464048&vid=8482998811716257270&abtest=all 
+鐗涢楂??,https://vd2.bdstatic.com/mda-nai94ia9vzvb3mv3/hd/cae_h264_nowatermark_delogo/1642578572157820446/mda-nai94ia9vzvb3mv3.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655037613-0-0-0dcd67e03bedc80216d0a2cce793ad67&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0613036666&vid=18227113013263922370&abtest=all 
+钂滆搲铏惧熬,https://vd4.bdstatic.com/mda-naf8hkrjgwxbj8us/hd/cae_h264_nowatermark_delogo/1642316302701242007/mda-naf8hkrjgwxbj8us.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037642-0-0-0a2e5f66d87800fcd27948a991534731&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0642633258&vid=16462556052025207878&abtest=all 
+楹昏荆鍏埅,https://vd2.bdstatic.com/mda-nad9szzn7242x8k7/hd/cae_h264_nowatermark_delogo/1642145445591674821/mda-nad9szzn7242x8k7.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037674-0-0-9d8cd549c13645d23be6d079717822c0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0674246809&vid=11217872974709049113&abtest=all 
+娑伀閿??,https://vd4.bdstatic.com/mda-na67fq41v8myeed4/hd/cae_h264_delogo/1643273295594908296/mda-na67fq41v8myeed4.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037770-0-0-4a73db93fe978b091e64dd51427c0fff&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0770662256&vid=3361054794105641742&abtest=all 
+鐗涜倝鐢熻殱,https://vd3.bdstatic.com/mda-na39suky43apd0y1/hd/cae_h264_delogo/1642482679484559135/mda-na39suky43apd0y1.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037836-0-0-abe38e70f64a1f717b3aa90c4172bfce&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0836912986&vid=5854775358506483714&abtest=all 
+鍥哄楣呭潡,https://vd2.bdstatic.com/mda-na19ij023wzim6xu/hd/cae_h264_delogo/1643521798902946428/mda-na19ij023wzim6xu.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037875-0-0-83ff535f19cdb74b404736586bef5858&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0875764428&vid=16420128698490995780&abtest=all 
+涓??鍝侀攨,https://vd2.bdstatic.com/mda-mmw8zpq9h1du2uk3/hd/cae_h264_nowatermark/1640934182747498850/mda-mmw8zpq9h1du2uk3.mp4?auth_key=1655037915-0-0-e5f34e2c8c6c22a05759b8fea89d145a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0915558658&vid=3534618154135369010&abtest=all 
+鑳¤荆缇婂ご,https://vd4.bdstatic.com/mda-mms71px4squvd00p/hd/cae_h264_nowatermark/1640590775126218266/mda-mms71px4squvd00p.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655037970-0-0-a8de30df388bf4bc4334bfd499064a93&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0970541550&vid=5534693109837298442&abtest=all 
+闇哥帇鍏??,https://vd4.bdstatic.com/mda-mmp7he34swdh6gsw/hd/cae_h264_delogo/1643140446383773433/mda-mmp7he34swdh6gsw.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038013-0-0-9d4d0895582fe798566151e3ffe1c128&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1013375367&vid=11350547968857944275&abtest=all 
+鑲ヨ偁鐢查奔,https://vd3.bdstatic.com/mda-mmm8c3hewxedh66d/hd/cae_h264_nowatermark/1640158495064205292/mda-mmm8c3hewxedh66d.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038036-0-0-a2c8c1beff9caa0baf15149aba16f9ef&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1036844022&vid=14079846926121003957&abtest=all 
+鐑ゅ叏缇??,https://vd3.bdstatic.com/mda-mmj8nq3seh9ffdnh/hd/cae_h264_delogo/1643139052644510616/mda-mmj8nq3seh9ffdnh.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655038070-0-0-c9ae4c20ac8d1f0ddb06a442fd417df6&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1070581740&vid=7791397655272587831&abtest=all 
+鏉??鐚彍,https://vd4.bdstatic.com/mda-mmh8enzg9dufcjew/hd/cae_h264_delogo/1643148855922505652/mda-mmh8enzg9dufcjew.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038099-0-0-f2f4d73fdf23b80f24d750f784037649&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1098964941&vid=10983940605509037492&abtest=all 
+鐗涚槳鐏攨,https://vd2.bdstatic.com/mda-mme8fmkv8b99th0e/hd/cae_h264_delogo/1643344430820658205/mda-mme8fmkv8b99th0e.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038136-0-0-81d4655b92f38756cbe75d3a09c26844&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1136892942&vid=1972881066801322336&abtest=all 
+閾佹澘鐚箘,https://vd4.bdstatic.com/mda-mm19upe0w7ez7w6a/hd/cae_h264_delogo/1643294485844966415/mda-mm19upe0w7ez7w6a.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655038299-0-0-b66f9251670a14d75602c7838d5c37bb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1299363477&vid=15953743817154897422&abtest=all 
+鍙ゆ硶鐑ч附,https://vd3.bdstatic.com/mda-mm099uaj0ke9fihc/hd/cae_h264_delogo/1643394054911732959/mda-mm099uaj0ke9fihc.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038328-0-0-24729d553323f678544e3a29d8ba535a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1328609491&vid=4857230690725699951&abtest=all 
+鐓庣尓鑸??,https://vd2.bdstatic.com/mda-mkuai8ivt3av9zkj/hd/cae_h264_delogo/1643299213879017531/mda-mkuai8ivt3av9zkj.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038368-0-0-396cfe3bedebc336cc2ed04124775e60&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1368877154&vid=13877551118599665393&abtest=all 
+鐗涘ご瀹??,https://vd3.bdstatic.com/mda-mks9y8dy7impm9c2/hd/cae_h264_nowatermark/1638008851889524241/mda-mks9y8dy7impm9c2.mp4?auth_key=1655038417-0-0-201ef016f55053537c8da92303367c58&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1417127944&vid=8187387678536469261&abtest=all 
+鐏浮闂烽キ,https://vd2.bdstatic.com/mda-mkq8kvnx6xptxf62/hd/cae_h264_delogo/1643237169792138546/mda-mkq8kvnx6xptxf62.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038464-0-0-cd37771d3548a72466dea893a0dbf87c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1464024416&vid=3383676781628031336&abtest=all 
+濮滆荆鐗涙帓,https://vd4.bdstatic.com/mda-mkj9mb2e0d3uxz46/hd/cae_h264_delogo/1643237569847823147/mda-mkj9mb2e0d3uxz46.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038533-0-0-8de2c016e06c678c89ba08a5843daba1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1533733823&vid=3612463229561403288&abtest=all 
+鐧芥按缇婂ご,https://vd2.bdstatic.com/mda-mkha4vvyawp5r1qm/hd/cae_h264_nowatermark/1637222214759381999/mda-mkha4vvyawp5r1qm.mp4?auth_key=1655038602-0-0-60675b1329861d9006a970785c381982&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1602639633&vid=8593366559295747886&abtest=all 
+鐚剳鑺??,https://vd4.bdstatic.com/mda-mke8ye6thivbi3ee/hd/cae_h264_nowatermark/1636960733213609865/mda-mke8ye6thivbi3ee.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038654-0-0-a01673c426577deb519aea5ae1f79260&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1654280990&vid=4689139380671627088&abtest=all 
+缇婅倝鏆栭攨,https://vd2.bdstatic.com/mda-mkc905af4gw0k2k4/hd/cae_h264_nowatermark/1636787396972251106/mda-mkc905af4gw0k2k4.mp4?auth_key=1655038682-0-0-ed11dc83a6da1af49e377b9c91cca7af&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1682380047&vid=2068483150629839983&abtest=all 
+楹昏荆棣欓攨,https://vd2.bdstatic.com/mda-mkb9ewc5ncirbt3w/hd/cae_h264_nowatermark/1636703902467648330/mda-mkb9ewc5ncirbt3w.mp4?auth_key=1655038715-0-0-f4b23575749b0571d12220478b66e94c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1715331197&vid=3626079908275042619&abtest=all 
+鐑や簲鑺??,https://vd2.bdstatic.com/mda-mkabgb9y5zicbhy7/hd/cae_h264_delogo/1643148675355964834/mda-mkabgb9y5zicbhy7.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038744-0-0-5336098a2609e69f43c3729f9c18a462&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1744659768&vid=4787275538437731463&abtest=all 
+楸肩緤椴??,https://vd2.bdstatic.com/mda-mk89gvesx7b3v2sp/hd/cae_h264_nowatermark/1636442796730604113/mda-mk89gvesx7b3v2sp.mp4?auth_key=1655038776-0-0-4e3b8ba097a617bb9c4436c85a66d52f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1776628144&vid=65227182157962730&abtest=all 
+缇婅倸鍖呰倝,https://vd4.bdstatic.com/mda-mk5d99p7c8mb0xg3/hd/cae_h264_delogo/1643307354471528651/mda-mk5d99p7c8mb0xg3.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655038825-0-0-0538bfb38404c15359376e8db40765af&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1825942656&vid=7275766357624895532&abtest=all 
+宕╅攨楦甸笩鑴??,https://vd2.bdstatic.com/mda-mk29gjfuymjq6z7t/hd/cae_h264_delogo/1643133846880662509/mda-mk29gjfuymjq6z7t.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038873-0-0-2cd82618c7c77a4aa118207982ddf2b9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1873581778&vid=5751203570637112090&abtest=all 
+澶ч緳铏??,https://vd3.bdstatic.com/mda-mjk90p9g5wc9n1at/hd/cae_h264_delogo/1643288388530304311/mda-mjk90p9g5wc9n1at.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655038990-0-0-e7fc879f362baf07da9a0651252050e4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1990929487&vid=18056752908014310824&abtest=all 
+鐏劙閱夐箙,https://vd3.bdstatic.com/mda-mjiatn4qf193dt08/hd/cae_h264_delogo/1643345184575680334/mda-mjiatn4qf193dt08.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655048025-0-0-eb09c86ea67d1a51c8fff3936c87a2b3&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0225267198&vid=10095541657962494981&abtest=all 
+娴烽矞鐏攨,https://vd2.bdstatic.com/mda-mjf9wydtwjykhs8g/hd/cae_h264_delogo/1643288227647929268/mda-mjf9wydtwjykhs8g.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655048110-0-0-1b5723da8043f318e4f297a496d11810&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0310512780&vid=10889186030930338226&abtest=all 
+纰崇儰涓夊疂,https://vd2.bdstatic.com/mda-mje8f2z5nvnaqxx5/hd/cae_h264_delogo/1643299933931628442/mda-mje8f2z5nvnaqxx5.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655048140-0-0-5d03ea95219590cc74e1e90b924bddc5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0340633722&vid=9207932154469744116&abtest=all 
+鍦熺獞鐚帓,https://vd3.bdstatic.com/mda-mja9808byebsih24/hd/cae_h264_delogo/1643145464986574279/mda-mja9808byebsih24.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655048267-0-0-1d7ade69fcb79230184aaa069b510ea8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0467544216&vid=15395825279250866027&abtest=all 
+绯熼奔,https://vd2.bdstatic.com/mda-mj99qt5jmnr68x9i/hd/cae_h264_delogo/1643396392968044649/mda-mj99qt5jmnr68x9i.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655048300-0-0-fae488d44b10a521238a5234e764f7b7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0500244543&vid=5445321693841193463&abtest=all 
+鍦熺獞涔崇尓,https://vd3.bdstatic.com/mda-nds73vki5mn28pfm/480p/h264_delogo/1651038226344965832/mda-nds73vki5mn28pfm.mp4?auth_key=1655048435-0-0-51d61eb0ec1d8fbfe1c959533d2f9075&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0635204816&vid=16145146088565215341&abtest=all 
+鑷懗鐩告姇,https://vd2.bdstatic.com/mda-mj68mqz61txfmbux/hd/cae_h264_delogo/1643398555352482143/mda-mj68mqz61txfmbux.mp4?v_from_s=hkapp-haokan-suzhou&auth_key=1655048547-0-0-abbe5df99e3cb8d44af4c92089f225df&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0747290485&vid=9316133598782000133&abtest=all 
+涓??鍦ｄ袱鍚??,https://vd3.bdstatic.com/mda-mj49wzs4nbtipw7r/hd/cae_h264_delogo/1643347230722924103/mda-mj49wzs4nbtipw7r.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655048583-0-0-65cf41e665dd7b4812ed17980ccbffc9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0783812465&vid=1474341097213281207&abtest=all 
+鑲ヨ偁楦甸笩,https://vd4.bdstatic.com/mda-mj3aznj03miqb90i/hd/cae_h264_delogo/1643395222269072007/mda-mj3aznj03miqb90i.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655048674-0-0-23dde4a707f273c5830644acd423c431&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0874377330&vid=12582352752573451618&abtest=all 
+椹存澘鑲??,https://vd3.bdstatic.com/mda-mir98exz23pc0kag/hd/cae_h264_delogo/1643268269600619303/mda-mir98exz23pc0kag.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655048865-0-0-f6df485c633ad487360c0f98afdfa900&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1065728472&vid=12213425554589901517&abtest=all 
+鐔忕墰澶??,https://vd3.bdstatic.com/mda-mipad2w74c5ve16r/hd/cae_h264_nowatermark/1632470564677186726/mda-mipad2w74c5ve16r.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655049037-0-0-e49ca33b1492c8b406181a9550448c03&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1237735318&vid=3564792331748451907&abtest=all 
+鑼勬眮鐗涙帓,https://vd2.bdstatic.com/mda-min84pfus06fa5ty/hd/cae_h264_delogo/1643399692479309748/mda-min84pfus06fa5ty.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655049079-0-0-3cf5aadaddada521ac98deb187aaaf70&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1278959445&vid=12380583999886786330&abtest=all 
+鐢查奔涓ゅ悆,https://vd2.bdstatic.com/mda-mik9hqxvc3d7wfa9/hd/cae_h264_nowatermark/1632209792414825761/mda-mik9hqxvc3d7wfa9.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655049248-0-0-9c2321e6483cb05142c2a38b3a85f9cd&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1448796100&vid=517908038500912846&abtest=all 
+鐑樻墥鐗涜箘,https://vd2.bdstatic.com/mda-mij8cz664p3uf8f7/hd/cae_h264_delogo/1643355302897838535/mda-mij8cz664p3uf8f7.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655049329-0-0-03f42b172d3932a556db82503b22933c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1529538392&vid=8056477574405400816&abtest=all 
+楠嗛┘鑴栧瓙,https://vd2.bdstatic.com/mda-mih4j16kyuayu48t/hd/cae_h264_nowatermark/1631954645472769915/mda-mih4j16kyuayu48t.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655049902-0-0-a87e7ee8d479f9a46f780e08d8d382b6&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2102649959&vid=13449991231537939716&abtest=all 
+绾㈡补鐑у厰,https://vd3.bdstatic.com/mda-mif1ufq0yid8d08t/hd/cae_h264_nowatermark/1631771666930725095/mda-mif1ufq0yid8d08t.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655049952-0-0-7f8441ab416ccfcc7a766d4c08eade76&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2152259891&vid=4192445000353986497&abtest=all 
+铚傜獫鐓??,https://vd2.bdstatic.com/mda-ncu8qjqrixkbq4dh/hd/cae_h264_delogo/1648539013955836156/mda-ncu8qjqrixkbq4dh.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655050058-0-0-6e30cdf0f83910724e55ae6df0cd3110&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2258630461&vid=16950748271499815250&abtest=all 
+鍦熺獞鐑ょ緤澶??,https://vd3.bdstatic.com/mda-miaa4mvnh3tvdx5v/hd/cae_h264_delogo/1643285147008260737/mda-miaa4mvnh3tvdx5v.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204366-0-0-31089ea4b9f00316d88a72090d166c07&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1766676433&vid=14138898109607446197&abtest=all 
+鍏ㄧ緤瀹??,https://vd2.bdstatic.com/mda-mi8b8n1fapkfzy30/hd/cae_h264_nowatermark/1631177030299243081/mda-mi8b8n1fapkfzy30.mp4?auth_key=1655204410-0-0-3251cfef0e96bbbe4193a73d6a4cd92f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1810327203&vid=2629651966226721826&abtest=all 
+鐗涜倝骞??,https://vd2.bdstatic.com/mda-mi69jfdzkvwnvbvs/hd/cae_h264_delogo/1643393450199617691/mda-mi69jfdzkvwnvbvs.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204438-0-0-d5ebeacf2fcce06a01ab59547e29108c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1838395857&vid=5493966352868834919&abtest=all 
+铏庣毊楦甸笩鐖??,https://vd4.bdstatic.com/mda-net93dwtcueu4u9j/480p/h264/1653721609596437460/mda-net93dwtcueu4u9j.mp4?auth_key=1655204465-0-0-4555bfccb4bed5cf2bb84b2b81f39791&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1865212778&vid=7156446621409829348&abtest=all 
+閰辩剸鐗涙楠??,https://vd2.bdstatic.com/mda-nerafr1ft7affzwk/480p/h264/1653552110960778877/mda-nerafr1ft7affzwk.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204509-0-0-fe4375d1a5e8304fccf49d01b6324dce&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1909050999&vid=12330119679350378689&abtest=all 
+鐗涜啙鐩栭,https://vd2.bdstatic.com/mda-neqaikd1xvvtrc2a/480p/h264/1653464493901543639/mda-neqaikd1xvvtrc2a.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204544-0-0-a53c001488f603cd221661571b2f103b&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1944334658&vid=8419620275932311899&abtest=all 
+鑲ヨ偁楣??,https://vd4.bdstatic.com/mda-nepbnx1gkwwfe6h4/480p/h264/1653380567130163019/mda-nepbnx1gkwwfe6h4.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204574-0-0-b9da591587e593e5f557c8194e75b886&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1974069537&vid=5831581271697130378&abtest=all 
+棣嶅寘缇婅吙,https://vd2.bdstatic.com/mda-nen8av4mmq6b6jdn/hd/cae_h264/1653291282172118783/mda-nen8av4mmq6b6jdn.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204602-0-0-efbc5c1de5c0ff8ee15421f8074a594c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2002854443&vid=778061406411546269&abtest=all 
+娌宠煿涓??閿呯儵,https://vd2.bdstatic.com/mda-nekcx3v9ett2ris5/480p/h264/1653125375347700570/mda-nekcx3v9ett2ris5.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204646-0-0-4f75622c2dcb0ff704cffc958aa2e91a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2046265149&vid=6322076425195603579&abtest=all 
+绾㈡洸閰遍腑,https://vd3.bdstatic.com/mda-neh81rk1eiuv3w27/480p/h264/1652854920609442406/mda-neh81rk1eiuv3w27.mp4?auth_key=1655204675-0-0-4da5a87245bb475374748f8b4e1a45df&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2075350062&vid=6641467693514512194&abtest=all 
+鐚倝鑴??,https://vd2.bdstatic.com/mda-neg8b0x05h7m10p0/480p/h264/1652767840097582134/mda-neg8b0x05h7m10p0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204711-0-0-024d09eb08d08f43793d846e1093e578&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2111154281&vid=8563202664943920713&abtest=all 
+鍥涜箘鍚岀儵,https://vd3.bdstatic.com/mda-nefa29rfui86n3pw/480p/h264/1652685563112169821/mda-nefa29rfui86n3pw.mp4?auth_key=1655204740-0-0-1de9b9617d3e512a2b1fb2c94a657ba1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2140773727&vid=9369566642451833404&abtest=all 
+鍦伴攨楦??,https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204769-0-0-307f31c8d52fc424d102f72fc60b80f3&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2169229312&vid=11820591972211290892&abtest=all 
+楹昏荆鐢拌灪,https://vd2.bdstatic.com/mda-nebbx1csfuye4nu0/480p/h264/1652344240987321761/mda-nebbx1csfuye4nu0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204811-0-0-174455300eacf7613f0acb6e916341bf&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2211130595&vid=3348990192010659836&abtest=all 
+绯栭唻鐗涙帓,https://vd2.bdstatic.com/mda-ne6apsvwr0mmengs/480p/h264/1651909954766095518/mda-ne6apsvwr0mmengs.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204880-0-0-8050868679601ee7a1cb08726e9e82bf&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2280149339&vid=394264423709055760&abtest=all 
+姘寸叜姣涜倸,https://vd3.bdstatic.com/mda-ncq9rn183n6gnvs7/480p/h264_delogo/1648192109377463064/mda-ncq9rn183n6gnvs7.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655205004-0-0-f98169ef2f34b0e782d65225cc0256e1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2404287018&vid=4898549614574730434&abtest=all 
+鐭冲ご鐑よ倝,https://vd3.bdstatic.com/mda-mi4ab8i1w6w4y5jj/hd/cae_h264_nowatermark/1630828286668238373/mda-mi4ab8i1w6w4y5jj.mp4?auth_key=1655224094-0-0-4c0c81d29b6d8e6396e0250d44b739b1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3494340903&vid=11287013436425742467&abtest=all 
+閰辨眮涔抽附,https://vd2.bdstatic.com/mda-mi2a6c3jc2a7j6hd/hd/cae_h264_nowatermark/1630655129237630780/mda-mi2a6c3jc2a7j6hd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224244-0-0-f07eacc56aaadd6ee5e73c1cd0cebcf2&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0044502052&vid=13481194564157475203&abtest=all 
+楹昏荆椹村ぇ鎺??,https://vd2.bdstatic.com/mda-mi0arbxk7eckrcew/hd/cae_h264_nowatermark/1630484038350026458/mda-mi0arbxk7eckrcew.mp4?auth_key=1655224296-0-0-c1b64c518a1a522853ebe41160bf097a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0096043637&vid=9221544344203440669&abtest=all 
+棣欑剸椹存澘鑲??,https://vd2.bdstatic.com/mda-mhuagwk8xqy4r0f3/hd/cae_h264_delogo/1643139533885975965/mda-mhuagwk8xqy4r0f3.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224381-0-0-e70ac774b4f198c04cb31c91e4eeb8dd&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0181458419&vid=7010485010016896710&abtest=all 
+杈ｅ崵缇婂ご,https://vd2.bdstatic.com/mda-mht8xwcyw34qjw51/hd/cae_h264_delogo/1650783822006328405/mda-mht8xwcyw34qjw51.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224505-0-0-65823773e481cc498567701e3714ea0c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0305335743&vid=17644310508529398649&abtest=all 
+绾㈢儳鐗涢灜,https://vd3.bdstatic.com/mda-mhr9cvdz49zuvkv0/hd/cae_h264_nowatermark/1629962253314476344/mda-mhr9cvdz49zuvkv0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224544-0-0-62f9615455168cd152d260c49c3221bb&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0344050121&vid=4418756710345833871&abtest=all 
+鐗涙灦瀛??,https://vd2.bdstatic.com/mda-nd18ibhe9e17sxv0/480p/h264_delogo/1648880628803892130/mda-nd18ibhe9e17sxv0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224607-0-0-0c9e1157287f77dbda2cbb670758980d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0407350166&vid=11761064184755722546&abtest=all 
+鐗涢灜鐏攨,https://vd4.bdstatic.com/mda-nbh8cz7cj4kzq9me/hd/cae_h264_nowatermark_delogo/1645166700349951420/mda-nbh8cz7cj4kzq9me.mp4?auth_key=1655224669-0-0-72ae03d34ba3143dcb66b6b95a4eb635&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0469334287&vid=2874643620946063398&abtest=all 
+鐔忚偉鑲??,https://vd2.bdstatic.com/mda-nbe3mtgtsfcp7kdg/hd/cae_h264_nowatermark_delogo/1644908120637406906/mda-nbe3mtgtsfcp7kdg.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224716-0-0-132df145c9ecc0975e276ff35ee64c9c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0516069562&vid=3395772809045714873&abtest=all 
+鍙姳鐗涘ご,https://vd4.bdstatic.com/mda-nan9ayjfqc79ntag/hd/cae_h264_nowatermark_delogo/1642922236652462702/mda-nan9ayjfqc79ntag.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224804-0-0-5e1abc459d6cd7c7614cd8628dd7ebfd&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0604825727&vid=780864674833455805&abtest=all 
+棣欒荆姊瓙锜??,https://vd4.bdstatic.com/mda-mhpb0c0wncgxc46z/hd/cae_h264_nowatermark/1629793200922512800/mda-mhpb0c0wncgxc46z.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655224994-0-0-53acf433a09b5b308d3ab5bf40ddf34d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0794778106&vid=8439739901543690368&abtest=all 
+椹磋倝鐒栭ゼ瀛??,https://vd3.bdstatic.com/mda-mhkb8qqr7tfs2ayv/hd/cae_h264_nowatermark/1629533560474289772/mda-mhkb8qqr7tfs2ayv.mp4?auth_key=1655225037-0-0-41643ab13c15f208522e48dafc914584&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0837458498&vid=12177150870923519991&abtest=all 
+椹寸毊闃胯兌鑶??,https://vd2.bdstatic.com/mda-mhh9vz373qs26apd/hd/cae_h264_delogo/1643135339221745617/mda-mhh9vz373qs26apd.mp4?auth_key=1655257329-0-0-4dc784191a762c1877b4eaf12470f05f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0729258624&vid=1665905482183797316&abtest=all 
+榫欏嚖涓??閿呯剸,https://vd4.bdstatic.com/mda-mhc9q24e8aanyqfq/hd/cae_h264_nowatermark/1628843986055712987/mda-mhc9q24e8aanyqfq.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257406-0-0-bfc3d2f0c45a002785a3a2f18fca2d74&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0806911487&vid=12345621156566779145&abtest=all 
+鍙姳闈掕煿,https://vd4.bdstatic.com/mda-mhba45j94002q00p/hd/cae_h264_nowatermark/1628754279184882298/mda-mhba45j94002q00p.mp4?auth_key=1655257441-0-0-74939346279b1eecf1a476d32f39ac05&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0841777840&vid=4195214514960735448&abtest=all 
+鍗ょ墰鑸??,https://vd4.bdstatic.com/mda-mha9ctbvx0p7xpeg/hd/cae_h264_nowatermark/1628666552624701166/mda-mha9ctbvx0p7xpeg.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257501-0-0-304a2529a6a9b285d3d10fc72149c2a5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0901421755&vid=9780762439742807862&abtest=all 
+杩囨ˉ鎺掗,https://vd2.bdstatic.com/mda-mh7bjjwcystw4mc0/hd/cae_h264_delogo/1643280138786882129/mda-mh7bjjwcystw4mc0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257532-0-0-39d708415d86377f72b07876b181ab28&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0932409639&vid=9573940101718703463&abtest=all 
+鑲ヨ偁楦??,https://vd2.bdstatic.com/mda-mh3and1rhqmr4k3h/hd/cae_h264_nowatermark/1628064525749686545/mda-mh3and1rhqmr4k3h.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257659-0-0-15cde9d5eaf863b7b194c2a7dbc6609b&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1059204417&vid=6994985705243832833&abtest=all 
+鐗涘ご瀹??,https://vd3.bdstatic.com/mda-mgsa1vg25rckhjkk/hd/cae_h264_delogo/1643147762137003200/mda-mgsa1vg25rckhjkk.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257727-0-0-d37fe6926af0452a4bb75cf47b9a4e67&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1127449100&vid=1568144016198433247&abtest=all 
+骞查攨鐗涘熬宸??,https://vd4.bdstatic.com/mda-mgmav7wcir7rb2f8/480p/h264/1626940245358233958/mda-mgmav7wcir7rb2f8.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257764-0-0-685dbaa14b4a1b5075b9e96504dae580&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1164351639&vid=10080784919998694375&abtest=all 
+濮滆荆鐗涙帓,https://vd2.bdstatic.com/mda-mgkb1kwfauv71x6e/hd/cae_h264_delogo/1643244107842039684/mda-mgkb1kwfauv71x6e.mp4?auth_key=1655257794-0-0-22a98e536494b29bbb73a2969175ece1&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1194049235&vid=7155148110564772909&abtest=all 
+骞查攨鐗涜箘,https://vd2.bdstatic.com/mda-mge91ri2iru3wykc/hd/cae_h264_nowatermark/1626337351411778855/mda-mge91ri2iru3wykc.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655257870-0-0-a78cfff1dce4370d8671a8d667fdd05f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1270126781&vid=7910494474868230546&abtest=all 
+鐢查奔绾㈢儳鑲??,https://vd3.bdstatic.com/mda-mgd8m926mxmzpvyk/hd/cae_h264_nowatermark/1626246546733040179/mda-mgd8m926mxmzpvyk.mp4?auth_key=1655257895-0-0-d7b1041f9019885ad6749decf3b4c419&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1295580996&vid=8651845722237068177&abtest=all 
+鐑ら傅楦??,https://vd2.bdstatic.com/mda-mgc7ieuztjvigy0b/hd/cae_h264_delogo/1643347652547661468/mda-mgc7ieuztjvigy0b.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655538663-0-0-5302b6b49c1bb17f568ba0afc8e8ce45&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1263535191&vid=18402895477617002606&abtest=all 
+鐗涜倸,https://vd3.bdstatic.com/mda-mgaahyx05kc17shj/hd/cae_h264_delogo/1643148219873544123/mda-mgaahyx05kc17shj.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655538716-0-0-e365bcfff0dc3b1d59452851d1a061c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1316564528&vid=124207598866063251&abtest=all 
+娌欑垎缇婅倸鑲??,https://vd4.bdstatic.com/mda-mg989gmh31icebre/hd/cae_h264_nowatermark/1625900251935570127/mda-mg989gmh31icebre.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655538741-0-0-4c666dd44b3d88113922d41e0f5afba4&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1341651933&vid=12602458672085290732&abtest=all 
+楹昏荆铏惧熬,https://vd4.bdstatic.com/mda-mg68s8tqk7821s6k/hd/cae_h264_nowatermark/1625641172105934010/mda-mg68s8tqk7821s6k.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655538969-0-0-7bfccc324c52478736dc70e062094866&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1569373880&vid=11811291272039624762&abtest=all 
+鐩愮剹铚楃墰,https://vd2.bdstatic.com/mda-mg261uczhazzbumj/hd/cae_h264_nowatermark/1625287386848136206/mda-mg261uczhazzbumj.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539042-0-0-b6d7d9647510a88457f7ce7d89a7bc53&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1642439863&vid=13411255577314359660&abtest=all 
+鑲ヨ偁楸??,https://vd2.bdstatic.com/mda-mg0btvw520f4v5p3/hd/cae_h264_delogo/1643268316499059221/mda-mg0btvw520f4v5p3.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539075-0-0-188da7a211510a4529a7b450b946c22a&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1675618344&vid=16038520668528867050&abtest=all 
+鍦熺獞鐒栫墰鑲??,https://vd2.bdstatic.com/mda-mfv9tjrkir997dti/hd/cae_h264_delogo/1643341066464883120/mda-mfv9tjrkir997dti.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539100-0-0-8461a5d8bdcaca4e07452a05a96452a8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1700682143&vid=1135914335542454643&abtest=all 
+楹昏荆鐗涜箘绛??,https://vd2.bdstatic.com/mda-mft9aa1avhs9g0ph/hd/cae_h264_delogo/1643339235177987078/mda-mft9aa1avhs9g0ph.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539192-0-0-6ec30acd4a6af58127c4d1ea5c2be6ca&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1792820059&vid=8208704483460990256&abtest=all 
+楹昏荆娴烽様,https://vd2.bdstatic.com/mda-mfs99rqhgpt6v934/hd/cae_h264_delogo/1643303636102225625/mda-mfs99rqhgpt6v934.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539217-0-0-ebd2aaf57f08cf8f2ac3de4ff34a3cf3&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1817594664&vid=9950505995046552920&abtest=all 
+鐢查奔鐗涘疂鑵板瓙,https://vd3.bdstatic.com/mda-mfr98jrwgy0yib25/hd/cae_h264_delogo/1643299176541153962/mda-mfr98jrwgy0yib25.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539292-0-0-d837a2f38715ccfe24261b3ccc2884e6&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1892535846&vid=8382022140161735924&abtest=all 
+鐚潅涓嬮厭鑿??,https://vd2.bdstatic.com/mda-mfq99v3i80gwe49e/hd/cae_h264_nowatermark/1624604580248864865/mda-mfq99v3i80gwe49e.mp4?auth_key=1655539325-0-0-5a56d16cf543e0bd5d3ed31f30ff714d&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1925817603&vid=10648258954728214356&abtest=all 
+鐑ょ墰澶??,https://vd3.bdstatic.com/mda-mfn8rxujpfike758/hd/cae_h264_nowatermark/1624432761274873194/mda-mfn8rxujpfike758.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539425-0-0-2a1641d72c0a3f5ba1870b50b83d7b25&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2025095327&vid=18112967870396033807&abtest=all 
+閱嬬剸鐗涙楠??,https://vd4.bdstatic.com/mda-mfk8c204weuzvhxa/hd/cae_h264_delogo/1643147501963347947/mda-mfk8c204weuzvhxa.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539585-0-0-24b9fe9d219b0f49b06df39857209fe9&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2185448310&vid=5252020132714521845&abtest=all 
+鐑ら硠楸??,https://vd2.bdstatic.com/mda-mfj7wkcb3ugdjps5/hd/cae_h264_nowatermark/1624172723749332267/mda-mfj7wkcb3ugdjps5.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655539649-0-0-a175fefb3807e7439b792c13e1aed199&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2249886013&vid=12025283582895359559&abtest=all 
+绯栫啅缇婅吙,https://vd2.bdstatic.com/mda-mfg8vfbmg467mf0j/hd/cae_h264_nowatermark/1623912912615331814/mda-mfg8vfbmg467mf0j.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655540034-0-0-229eac90b59ad78cfc6309c3d70ca7af&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2634275153&vid=11714533152811144599&abtest=all 
+閾侀攨鐐栭硠楸??,https://vd2.bdstatic.com/mda-mffa8f1tufiwpwtr/hd/cae_h264_nowatermark/1623829700798483965/mda-mffa8f1tufiwpwtr.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655540065-0-0-313bc3b6b4df827ff2f37dbe061d1057&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2665644554&vid=6992502162957399959&abtest=all
+椋熷彅260涔板崄鏉ュ彧灏忕敳楸??,https://vd4.bdstatic.com/mda-nf29yjvnrcqwwy2q/480p/h264/1654240313985806512/mda-nf29yjvnrcqwwy2q.mp4?auth_key=1655032564-0-0-747aa1c4fdd90716418995aa885348a7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2764614902&vid=9984932099035144842&abtest=all
+椋熷彅閾佹《鐑ら浮,https://vd2.bdstatic.com/mda-nf9c27rq4xcbjmk4/480p/h264/1654931961791216300/mda-nf9c27rq4xcbjmk4.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655032635-0-0-7c3ad26ae39d51e736978d393ad44242&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2835878236&vid=15570804519629633873&abtest=all
+椋熷彅闆北椹兼帉,https://vd2.bdstatic.com/mda-nf89bup48h33rnsi/480p/h264/1654758415054577400/mda-nf89bup48h33rnsi.mp4?auth_key=1655032748-0-0-b7c12af769785740b322753442e5c1ff&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2948153948&vid=2972680187953890553&abtest=all
+椋熷彅楦¤叞鐐栭粍槌??,https://vd3.bdstatic.com/mda-nf5b4qfywy5pzjgu/480p/h264/1654502805261088051/mda-nf5b4qfywy5pzjgu.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655032849-0-0-433e12f29eaab498df3667819d6d9d5b&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3049228437&vid=3904751968646806841&abtest=all
+椋熷彅闇哥帇鐗涘熬,https://vd3.bdstatic.com/mda-nf39wk2de3ryede7/480p/h264/1654326718567558149/mda-nf39wk2de3ryede7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1655032908-0-0-21cb435cc1f8eb263984e073bb6106c5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3108822864&vid=6595468946187502994&abtest=all
+椋熷彅杈ｅ崵椹煎ご,https://vd3.bdstatic.com/mda-newe17bhfrmd35a9/480p/h264/1653991101001259092/mda-newe17bhfrmd35a9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655032944-0-0-352bdafaee4bbadacf814f1344beecd5&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3144408041&vid=1387963609971371324&abtest=all
+椋熷彅骞查攨鐗涜洐,https://vd4.bdstatic.com/mda-neu9v10u2tk22kwt/480p/h264/1653808467692279237/mda-neu9v10u2tk22kwt.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1655033139-0-0-6ffe17fd9a49c1b38bd9efbed61a05e8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3339243039&vid=14953153288685054828&abtest=all
+椋熷彅閰辩剸鐗涙楠??,https://vd2.bdstatic.com/mda-nerafr1ft7affzwk/480p/h264/1653552110960778877/mda-nerafr1ft7affzwk.mp4?auth_key=1655033260-0-0-e4c291de85acb14f57b8728592bce8d0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3460184673&vid=12330119679350378689&abtest=all
+
+鎴忔洸棰戦亾[V4],#genre#
+鏇插墽銆婃鏋楁敹瀛愩????,http://gcw.bdcdn.shoujiduoduo.com/v/190617/2282c7e70fc99fe1e7e065e32b1ab2b9.mp4
+鏇插墽銆婂洓閮庢帰姣嶃????,http://gcw.bdcdn.shoujiduoduo.com/v/191208/1aef74e8889ab9199f60927ac66b0885.mp4
+鏇插墽銆婂洓閮庢帰姣嶃????,http://gcw.bdcdn.shoujiduoduo.com/v/190218/c981286b5772c5c5351b202973680264.mp4
+鏇插墽銆婅儗闈磋甯呫????,http://gcw.bdcdn.shoujiduoduo.com/v/200831/2d7d5874b132f83b8f6d7c2e24ee3cdf.mp4
+鏇插墽銆婃潕璞佸瓙鍋氭ⅵ銆??,http://gcw.bdcdn.shoujiduoduo.com/v/191208/d1a3c9f90719f7eebdafd964b7bcb8f8.mp4
+鏇插墽銆婂垬鍏銆??,http://gcw.bdcdn.shoujiduoduo.com/v/190429/2ef6445a1215cf06049cac61d72f201e.mp4
+鏇插墽銆婇闆厤銆??,http://gcw.bdcdn.shoujiduoduo.com/v/190702/3e371e8c94d2e1070319298ce2f9c2b7.mp4
+鍚嶅婕斿敱浼??,http://gcw.bdcdn.shoujiduoduo.com/v/190710/acb4c10132c1db9122b9fc1d9bb662e1.mp4
+鏇插墽銆婂崄鍏摥銆??,http://gcw.bdcdn.shoujiduoduo.com/v/190304/7dc7811188639217fb8299804021325f.mp4
+鏇插墽銆婄帇鍗庝拱鐖广????,http://gcw.bdcdn.shoujiduoduo.com/v/190902/19ce2ae8133857ae7ffc2dbe0c674a3b.mp4
+鏇插墽銆婃潕璞佸瓙璇村獟銆??,http://gcw.bdcdn.shoujiduoduo.com/v/190404/fe8abd72959145ed7ca5b56342849b89.mp4
+鏇插墽銆婂嵎甯瓛銆??,http://gcw.bdcdn.shoujiduoduo.com/v/190527/315a044c2b9cf3a17e2b37ef09e21cd5.mp4
+鏇插墽灏忔,http://gcw.bdcdn.shoujiduoduo.com/v/190513/4a77c50ae75a653dfbf5396f45c592e3.mp4
+鏇插墽銆愬??熺蔼瀛愩??戝叏鍦??,http://gcw.bdcdn.shoujiduoduo.com/v/190428/002d8daebc70bfbe6e809d28b55084af.mp4
+鏇插墽銆婅崋閽楄銆??,http://gcw.bdcdn.shoujiduoduo.com/v/190706/f24473d42d884882617f29ab1157b8ab.mp4
+鏇插墽銆婁簲绂忎复闂ㄣ??嬨??愬叏鍦恒????,http://gcw.bdcdn.shoujiduoduo.com/v/200302/3b18c2c8f578035387fc737d88dd8f9e.mp4
+鏇插墽銆婃潕璞佸瓙銆嬮??夋,http://gcw.bdcdn.shoujiduoduo.com/v/201105/3e869cb57c096666978b871997e1781e.mp4
+鏇插墽鍏ㄩ泦銆婃儕铔般????-涓婇泦,http://gcw.bdcdn.shoujiduoduo.com/v/201105/8fb403bfce72a9ae63ec389b5c756092.mp4
+鏇插墽,http://gcw.bdcdn.shoujiduoduo.com/v/190419/9e086a2c7ef700f51bb480e522a947ae.mp4
+鏇插墽銆婃潕璞佸瓙璇村獟銆??-_瓒呮竻,http://gcw.bdcdn.shoujiduoduo.com/v/190325/3635fa4901fb8f63a26cf623a9c3c549.mp4
+鏇插墽銆婃瀹跺潯銆嬪叏鍦??,http://gcw.bdcdn.shoujiduoduo.com/v/191207/d25810bf3aa56d64dcfa0722c0682570.mp4
+鏇插墽銆婂嵎甯瓛銆嬫捣杩炴睜銆佸垬鍏扮帀銆侀┈浜岀珷(79骞磋垶鍙扮増),http://gcw.bdcdn.shoujiduoduo.com/v/190501/effda381decab3a9da4e1d8090de384a.mp4
+鏇插墽銆婃潕璞佸瓙绂诲銆嬮??夋,http://gcw.bdcdn.shoujiduoduo.com/v/201115/66568433507300287649a7579cfe59d0.mp4
+鏇插墽銆愯档姘忓鍎裤??戝叏鍦??,http://gcw.bdcdn.shoujiduoduo.com/v/190325/870b319c7c76d1454305c961de3193d7.mp4
+鏇插墽銆婇緳鎯呫????,http://gcw.bdcdn.shoujiduoduo.com/v/190213/83b5aee6b0ae5ea6e0951c9169838997.mp4
+鏇插墽銆婂搼濂冲憡鐘躲??嬪畬鏁寸増,http://gcw.bdcdn.shoujiduoduo.com/v/200608/7fcc1b27a03acfbf1b7b8379370387fa.mp4
+鏇插墽銆婂嵎甯瓛銆嬮??夋,http://gcw.bdcdn.shoujiduoduo.com/v/200618/f72a7218b1eded2f2b7bf043176f92a7.mp4
+鏇插墽銆婇摗璧电帇銆??,http://gcw.bdcdn.shoujiduoduo.com/v/190924/93b9d37f2c7420477a1b082c77a06220.mp4
+鏇插墽鍚嶅鏉庝簹鍐涖??佸垬鑹充附鏇插墽銆婂瘒鍑嗚儗闈淬??嬪皬鑺卞洯閫侀キ閫夋锛??,http://gcw.bdcdn.shoujiduoduo.com/v/200331/c24282ad8c68477224055f19d324b30e.mp4
+寮犳柊鑺斥??斺??旀洸鍓с??婇檲涓変袱銆嬶細闄堜笁涓よ繄姝ヤ笂鍏涵,http://gcw.bdcdn.shoujiduoduo.com/v/210118/6c7200369ec769f15448231b47e8bab3.mp4
+鏇插墽銆婄Е棣欒幉鎸傚竻銆??,http://gcw.bdcdn.shoujiduoduo.com/v/191122/98131f0938de177cb3ffbe7aa49f6632.mp4
+鏇插墽娴疯繛姹犳洸鍓у洟銆婇儹濞佸弽鏈濄????03,http://gcw.bdcdn.shoujiduoduo.com/v/190225/9fbb0cb5e5338b29f6d9946fd7051adb.mp4
+鏇插墽銆婂垬鍏ㄨ繘鐡溿????,http://gcw.bdcdn.shoujiduoduo.com/v/190920/bd1f1d3a930f50f5ffbed6792da7865a.mp4
+鏇插墽銆婃灞卞疂銆??,http://gcw.bdcdn.shoujiduoduo.com/v/191122/1ade9113a8bcc9385cc6e9df9871a27e.mp4
+鏇插墽銆婂垬鍏銆嬮??夋,http://gcw.bdcdn.shoujiduoduo.com/v/201026/22e51c748600e5e42bc5a138c62c5160.mp4
+鏇插墽涓嬫湞鏉ヤ竴杈硅蛋涓??杈归暱鍙规潕澶╂柟,http://gcw.bdcdn.shoujiduoduo.com/v/190718/664cfdec0eb7ae39b7ff5c3daab7729c.mp4
+鏇插墽銆婇闆厤銆嬮??夋,http://gcw.bdcdn.shoujiduoduo.com/v/190404/59e91848a56166a30a275089daf59b9a.mp4
+鏇插墽銆婇闆厤銆嬮??夋,http://gcw.bdcdn.shoujiduoduo.com/v/190315/5d17a97a41c3debe8551adc2928b1ed8.mp4
+涔斿崕浜戞紨鍞辨洸鍓с??婄帇灏忚刀鑴氥??嬮??夊満,http://gcw.bdcdn.shoujiduoduo.com/v/190524/74c592424d50fd8dda66f52b9b30a650.mp4
+鏁欓椇濂??,http://gcw.bdcdn.shoujiduoduo.com/v/210127/870fd252bad1a37fbbc7f19196b2e9cf.mp4
+娌冲崡鏇插墽銆婂洓閮庢帰姣嶃??嬨??愭帰姣嶄竴鎶樸????,http://gcw.bdcdn.shoujiduoduo.com/v/190505/a7900e9cbc6b71e46d7a1a895b103033.mp4
+鏇插墽銆婃潕璞佸瓙璇村獟銆??,http://gcw.bdcdn.shoujiduoduo.com/v/190218/94ace5d3a1f02e68621b32b0b3477b9f.mp4
+鏇插墽銆婄Е棣欒幉銆嬫柟绱犵弽銆佷警搴嗙ゥ銆佹潕鏄ユ櫙-娌冲崡鐪佹洸鍓у洟,http://gcw.bdcdn.shoujiduoduo.com/v/190907/9de92127ec2567101234d761b31c1a66.mp4
+椹獝鐗堟渤鍗楁洸鍓с??婅儗闈磋甯呫??嬪杩樻槸鑰佺殑杈??!,http://gcw.bdcdn.shoujiduoduo.com/v/200919/906b70f4cd6f3ad139a2d4986cc48a78.mp4
+鏇插墽锛氬垬鍨掋??侀儹鏅撴檽銆侀儹鑹鸿姵銆婂惔姹夋潃濡汇??嬪唴褰曢煶锛堟礇闃冲競鏂板畨鍘挎洸鍓у洟锛??,http://gcw.bdcdn.shoujiduoduo.com/v/190213/bccccb0837a838d9996b9fae89e4d493.mp4
+涓師鍚嶄笐寮犳檽鑻辨洸鍓с??婅??佷袱鍙ｇ帺娴极銆嬬湡鎼炵瑧锛??,http://gcw.bdcdn.shoujiduoduo.com/v/190330/4f21f789c48f1c4a9c739e26056a65af.mp4
+鏇插墽-娴疯繛姹犮??婂嵎甯瓛銆嬪ぇ鑰佺埛浣犵ǔ鍧愬湪瀵熼櫌,http://gcw.bdcdn.shoujiduoduo.com/v/190511/4951d7d9e0b1a93c4fa696f45d5ac664.mp4
+鏇插墽銆婃煖涓紭銆??,http://gcw.bdcdn.shoujiduoduo.com/v/190224/a43970035d5ea22b1d9e0e7b60415bd4.mp4
+鏇插墽銆婂寘鍏緸鏈濄??嬫??掓墦鐜嬪己-椹亗鍚堟紨鍞??,http://gcw.bdcdn.shoujiduoduo.com/v/191207/e3686f25f7c417454dbd2be4d0fbc87b.mp4
+绉﹁姵娆ｈ〃婕??,http://gcw.bdcdn.shoujiduoduo.com/v/190613/1b015c533e065640f025f440158384ae.mp4
+鏇插墽_闄堜笁涓??(瀛旂礌绾??)闄堜笁涓ゆ极姝ヤ笂鍏涵,http://gcw.bdcdn.shoujiduoduo.com/v/190710/916c9cf23da02dfea6e1bc13dd328bf6.mp4
+娴疯繛姹犳洸鍓с??婂嵎甯瓛銆嬬粡鍏搁??夋锛氬皬浠撳▋璺ぇ鍫傝瘔鍐ゆ瀴,http://gcw.bdcdn.shoujiduoduo.com/v/190223/09e4765a1fdf115854f683e7fa863377.mp4
+鍗佸啲鑵婃湀澶╀綘涓嶈鎷跨潃閭ｈ姦鑺卞綋涓濇,http://gcw.bdcdn.shoujiduoduo.com/v/190519/46d622ba7c7985c5e8045be5a1975188.mp4
+鏉庡ぉ鏂瑰か濡囨紨鍞辨洸鍓с??婅媿濞冩壘鐖广??嬪氨,http://gcw.bdcdn.shoujiduoduo.com/v/190624/0a20f9fccd7449afab722eed0ef0eedf.mp4
+鏇插墽鍚嶅鑳″笇鍗庢洸鍓с??婃潕璞佸瓙鎴戦伃浜嗗暐缃????,http://gcw.bdcdn.shoujiduoduo.com/v/190711/123d9450d12ba8ac814e5842c1463256.mp4
+鈥滃皬浠撳▋鎴戠浜??-鐧诲皝灏忓幙鈥濋??夋-鏇插墽銆婂嵎甯瓛銆嬫潹瀛??,http://gcw.bdcdn.shoujiduoduo.com/v/190602/8b28dec624f172d186f11fc7290c48ff.mp4
+鍗楅槼甯傞噾绾㈡洸鍓у洟婕斿敱,http://gcw.bdcdn.shoujiduoduo.com/v/190714/79f329b25bd56d24d99d64c49da7ca84.mp4
+鍗楅槼甯傞噾绾㈡洸鍓у洟婕斿敱,http://gcw.bdcdn.shoujiduoduo.com/v/190926/edde31e6fcbc72a7ef2203b9b9cad3a0.mp4
+鍗楅槼甯傞噾绾㈡洸鍓у洟婕斿敱,http://gcw.bdcdn.shoujiduoduo.com/v/191003/1dacb6c7907dae26e14d1043cdcc8800.mp4
+涓嶆劎鏄垙鏇蹭笂鐨勪笉鍊掔縼,http://gcw.bdcdn.shoujiduoduo.com/v/190617/d37e4e0a63b5cfd4ec0c05edb64351e4.mp4
+(鏇插墽銆愮Е棣欒幉銆戝叏鍦衡棌娌冲崡鐪佹洸鍓у洟鈼忊槄mp4,http://gcw.bdcdn.shoujiduoduo.com/v/190318/114d1ca4f536bc0b172ceb9ddb07eb36.mp4
+鏉庡ぉ鏂规紨鍞??,http://gcw.bdcdn.shoujiduoduo.com/v/190609/6690ac91bca405dca8cada0ced8b054d.mp4
+20130928鏉庤眮瀛愬敱娈??.鏇插墽琛ㄦ紨鑹烘湳瀹舵潕澶╂柟婕斿敱,http://gcw.bdcdn.shoujiduoduo.com/v/190304/951409acd26e4d06be3d1b6ea1bc4ad8.mp4
+鏇插墽灏忔姌瀛愩??婂鐢峰濂炽??嬫潕澶╂柟,http://gcw.bdcdn.shoujiduoduo.com/v/190706/3676c145c6f733a449f10d5bf1c6f500.mp4
+鍑勬儴缁撳眬!,http://gcw.bdcdn.shoujiduoduo.com/v/190703/964530e611ef9c0f468187530ff35df5.mp4
+鏇插墽鍏ㄥ満鎴忋??愪笅闄堝窞銆戜笂闆嗏槄,http://gcw.bdcdn.shoujiduoduo.com/v/191207/33327eea240ea54022d0024e4c8c8454.mp4
+鍗楅槼甯傚疀涓滈潚骞存洸鍓у洟,http://gcw.bdcdn.shoujiduoduo.com/v/191012/bb2fb4f0811d29c56dd6edfd9427b752.mp4
+濂藉惉,http://gcw.bdcdn.shoujiduoduo.com/v/190203/578c5362ec8840f354a99196387f11d5.mp4
+鏂板澶滅孩鐏寒榧撲箰榻愰福,http://gcw.bdcdn.shoujiduoduo.com/v/201113/680de1c6c1d7fdeac9c8f24a966cf008.mp4
+鐜颁唬鏇插墽--銆婃厛姣嶆儏鍜屾厛姣嶅績銆嬪悎闆嗐????,http://gcw.bdcdn.shoujiduoduo.com/v/201112/274d53474cf5251ff953ce385c73cc67.mp4
+锛堟ⅷ鍥槬鐗堬級,http://gcw.bdcdn.shoujiduoduo.com/v/190822/5668e504ad82c60607d315479d821990.mp4
+鏇插墽銆婄孩濞樸??嬫洸鍓у悕瀹跺垬闈掓紨鍞??,http://gcw.bdcdn.shoujiduoduo.com/v/201226/d0513575077086a2c479c2b06220e361.mp4
+娌冲崡鐪佹洸鍓у洟,http://gcw.bdcdn.shoujiduoduo.com/v/190130/f825d70cb7e1820a4e75a050793dc241.mp4
+鑿忚埅,http://gcw.bdcdn.shoujiduoduo.com/v/200304/aa62b08f4acc8ddb492fdc3f5b60bb06.mp4
+鍥㈡紨鍞??,http://gcw.bdcdn.shoujiduoduo.com/v/190125/ae2171e37909f87af12c02403c484f9f.mp4
+鐜嬪崕涔扮埞绗??1闆??,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/eac79457c0bbc458be19715b4bdc573f.mp4
+鐜嬪崕涔扮埞绗??2闆??,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/060dde67d9a7e11898d2ab7d473b5509.mp4
+鐜嬪崕涔扮埞绗??3闆??,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/55da4c403d2ea51fa5602f304d4febc3.mp4
+鐜嬪崕涔扮埞绗??6闆??,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/27bfba291a0fb4f0bce5377b27f709f5.mp4
+鐜嬪崕涔扮埞绗??7闆??,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/92fa5f80e4dc70d3fdea32b0c386a821.mp4
+閮戝窞甯傛洸鍓у洟,http://gcw.bdcdn.shoujiduoduo.com/v/190404/52298ebc73c6ef8b36a34ad9e09c924d.mp4
+鎶卞▏鍎挎涓嶄綇鎮插０澶ф斁!,http://gcw.bdcdn.shoujiduoduo.com/v/190608/194edc031eeaed2d7f7ca2589e6768ec.mp4
+鍚嚕鎶婂績鐥呭鍚剧殗,http://gcw.bdcdn.shoujiduoduo.com/v/190624/2f080bc5a284f70f38b92664a9e3444f.mp4
+鍒樿壋涓芥紨鍞辨洸鍓с??婅??侀紶瀚佸コ銆嬪ソ鐜??!,http://gcw.bdcdn.shoujiduoduo.com/v/200914/865e9898babe5bee65b4e7a834390aae.mp4
+鏇插墽澶у叏1,http://gcw.bdcdn.shoujiduoduo.com/v/191009/7d5524c35adc0763d87868a140b051be.mp4
+骞磋??佷汉鎬庣杩欓闆棆!,http://gcw.bdcdn.shoujiduoduo.com/v/190605/6b44b90dfad0379f6cc6ae14354af580.mp4
+绉﹁厰銆婂埆绐戙??嬪叏鎶??,http://gcw.bdcdn.shoujiduoduo.com/v/191208/f2edc3e9c5200b7a3361550d4be037b5.mp4
+绉﹁厰銆婅刀鍧°??嬬墖娈??,http://gcw.bdcdn.shoujiduoduo.com/v/201029/eb7fbb8b56dade1730ec3a521a276b3c.mp4
+107-绉﹁厰鍟嗚姵浼氳緯闂ㄦ柀瀛??,http://gcw.bdcdn.shoujiduoduo.com/v/190127/9d0b617538e671622e3db152c892e838.mp4
+绾康榻愭檽鏄ュ厛鐢??,http://gcw.bdcdn.shoujiduoduo.com/v/210120/f4fb625fecd6e39818b90086e616ab19.mp4
+鍚嶅鑱旇婕斿嚭,http://gcw.bdcdn.shoujiduoduo.com/v/210207/8d8d31cca2b5441954d9e52568d09a7b.mp4
+瑗垮畨浜斾竴鍓у洟,http://gcw.bdcdn.shoujiduoduo.com/v/201014/d06fec900e95d24c9ff73f3bb51625c0.mp4
+瑗垮畨鏄撲織绀??2018鏄ヨ妭绉﹀畨娓呭敱鏅氫細,http://gcw.bdcdn.shoujiduoduo.com/v/190122/af3ec3b3a6cd383400360f8ee93b1e94.mp4
+鏉ㄧ孩姊呭棑闊冲お妫掍簡,http://gcw.bdcdn.shoujiduoduo.com/v/200320/4f229afb544e1b90383d1ee58069a816.mp4
+搴蜂簹铦??,http://gcw.bdcdn.shoujiduoduo.com/v/210211/005278db46b6f82dadd3fe7428220210.mp4
+闄曡タ绉﹁厰鈥斺??斾笐瑙掓垙锛堢儤绐戯級,http://gcw.bdcdn.shoujiduoduo.com/v/200722/c8d90e93efef0566c219d9fc1ef7b06c.mp4
+寮犲畞,http://gcw.bdcdn.shoujiduoduo.com/v/190514/10003147.mp4
+鍞愭ⅷ鍥Е鑵斿墽闄??,http://gcw.bdcdn.shoujiduoduo.com/v/190507/bc0fcf2785f707597273caf592c9a78f.mp4
+浼嶆晱涓璤鍏ㄥ阀姘慱瑗垮畨鏄撲織绀??,http://gcw.bdcdn.shoujiduoduo.com/v/200310/80ae6bdea59162136af8fb3eba350725.mp4
+寮犳瀹??,http://gcw.bdcdn.shoujiduoduo.com/201805/1181-385.mp4
+鎬??鏃х數褰便??婁笁婊磋銆??,http://gcw.bdcdn.shoujiduoduo.com/201805/1772-690.mp4
+闄堢櫨鐢澘鑳??,http://gcw.bdcdn.shoujiduoduo.com/v/200205/969e241fff8b79bd1386f6f2a417a698.mp4
+绉﹁厰鎶樺瓙鎴忋??婁簩杩涘銆??,http://gcw.bdcdn.shoujiduoduo.com/v/190816/bc42f41cb749a3341bf1e7260a2413de.mp4
+鏉庝笢宄??,http://gcw.bdcdn.shoujiduoduo.com/v/200914/d2231ef87c6bd335ecf2e5172724e746.mp4
+闄曡タ鐪佹垙鏇茬爺绌堕櫌婕斿嚭,http://gcw.bdcdn.shoujiduoduo.com/v/201030/536f534a25ebab5eb8d10ff75e31dc9c.mp4
+寮犳瀹??(瑗垮寳鍚嶄笐),http://gcw.bdcdn.shoujiduoduo.com/v/190818/9f90b4718102660ee28c3a1801cdec65.mp4
+绉﹁厰鍏ㄦ湰銆婂洓杩涘＋銆嬫腑鍗楀競绉﹁厰鍥??,http://gcw.bdcdn.shoujiduoduo.com/v/190508/05ec40797c1591479c0cfe04e1eafa66.mp4
+绉﹁厰鍏ㄦ湰銆婂崠濡欓儙銆嬮摱宸濆競绉﹁厰鍓у洟婕斿嚭,http://gcw.bdcdn.shoujiduoduo.com/v/190518/10003127.mp4
+鍏ㄦ湰锛堝畞澶忕Е鑵斿墽闄級,http://gcw.bdcdn.shoujiduoduo.com/v/190218/1f61dbee5ec4931e277ebd8fde51435b.mp4
+瑗垮畨绉﹁厰涓??鍥??,http://gcw.bdcdn.shoujiduoduo.com/v/191208/d513328096fbe5995a2be8e17241f9cc.mp4
+瀹夊窘鐪佸畨搴嗗競榛勬鎴忎笁鍥??,http://gcw.bdcdn.shoujiduoduo.com/v/191211/9ed54cfd1c55624e227f28ca40c6a4ab.mp4
+榛勬鎴??,http://gcw.bdcdn.shoujiduoduo.com/v/210120/965f4cee36d51eb13fe6121cd3aee2fb.mp4
+榛勬鎴??,http://gcw.bdcdn.shoujiduoduo.com/v/190221/6a38928efbe1f76f04f14a94197cc6d6.mp4
+涓ュ嚖鑻遍煩鍐嶈姮鍛ㄦ簮婧??,http://gcw.bdcdn.shoujiduoduo.com/v/190702/ed2662b8d3d3a875e01a53c669f4af50.mp4
+榛勬鎴忋??愭槬棣欓椆瀛︺????,http://gcw.bdcdn.shoujiduoduo.com/v/201027/552dcdf37bdf2b4ff56d9e79bb58f527.mp4
+绮惧僵濂界湅锛??,http://gcw.bdcdn.shoujiduoduo.com/v/200227/9d52e829ee706c3d5170d13bfac85b70.mp4
+浜屼汉鍙扮孩绾㈢伀鐏簩浜哄彴,http://gcw.bdcdn.shoujiduoduo.com/v/190706/e9cfd643c90fea9081e6ae5d18b654f0.mp4
+瀹朵埂浜屼汉鍙般??婅蛋瑗垮彛銆嬪垇鏁忎簹鑻??,http://gcw.bdcdn.shoujiduoduo.com/v/200326/07539dd2fe81ac79a5e42a333a2993cd.mp4
+浜屼汉鍙颁紶缁熷墽鐩??婄娲嬬儫銆??,http://gcw.bdcdn.shoujiduoduo.com/v/200224/4b9ccc2437f42dcfe3614bb6ba90ecc7.mp4
+濂界湅鐨勪簩浜哄彴杩炵画鐪??,http://gcw.bdcdn.shoujiduoduo.com/v/191009/f8f14e1a3d2122b322acef4d40b963d4.mp4
+浜屼汉鍙般??婂崠娌广??嬫鍒╁钩,http://gcw.bdcdn.shoujiduoduo.com/v/191020/f30535c29135b2d97066f459aaf44ef2.mp4
+鐜嬭寕鏋??,http://gcw.bdcdn.shoujiduoduo.com/v/190925/29d1d265eb98e2ceb273c8090f19c71e.mp4
+鐜嬭寕鏋??,http://gcw.bdcdn.shoujiduoduo.com/v/191109/4ddcbf706025b04b2a1c97e501777bb6.mp4
+浜屼汉鍙??-鍊熺瑠绡??,http://gcw.bdcdn.shoujiduoduo.com/v/200302/954ba57467c5a9e254a9fb248fb8fba8.mp4
+娌虫洸浜屼汉鍙扮墝瀛愭洸銆婅タ姹熸湀銆??,http://gcw.bdcdn.shoujiduoduo.com/v/200201/c386dae48f7df5949df61261b070fdd0.mp4
+鑾烘瓕鐕曡垶姘戦棿浜屼汉鍙??,http://gcw.bdcdn.shoujiduoduo.com/v/190809/7ef0d301b8ba625ed23c6b11db351b52.mp4
+浜屼汉鍙般??婂皬鍙斿瓙鎸庡珎瀚傘????,http://gcw.bdcdn.shoujiduoduo.com/v/190917/b887dfe149fd8b1cc5fbe3eac546b49a.mp4
+鐢板▉铏??,http://gcw.bdcdn.shoujiduoduo.com/v/191227/bf06f5573bbab198867401145d650d5c.mp4
+閿ｉ紦浼楀敱浜屼汉鍙般??婄孩绾㈢伀鐏??嬩竴绉嶅ソ鍚張濂界湅鐨勬紨鍞卞舰寮??,http://gcw.bdcdn.shoujiduoduo.com/v/191227/6f833e835ada606ecdd30334168ce6a4.mp4
+濂界湅鐨勪簩浜哄彴,http://gcw.bdcdn.shoujiduoduo.com/v/190620/a29c33a840fc002a2c024a2b8b41cc5d.mp4
+濂界湅鐨勪簩浜哄彴,http://gcw.bdcdn.shoujiduoduo.com/v/190826/8b998a18db42b0f852e6f4b045bff7c0.mp4
+濂界湅鐨勪簩浜哄彴,http://gcw.bdcdn.shoujiduoduo.com/v/190624/af0375b07c4a9337d8aa387ba0d3ae0a.mp4
+濂界湅鐨勪簩浜哄彴,http://gcw.bdcdn.shoujiduoduo.com/v/190802/0fa24b311630c9199c05493e4217f5b5.mp4
+瀹朵埂浜屼汉鍙颁箤鍏扮墽楠戝悗鍙扮殑瀛╁瓙浠??,http://gcw.bdcdn.shoujiduoduo.com/v/191017/84e49ef1fa9e8de8ced51fde056223e1.mp4
+鍥㈤暱锛氫警濂囧嘲,http://gcw.bdcdn.shoujiduoduo.com/v/210303/9f9275b65ebccf90a2af213afd14ad3e.mp4
+闃抽珮浜屼汉鍙板啘姘戣壓鏈洟鎺掔偧鑺傜洰,http://gcw.bdcdn.shoujiduoduo.com/v/191108/8532cf712888e79cf19401ce0a8d7f21.mp4
+瀹朵埂浜屼汉鍙板紶椋炵墽鐗??,http://gcw.bdcdn.shoujiduoduo.com/v/200118/99156c2e46f88ed1ce3d2d915aa1ecd8.mp4
+浜屼汉鍙板皬鏀剧墰,http://gcw.bdcdn.shoujiduoduo.com/v/191212/c1ce88590d948dde187d414b0ed326ed.mp4
+鍥涚渷鍖轰簩浜哄彴澶ц禌閫夋嫈璧??,http://gcw.bdcdn.shoujiduoduo.com/v/201115/ce56c6788d775f623679ea5ada68a9a8.mp4
+瀹朵埂浜屼汉鍙板悜娌欏崈閲屼竴澹堕厭,http://gcw.bdcdn.shoujiduoduo.com/v/200210/34cf1867a38b339d9e9e47ae274f89eb.mp4
+浜屼汉鍙拌烦绮夊,http://gcw.bdcdn.shoujiduoduo.com/v/191230/4f213a68f7844ffc506e69bd3309dd3f.mp4
+鍒樼埍鐖??,http://gcw.bdcdn.shoujiduoduo.com/v/190604/10003232.mp4
+瀹朵埂浜屼汉鍙扮墝瀛愭洸鏋氶煹璧靛畼鍐??,http://gcw.bdcdn.shoujiduoduo.com/v/191018/46fd3b500cf959d3d0f7dbdc13a3eb32.mp4
+浜戦鐜板満涓??棣栥??婁翰浜茬殑浜屼汉鍙般??嬪竻鍒板叏鍦哄皷鍙??!,http://gcw.bdcdn.shoujiduoduo.com/v/200122/2956c3d631e201b6427a847dc05c492f.mp4
+蹇诲窞渚宄版紨鑹轰紶濯掍簩浜哄彴銆婅蛋瑗垮彛銆嬫潹缇庤悕~鍒樻枃杩??,http://gcw.bdcdn.shoujiduoduo.com/v/191211/01b716a5bf14e2f8e7b7ba9048098d8d.mp4
+鍐呰挋鍙や簩浜哄彴灞辨洸/闈炵墿璐ㄦ枃鍖栭仐浜ц阿璋㈡璧??,http://gcw.bdcdn.shoujiduoduo.com/v/190626/cca8025a39b8f70e3c8e8295648290eb.mp4
+鏅嬪墽澶у叏,http://gcw.bdcdn.shoujiduoduo.com/v/190716/9f9632997c1ec3491b5b83b803256242.mp4
+鍟嗘案鍚??,http://gcw.bdcdn.shoujiduoduo.com/v/190311/7273ee44ef1416783240bbb95b6e5f7b.mp4
+鐧惧惉涓嶅帉锛??,http://gcw.bdcdn.shoujiduoduo.com/v/190905/0ffb3123a3fe425d67064fab29954718.mp4
+鍐??钀??,http://gcw.bdcdn.shoujiduoduo.com/v/190904/84a445bcf317af09f66bf582065f2708.mp4
+鏈卞缓鍐??,http://gcw.bdcdn.shoujiduoduo.com/v/190919/da08a93b8ec15e3054aab32464f849ee.mp4
+鍚嶅鐜嬬埍鐖??,http://gcw.bdcdn.shoujiduoduo.com/v/191225/8254f30470e315c1fee78fb1493424ec.mp4
+灞辫タ鐪佹檵鍓ч櫌涓??鍥??,http://gcw.bdcdn.shoujiduoduo.com/v/190531/3e0024131e184b61868238415002898d.mp4
+灞辫タ鐪佹檵鍓ч櫌闈掑勾鍥??婂ぇ娓呭敱銆嬩腑闆??,http://gcw.bdcdn.shoujiduoduo.com/v/190522/10003160.mp4
+灞辫タ鏅嬪墽鍏ㄦ湰鎴忓ぇ鍏??,http://gcw.bdcdn.shoujiduoduo.com/v/190617/d81b7b3adaf01691f82d395275e2ae69.mp4
+闄堜簯榫??.flv,http://gcw.bdcdn.shoujiduoduo.com/v/190817/5c39eb0931ccee10c5f031c4a6395263.mp4
+鍒樻眽閾躲??婃潹鍏娓告槬銆??,http://gcw.bdcdn.shoujiduoduo.com/v/190613/72d9f736805ff9ac6877786855acbe3d.mp4
+灞辫タ鐪佸皬绋嬬帀鑻卞墽鍥??,http://gcw.bdcdn.shoujiduoduo.com/v/201104/7f6a182e42bd064ee4427623e68fb02e.mp4
+璇勫墽銆婅姳涓哄獟銆??,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
+瓒婂墽銆婃灞变集涓庣鑻卞彴銆??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
+浜墽銆婇噹鐚灄銆??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8
+浜墽銆婃潨楣冨北銆??02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5f76957927c5421e8bd75d0f53c95e4a/850.m3u8
+浜墽銆婃矙瀹舵禍銆??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/6241c3f25a9a4dda9b05b9ba185500e0/850.m3u8
+浜墽銆婄﹩妗傝嫳澶ф垬娲窞銆??,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/aaa5a373d97a47d1bc95b1418b672b33/2000.m3u8
+榛勬鎴忋??婄帇鑰佽檸鎶翰銆??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/3b6ae81ae49f4c72b0c977023565c762/850.m3u8
+鍚曞墽銆婃潕浜屽珎鏀瑰珌銆??01,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/90846f6758524d78997aad89df8c37e0/850.m3u8
+鍚曞墽銆婃潕浜屽珎鏀瑰珌銆??02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/47a9c8216d344c2dd45f11949dbbecb5/850.m3u8
+浜墽銆婇搧寮撶紭銆??,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/e19f3238b0ba4849aa50d6b7f1118ab9/2000.m3u8
+瓒婂墽銆婄ⅶ鐜夌蔼銆??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8
+浜墽銆婃潨楣冨北銆??01,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f468a89e0e394a718474523afe37c702/850.m3u8
+瓒婂墽銆婄孩妤兼ⅵ銆??01,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f66e935661b44ff6b80a290537d5d204/2000.m3u8
+瓒婂墽銆婄孩妤兼ⅵ銆??02,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/10470613ead24f5cb435137b5f39ab98/2000.m3u8
+瓒婂墽銆婅拷楸笺????,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/3515e586d18743be99eb6cc2004cb995/2000.m3u8
+浜墽銆婄Е棣欒幉銆??,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f8daefadadef41989225543875268a70/2000.m3u8
+榛勬鎴忋??婂ぉ浠欓厤銆??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8
+
+缁忓吀鑰佸墽[V4],#genre#
+鍦伴亾鎴??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
+璺熻釜杩藉嚮,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8
+鍦伴浄鎴??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
+浜旀湹閲戣姳,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ae639196cf3949368c1b05776bb1d4fa/850.m3u8
+渚﹀療鍏??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3e4727a0fca34aa8b9774472a4908eaf/850.m3u8
+绾㈣壊濞樺瓙鍐??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2ea3b03b3a414303b830f92579243001/850.m3u8
+娲箹璧ゅ崼闃??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2a58afdece3342eaac927648a2cccabd/850.m3u8
+鐙肩墮灞变簲澹＋,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/71c649af833c43a9b61e4f5c913bbd6b/850.m3u8
+涓夋瘺浠庡啗璁??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/919a08437d44499b87b7b4903f2b2ae6/850.m3u8
+绁栧浗鐨勮姳鏈??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef10a9a9b1534fe38fd4fdfdac1ed493/850.m3u8
+闂棯鐨勭孩鏄??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b90fcf1a5425479baf3a045282a1f263/850.m3u8
+鑺卞効鏈垫湹,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/53a44d8649024b58b69f4468b922b8f0/850.m3u8
+绁炵鐨勬梾浼??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef95b9f13e2c47b882b67ef52139786a/850.m3u8
+璧涜檸,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/34505162ca0848af9e23d33ed4018088/850.m3u8
+楦℃瘺淇??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/41fcf9fefcf247c78e2d64c7af5d6edd/850.m3u8
+鐗瑰埆鏀诲嚮闃??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c69eed95a2cd4752850bcac109151e37/850.m3u8
+鍗楀緛鍖楁垬,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9557e1bfd91b4319975dfeffcc44d6b7/850.m3u8
+缇婂煄鏆楀摠,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/215e7a6713884bcab8cc461e245531af/850.m3u8
+51鍙峰叺绔??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa6557276d644b5ea399956a6bf94e59/850.m3u8
+绐佺牬涔屾睙,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8
+鑻遍泟鍎垮コ,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
+鏌冲牎鐨勬晠浜??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8
+鏉庡弻鍙??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bac928d747984ed3bd17550879522f89/850.m3u8
+澶ч椆澶╁,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8
+閾″垁涓嬬殑绾㈡,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f0817bfbedd42c682d9152abd5402a3/850.m3u8
+鐗涢儙缁囧コ,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
+缃楀瘑娆т笌鏈变附鍙??,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95193e30bd454e77bc59a140f4e32ad2/850.m3u8
+绾㈢墶涓??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8
+涓夋瘺娴佹氮璁??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b9ce94c233b043bebe30340f09868ed1/850.m3u8
+鎴樹笂娴??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
+閾侀亾娓稿嚮闃??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/46d8664dacad4dbb9c790256688048dc/850.m3u8
+绾㈠瀛??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/bf55b84744d64eeaaedc5ea603855597/850.m3u8
+钁ｅ瓨鐟??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b657281ba44a4b279f55ec860c12543b/850.m3u8
+瀹濊懌鑺︾殑绉樺瘑,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/866474add7224067877bed430d9380ab/850.m3u8
+鍦颁笅灏栧叺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/188d5706e5774f06850e06e4f181c4bd/850.m3u8
+灏忓叺寮犲槑,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
+涓婄敇宀??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
+骞冲師娓稿嚮闃??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8
+鍓嶅摠,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e9c4ffe4002492484c0f50235299759/850.m3u8
+鍒樹笁濮??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/680e102dc8614632862cf49a236def6e/850.m3u8
+鐘帇,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/08d97be6d296434098297a505e2f05b5/850.m3u8
+涓捐捣鎵嬫潵-杩藉嚮闃垮涓??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/a1093561ad0a4071b68eeae884de01e7/850.m3u8
+椹叞鑺??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c89d105b9661464bb8c5c5f46977f6c4/850.m3u8
+鍐板北涓婄殑鏉ュ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c86d45b176d642738dabf9da7361653b/850.m3u8
+绾㈡棩,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f2ee6e22cd894be1bc8c90b19f47ae2e/850.m3u8
+鎴樼伀涓殑闈掓槬,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/be0d797e3b494f5fa1cb6d48d29643f3/850.m3u8
+鑻遍泟铏庤儐,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
+涓夎繘灞卞煄,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ee157540ff2540ada0250edf3f6a3e0a/850.m3u8
+鑻﹁彍鑺??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8
+娓℃睙渚﹀療璁??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
+濂囪,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
+灏忚姳,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
+鏅哄彇鍗庡北,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
+灏戞灄瀵??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
+澶ф皵灞傛秷澶??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
+闇归洺璐濊礉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
+娉夋按鍙挌,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
+鏌虫瘏浼犱功,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/2ee71b96a3574889829e17d70b3f3c02/2000.m3u8
+鍗峰腑绛??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8bebd13583e341e1b9d9e1180d36aaaa/850.m3u8
+澧欏ご椹笂,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c45285c6b2ac46a58d49c9351b18e369/850.m3u8
+浜斿コ鎷滃,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c38771a355214e97a855c213693a1153/850.m3u8
+濂抽└椹??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
+鏋楁捣闆師,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
+瀛欐偀绌轰笁鎵撶櫧楠ㄧ簿,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e34b7a2f93d4efeaf7a583409b270cc/850.m3u8
+宸撮粠鍦ｆ瘝闄??,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/dd86918aafb042c5b51584ffcf5b0e00/850.m3u8
+榄傛柇钃濇ˉ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7fc704c5b2e04e65bab92b3986883ab3/850.m3u8
+鑼滆寽鍏富,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
+妗傛渤澶фˉ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
+
+灏忓搧棰戦亾[V4],#genre#
+鍚冮潰,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
+闈炶瘹鏉ユ壈,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
+骞哥瀵嗙爜,https://vd3.bdstatic.com/mda-kj9ispnax8gpirkf/hd/mda-kj9ispnax8gpirkf.mp4
+鐙矾鐩搁????,https://vd3.bdstatic.com/mda-kanfj7h320ueqgkg/v1-cae/hd/mda-kanfj7h320ueqgkg.mp4
+鏈??浣抽厭鍙??,https://vd3.bdstatic.com/mda-jheqyidz841gwxpy/hd/mda-jheqyidz841gwxpy.mp4
+鏁村褰掓潵,https://vd3.bdstatic.com/mda-ji1xe9cmasuh0722/hd/mda-ji1xe9cmasuh0722.mp4
+鑰佺帇鍗栫摐,https://vd3.bdstatic.com/mda-jkrk9bk95f9utr9r/hd/mda-jkrk9bk95f9utr9r.mp4
+绛栧垝,https://vd3.bdstatic.com/mda-ki60ag5ub193axs9/hd/mda-ki60ag5ub193axs9.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
+涓嶅樊閽??,https://vdse.bdstatic.com//769f31778a85f33825c44a9b0c70ac37.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T10%3A24%3A57Z%2F-1%2Fhost%2F9d4a74ab09dc18c2f4d9b0b8f77c621471a15359ec3b77c186f51611f4712005
+灏卞樊閽??,https://vdse.bdstatic.com//812d49e751aa31530ec39debfe54a359.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T08%3A49%3A09Z%2F-1%2Fhost%2Fa58bdb86d23b53b6909e8e19d85dad9fed3adeba4a664a22eef9a7d32ac2486a
+鏄ㄥぉ浠婂ぉ鏄庡ぉ,https://vd3.bdstatic.com/mda-ia4xz7n2s4hxbhby/logo/hd/mda-ia4xz7n2s4hxbhby.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+鎹愬姪,https://vd3.bdstatic.com/mda-jaqz8g17b9cvryks/hd/mda-jaqz8g17b9cvryks.mp4?pd=19&vt=1
+鎹愬姪鍚庝紶,https://vd3.bdstatic.com/mda-kbsrpz9zmbbvznjw/hd/mda-kbsrpz9zmbbvznjw.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+灏忓磾璇翠簨,https://vdse.bdstatic.com//2f54cd59170279f94c5b354179bda8c0.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-12T04%3A47%3A48Z%2F-1%2Fhost%2Fc0d35c8c0a00af3226ac1bc3a1510c1474d8054a30290740da4a2d567924f779
+灏忓磾璇翠簨鍎??,https://vdse.bdstatic.com//0881642336164cb448c0d8addd2d22a6.mp4?authorization=bce-auth-v1/40f207e648424f47b2e3dfbb1014b1a5/2022-05-28T07:29:10Z/-1/host/4c290e67925bf7954af616c290b337b52a840355f1184f78619d696a5da5c0bb
+涓浜??,https://vd3.bdstatic.com/mda-kmkh9zy2b3gnx4bq/mda-kmkh9zy2b3gnx4bq.mp4?pd=19&vt=1
+鍔熷か,https://vd3.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4?pd=19&vt=1
+鐩镐翰1,https://vd3.bdstatic.com/mda-ki5quadqsdi1tk9e/mda-ki5quadqsdi1tk9e.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=3024484252&vid=10808391094376007907&auth_key=1655295624-0-0-6fb10727b6c3c195f08ff9bebe036cd0&bcevod_channel=searchbox_feed
+鐩镐翰2,https://vd3.bdstatic.com/mda-kipkytij74rnn9k3/hd/mda-kipkytij74rnn9k3.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
+閽熺偣宸??,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c8e2e53c77ua6v88gk9g&ratio=720p&line=0
+鐏偓鎵??,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c54t79jc77u7est4rcn0&ratio=720p&line=0
+鐏偓鎵??,https://vd3.bdstatic.com/mda-jar0302925j1nwep/hd/mda-jar0302925j1nwep.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
+鐢熸棩蹇箰,https://vd3.bdstatic.com/mda-mkskgzkzsgvgcntm/540p/h264_cae/1638023743815756700/mda-mkskgzkzsgvgcntm.mp4?pd=19&vt=1
+鐙矾鐩搁????,https://vd3.bdstatic.com/mda-kd0mku18u3rui7gz/v1-cae/hd/mda-kd0mku18u3rui7gz.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+璧垫湰灞卞皬鍝??128鍒嗛挓,https://vd3.bdstatic.com/mda-mkskgzkzsgvgcntm/540p/h264_cae/1638023743815756700/mda-mkskgzkzsgvgcntm.mp4?pd=19&vt=1
+闃充粩婕旂瑧浼??,https://vdse.bdstatic.com//cf06ee490cf69657ab9f333e067b348e.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T10%3A30%3A16Z%2F-1%2Fhost%2Fe3b07458bdfa3f2b9dd841f97ab3b32a73e1f5c3c55fec0e851f21054900b4a3
+闃充粩婕旂瑧浼??2,https://vdse.bdstatic.com//b837548733e6bd32629f9134457ad811.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T12%3A24%3A48Z%2F-1%2Fhost%2F21b407cd58e7d2f39864128a9160659f1f4845e2cf4c01c6e2a3f30be1dbc557
+鍚屾鐨勪綘,https://vd3.bdstatic.com/mda-kkfwqyn6sc4r5579/mda-kkfwqyn6sc4r5579.mp4?pd=19&vt=1
+涓浜??,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c416nhbc77ueljqcfms0&ratio=720p&line=0
+鏈夐挶浜??,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c4mruerc77ua2hethfig&ratio=720p&line=0
+灏忎節鑰佷箰,https://vd3.bdstatic.com/mda-maqs355itqp221rx/v2-hknm/hd/mda-maqs355itqp221rx.mp4?pd=19&vt=1
+鍔炵彮,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300f830000bqvq3vcssiod1f1acv10&ratio=720p&line=0
+骞村墠骞村悗,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300f250000br00c6t03hnekstiv2rg&ratio=720p&line=0
+鍗栨ⅷ,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f850000bqvq43ueankk4sopbea0&ratio=720p&line=0
+鍩庡競鎵撳伐濡??,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fb00000br0007k2v0nbugkvpqc0&ratio=720p&line=0
+濡傛绔炰簤,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fe60000br000frls1kbc9rjapeg&ratio=720p&line=0
+鍎垮瓙澶т簡,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f020000bqvq3u89lgt8of4fk0tg&ratio=720p&line=0
+鍚屽浼??,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f9c0000brabn8v70gfhplsfi78g&ratio=720p&line=0
+鎷滃勾,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0d00fg10000c83hhi3c77u01a8d7hp0&ratio=720p&line=0
+鏂拌檸鍙ｉ亹鎯??,https://vd4.bdstatic.com/mda-jarfmdf8su7sckk3/hd/mda-jarfmdf8su7sckk3.mp4?auth_key=1655295819-0-0-df94f7531d93ff90ad12888c89a672ca&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3219421685&vid=8705230262897615568&abtest=all
+鍐珐閮啲涓寸嫍涓嶇悊鍖呭瓙,https://vd2.bdstatic.com/mda-jdqwqnk1xxszhw8c/mda-jdqwqnk1xxszhw8c.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=2275698282&vid=17330773072848394300&auth_key=1655291275-0-0-73fe6c276ababcdb43b87a4fda6002df&bcevod_channel=searchbox_feed
+鐗涚兢鍐珐棰嗗鍐掑彿,https://vdse.bdstatic.com//123b1e01f5128d0e71b4f392ec1a971c.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-12T06%3A54%3A23Z%2F-1%2Fhost%2F6274ff464fd635b6108aacc556df42224f265e9b3f4bd3a37a74cbdbf985d0b8
+鍐珐鐩稿０,https://vdse.bdstatic.com//65873c285f222c4cfeecf527f3e84259.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T09%3A55%3A46Z%2F-1%2Fhost%2F9119b3500a8e21fb21665d9576bbf410e5a0fa8904ccc1ce0d3aabde21c99c8a
+鐗涚兢鍐珐鎴戠殑鍎垮瓙,https://vdse.bdstatic.com//f27179e048a85dd2f00d16f6a13ac370.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T08%3A43%3A23Z%2F-1%2Fhost%2F026eb7ddc17de37a053903ceb90523b0265d8e5c7ed8eb5b20f5cc0de186f27c
+鐗涚兢鍐珐涓や釜寮勬疆鍎??,https://vd3.bdstatic.com/mda-mkqdhm17rs7198m6/hd/cae_h264/1637859905115117938/mda-mkqdhm17rs7198m6.mp4?pd=19&vt=1
+瑕佹潯浠??,https://vd2.bdstatic.com/mda-kgah4byryi8gsqk8/v1-cae/mda-kgah4byryi8gsqk8.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=1347013120&vid=11361264719745011699&auth_key=1655290347-0-0-5dfca4bc79fbe4b6685de35fd1e0a622&bcevod_channel=searchbox_feed
+瀛斾簯榫欐墥椹,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c7la4l3c77u5vs0abgs0&ratio=720p&line=0
+绛栧垝,https://vd3.bdstatic.com/mda-ki60ag5ub193axs9/hd/mda-ki60ag5ub193axs9.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
+涓嶅樊閽??,https://vdse.bdstatic.com//769f31778a85f33825c44a9b0c70ac37.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T10%3A24%3A57Z%2F-1%2Fhost%2F9d4a74ab09dc18c2f4d9b0b8f77c621471a15359ec3b77c186f51611f4712005
+灏卞樊閽??,https://vdse.bdstatic.com//812d49e751aa31530ec39debfe54a359.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T08%3A49%3A09Z%2F-1%2Fhost%2Fa58bdb86d23b53b6909e8e19d85dad9fed3adeba4a664a22eef9a7d32ac2486a
+鏄ㄥぉ浠婂ぉ鏄庡ぉ,https://vd3.bdstatic.com/mda-ia4xz7n2s4hxbhby/logo/hd/mda-ia4xz7n2s4hxbhby.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+鎹愬姪,https://vd3.bdstatic.com/mda-jaqz8g17b9cvryks/hd/mda-jaqz8g17b9cvryks.mp4?pd=19&vt=1
+鎹愬姪鍚庝紶,https://vd3.bdstatic.com/mda-kbsrpz9zmbbvznjw/hd/mda-kbsrpz9zmbbvznjw.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+灏忓磾璇翠簨,https://vdse.bdstatic.com//2f54cd59170279f94c5b354179bda8c0.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-12T04%3A47%3A48Z%2F-1%2Fhost%2Fc0d35c8c0a00af3226ac1bc3a1510c1474d8054a30290740da4a2d567924f779
+灏忓磾璇翠簨鍎??,https://vdse.bdstatic.com//0881642336164cb448c0d8addd2d22a6.mp4?authorization=bce-auth-v1/40f207e648424f47b2e3dfbb1014b1a5/2022-05-28T07:29:10Z/-1/host/4c290e67925bf7954af616c290b337b52a840355f1184f78619d696a5da5c0bb
+涓浜??,https://vd3.bdstatic.com/mda-kmkh9zy2b3gnx4bq/mda-kmkh9zy2b3gnx4bq.mp4?pd=19&vt=1
+鍔熷か,https://vd3.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4?pd=19&vt=1
+鐩镐翰1,https://vd3.bdstatic.com/mda-ki5quadqsdi1tk9e/mda-ki5quadqsdi1tk9e.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=3024484252&vid=10808391094376007907&auth_key=1655295624-0-0-6fb10727b6c3c195f08ff9bebe036cd0&bcevod_channel=searchbox_feed
+鐩镐翰2,https://vd3.bdstatic.com/mda-kipkytij74rnn9k3/hd/mda-kipkytij74rnn9k3.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
+鐏偓鎵??,https://vd3.bdstatic.com/mda-jar0302925j1nwep/hd/mda-jar0302925j1nwep.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
+鎴戞兂鏈変釜瀹??,https://vd3.bdstatic.com/mda-mkskgzkzsgvgcntm/540p/h264_cae/1638023743815756700/mda-mkskgzkzsgvgcntm.mp4?pd=19&vt=1
+鐙矾鐩搁????,https://vd3.bdstatic.com/mda-kd0mku18u3rui7gz/v1-cae/hd/mda-kd0mku18u3rui7gz.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+闃充粩婕旂瑧浼??2,https://vdse.bdstatic.com//b837548733e6bd32629f9134457ad811.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T12%3A24%3A48Z%2F-1%2Fhost%2F21b407cd58e7d2f39864128a9160659f1f4845e2cf4c01c6e2a3f30be1dbc557
+鍚屾鐨勪綘,https://vd3.bdstatic.com/mda-kkfwqyn6sc4r5579/mda-kkfwqyn6sc4r5579.mp4?pd=19&vt=1
+寮??蹇冨皬鍝??,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+
+缁忓吀鐢靛奖[V4],#genre#
+97瀹舵湁鍠滀簨,https://vip.ffzy-play6.com/20221129/9285_97e3dfc9/index.m3u8
+A璁″垝,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
+A璁″垝,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/index.m3u8
+A璁″垝缁泦,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
+闃块姝ｄ紶,https://vip.ffzy-play7.com/20221112/3705_a3bb4cae/index.m3u8
+闃胯檸,https://vip.ffzy-play2.com/20221019/3_0fc63857/index.m3u8
+闃块儙鐨勬晠浜??,https://vip.ffzy-play6.com/20221116/7213_5f9198b2/index.m3u8
+鐖辨儏鍛煎彨杞Щ,https://vip.ffzy-play2.com/20221021/64_ed0aeec3/index.m3u8
+鐖辨儏鍛煎彨杞Щ鈪★細鐖辨儏宸﹀彸,https://vip.ffzy-play2.com/20221021/65_57ffccd0/index.m3u8
+鐖辨儏绁炶瘽,https://vip.ffzy-online.com/20221015/575_a2c32b8f/index.m3u8
+鏆楁垬,https://vip.ffzy-online.com/20221015/583_fb343007/index.m3u8
+婢抽棬椋庝簯1,https://vip.ffzy-online.com/20221015/587_536debfc/index.m3u8
+婢抽棬椋庝簯2,https://vip.lz-cdn8.com/20220903/25590_a12ec6f7/index.m3u8
+婢抽棬椋庝簯3,https://vip.lz-cdn8.com/20220903/25592_5fdbb860/index.m3u8
+鍏槦鎶ュ枩,https://vip.ffzy-play6.com/20221116/7216_cb25f71a/index.m3u8
+闇哥帇鍒К,https://vip.ffzy-play7.com/20221112/3726_f8288d50/index.m3u8
+鐧借泧浼犺,https://vip.ffzy-play7.com/20221224/9605_263ee1e0/index.m3u8
+鍗婄敓缂??,https://vip.ffzy-play7.com/20221112/3733_3f971a67/index.m3u8
+瀹濊礉璁″垝,https://vip.ffzy-play2.com/20221021/73_d5c05ae2/index.m3u8
+鐜荤拑妯??,https://vip.ffzy-play7.com/20221112/3750_97a1bebc/index.m3u8
+涓嶄簩绁炴帰,https://cdn2.yzzy-tv-cdn.com/20220330/4069_8714f6bb/index.m3u8
+涓嶈涓嶆暎,https://vip.ffzy-play7.com/20221112/3752_596da0f3/index.m3u8
+鎷嗗脊涓撳,https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+鎷嗗脊涓撳2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+瓒呯骇璁″垝,https://vip.ffzy-play7.com/20221112/3764_fd2b007a/index.m3u8
+瓒呮椂绌哄悓灞??,https://vip.ffzy-online.com/20221015/745_b4a413ef/index.m3u8
+鍩庡競鐚庝汉,https://vip.ffzy-play7.com/20230112/11075_f5a96711/index.m3u8
+鏄ュ▏涓庡織鏄??,https://vip.ffzy-play6.com/20221021/451_53670596/index.m3u8
+鍌湢澶у笀,https://vip.ffzy-play7.com/20221028/433_adf31dfd/index.m3u8
+澶у叺灏忓皢,https://vip.ffzy-play7.com/20230101/10714_0de1384d/index.m3u8
+澶т笂娴??,https://vip.ffzy-play6.com/20221126/8327_89044d87/index.m3u8
+澶у攼鐜勫,https://vip.ffzy-play7.com/20230306/17314_0230edb6/index.m3u8
+澶ц厱,https://vip.ffzy-play6.com/20221019/66_5c1f5d09/index.m3u8
+鍒??鍓戠瑧,http://jsmov2.a.yximgs.com/bs3/video-hls/5215168447635500734_hlsb.m3u8
+鍒??鍓戠瑧,https://vip.ffzy-play7.com/20221112/3808_6690be34/index.m3u8
+鐙勪粊鏉颁箣閫氬ぉ甯濆浗,https://vip.ffzy-play2.com/20221021/129_ed646884/index.m3u8
+绗笁涓汉,https://vip.ffzy-play7.com/20230407/21350_043ad4f7/index.m3u8
+鍒佹墜鎬嫑,https://cdn7.yzzy-tv-cdn.com/20220625/561_337bba55/index.m3u8
+鍠嬭鍙岄泟,https://vip.ffzy-play7.com/20221115/4440_bd914a4d/index.m3u8
+涓滄柟宸ㄩ緳,https://vip.ffzy-play6.com/20221117/7362_01e144e6/index.m3u8
+涓滄柟涓変緺,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
+涓滄柟绉冮拱,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
+涓滄柟绉冮拱,https://vip.ffzy-play7.com/20221209/9044_d3e0dbd4/index.m3u8
+璧屽煄澶т酣II涔嬭嚦灏婃棤鏁??,https://vip.ffzy-online.com/20221017/863_ed22c0c3/index.m3u8
+璧屽煄澶т酣涔嬫柊鍝ヤ紶濂??,https://vip.ffzy-online.com/20221017/864_5fbb1d87/index.m3u8
+璧岀1,https://vip.ffzy-online.com/20221017/865_74da177a/index.m3u8
+璧岀2,https://vip.lz-cdn.com/20220622/20003_820596d4/index.m3u8
+璧屼緺澶ф垬鎷夋柉缁村姞鏂??,https://vip.ffzy-online.com/20221017/873_cf765959/index.m3u8
+娉曞唴鎯??,https://vip.ffzy-play6.com/20221128/8900_ee5eabf3/index.m3u8
+鏂逛笘鐜??,https://cdn4.yzzy-tv-cdn.com/20220606/17350_39c4425b/index.m3u8
+鏂逛笘鐜夌画闆??,https://vip.ffzy-play6.com/20221129/9315_1d7ec0af/index.m3u8
+椋為緳鐚涘皢,https://vip.ffzy-play6.com/20221207/10806_a4b679fd/index.m3u8
+椋為緳鍐嶇敓,https://vip.ffzy-play6.com/20221019/72_1934eddc/index.m3u8
+椋為拱璁″垝,https://vip.ffzy-play6.com/20221112/6252_a77ddc97/index.m3u8
+闈炶瘹鍕挎壈,https://vip.ffzy-play2.com/20221021/162_cb2bb175/index.m3u8
+闈炶瘹鍕挎壈2,https://vip.ffzy-play2.com/20221021/163_a55441c0/index.m3u8
+鐤媯鐨勮禌杞??,https://vip.ffzy-play2.com/20221021/169_37d917eb/index.m3u8
+鐤媯鐨勭煶澶??,https://vip.ffzy-play2.com/20221021/170_91678c84/index.m3u8
+鐤媯鐨勫鏄熶汉,https://vip.ffzy-online2.com/20230607/38938_95adfc88/index.m3u8
+绂忔槦楂樼収,https://vip.ffzy-play6.com/20221128/8904_328483ba/index.m3u8
+瀵岃吹鍏靛洟,https://vip.ffzy-play7.com/20221209/9048_80e2a1cb/index.m3u8
+瀵岃吹鍒楄溅,https://vip.ffzy-play7.com/20221206/8232_7462fce8/index.m3u8
+鑲濊儐鐩哥収,https://vip.ffzy-play7.com/20221115/4468_44f459bb/index.m3u8
+娓洤,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+鎼炲畾宀崇埗澶т汉,https://vip.ffzy-play6.com/20221021/474_a64f2156/index.m3u8
+缁欑埜鐖哥殑淇??,https://cdn2.yzzy-tv-cdn.com/20220414/13070_86734093/index.m3u8
+鍔熷か鐟滀冀,https://vip.ffzy-play2.com/20221124/1291_468b2efb/index.m3u8
+瀛ょ敺瀵″コ,https://vip.ffzy-play6.com/20221021/643_da3f8354/index.m3u8
+鍙よ懀灞??涓眬,https://vip.ffzy-online.com/20221017/983_2bd33011/index.m3u8
+楝兼墦楝??,https://vip.ffzy-play7.com/20221115/4476_05997c13/index.m3u8
+楝兼墦楝间箣榛勯噾閬撳＋,https://vip.ffzy-play6.com/20221112/6296_32b14901/index.m3u8
+楝煎共閮??,https://vip.ffzy-play6.com/20221112/6298_1dd44909/index.m3u8
+楝煎挰楝??,https://vip.ffzy-play7.com/20221208/8822_26a70529/index.m3u8
+杩囧勾,https://vip.ffzy-play6.com/20221112/6307_79a4bfc2/index.m3u8
+瀵掓垬,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+瀵掓垬2,https://vip.lz-cdn3.com/20220907/12892_5eb849b0/index.m3u8
+琛岃繍涓??鏉￠緳,https://vip.ffzy-play6.com/20221112/6024_432f2afd/index.m3u8
+璞棬澶滃,https://vip.ffzy-play.com/20221204/29458_3909f6d0/index.m3u8
+鍜屽钩楗簵,https://vip.ffzy-play6.com/20221129/9326_fb193a3f/index.m3u8
+榛戦噾,https://vip.ffzy-play6.com/20221022/751_a7889097/index.m3u8
+榛戜緺,https://vip.ffzy-play6.com/20221112/6336_a08140a7/index.m3u8
+绾㈢暘鍖??,https://vip.ffzy-play6.com/20221112/6346_239e11e8/index.m3u8
+娲啓瀹??,https://vip.ffzy-play7.com/20221223/9381_0fb84a1d/index.m3u8
+鑺辨湪鍏??,https://cdn2.yzzy-tv-cdn.com/20220405/7667_13f7046c/index.m3u8
+鑺辨棗灏戞灄,https://vip.ffzy-play6.com/20221112/6363_411e98e2/index.m3u8
+鍝楋紒鑻遍泟,https://vip.ffzy-play6.com/20221112/6371_9b5bf930/index.m3u8
+鐢荤毊涔嬮槾闃虫硶鐜??,https://vip.ffzy-play6.com/20221112/6372_478fbcc6/index.m3u8
+榛勫ぇ浠??,https://vip.ffzy-play6.com/20221129/9334_1b618e68/index.m3u8
+榛勯楦??92涔嬮緳琛屽ぉ涓??,https://vip.ffzy-play7.com/20221129/7657_0e98ee6f/index.m3u8
+榛勯楦跨郴鍒椾箣涓??浠ｅ畻甯??,https://vip.ffzy-play6.com/20221129/9335_097bc8c1/index.m3u8
+榛勯楦夸箣浜??:鐢峰効褰撹嚜寮??,https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8
+榛勯楦夸箣鐢峰効褰撹嚜寮??,https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
+榛勯楦夸箣鐙帇浜夐湼,https://alimov2.a.kwimgs.com/upic/2020/05/15/08/BMjAyMDA1MTUwODQ5NTdfMjEyNDgzMjg2XzI4NTc1ODg4MzEyXzJfMw==_b_Bd4d927d62d45dd2f3e065114d9aebb25.mp4
+榛勯楦夸箣閾侀浮鏂楄湀铓??,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634242822045870_hlsb.m3u8
+榛勯楦夸箣閾侀浮鏂楄湀铓??,https://cdn2.yzzy-tv-cdn.com/20220415/13227_56714be0/index.m3u8
+榛勯楦夸箣涓??:澹織鍑屼簯,https://cdn4.yzzy-tv-cdn.com/20220617/21900_8ceba9f5/index.m3u8
+榛勯楦夸箣澹織鍑屼簯,http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
+榛勬渤閬??,https://vip.ffzy-play7.com/20221117/5148_d5633e82/index.m3u8
+娲荤潃,https://vip.ffzy-play.com/20221011/100_192cffb5/index.m3u8
+鐏儳宀??,https://vip.ffzy-play6.com/20221129/9336_58c74ab9/index.m3u8
+鐏槦娌′簨,https://vip.ffzy-play2.com/20221021/232_89153806/index.m3u8
+闇嶅厓鐢??,https://vip.ffzy-play2.com/20221021/234_50a8a4b6/index.m3u8
+鎬ュ厛閿??,https://vip.ffzy-play6.com/20221113/6503_476b3f6c/index.m3u8
+璁板繂鍒囧壊,https://vip.ffzy-play.com/20221017/1473_691592bd/index.m3u8
+鐢叉柟涔欐柟,https://vip.ffzy-play6.com/20221206/10068_4bfccafe/index.m3u8
+鐩戠嫳椋庝簯1,https://vip.lz-cdn3.com/20230114/17167_f0f5a918/index.m3u8
+鐩戠嫳椋庝簯2,https://vip.lz-cdn3.com/20230114/17169_e351e7c8/index.m3u8
+寤哄厷浼熶笟,https://vip.ffzy-play6.com/20221019/168_f44e1477/index.m3u8
+姹熸箹,https://vip.ffzy-play6.com/20221019/84_a64c541f/index.m3u8
+姹熸箹鍎垮コ,https://vip.ffzy-play7.com/20230205/13419_960c8951/index.m3u8
+姹熸箹榫欒檸鏂??,https://vip.ffzy-play7.com/20221115/4681_38b34b56/index.m3u8
+姹熸箹鎯??,https://vip.ffzy-play7.com/20221115/4682_5ffb4872/index.m3u8
+鍍靛案瀹舵棌,https://vip.ffzy-play7.com/20221208/8822_26a70529/index.m3u8
+鍍靛案鍏堢敓,https://vip.ffzy-play7.com/20230507/24165_799a7b4a/index.m3u8
+鍍靛案鑷冲皧,https://vip.ffzy-play6.com/20221129/9344_44b64a1a/index.m3u8
+瑙ｆ晳鍚惧厛鐢??,https://vip.ffzy-play.com/20221017/1618_2e6027ee/index.m3u8
+绮炬鑻遍泟,https://cdn5.yzzy-tv-cdn.com/20220607/22255_9e00edb7/index.m3u8
+绮捐杩藉コ浠??,https://vip.ffzy-play7.com/20221115/4686_d56a5b6c/index.m3u8
+绮捐杩藉コ浠斾箣2,https://vip.ffzy-play6.com/20221116/7250_93049e15/index.m3u8
+绮捐杩藉コ浠斾箣3鐙间箣涓??鏃??,https://vip.ffzy-play6.com/20221129/9346_67ee848d/index.m3u8
+璀﹀療鏁呬簨,https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
+璀﹀療鏁呬簨2013,https://vip.ffzy-play6.com/20221021/494_7e9bef86/index.m3u8
+璀﹀療鏁呬簨3,https://vip.ffzy-play7.com/20221206/8266_97359a93/index.m3u8
+璀﹀療鏁呬簨4,https://vip.ffzy-play6.com/20221129/9292_f6b1a849/index.m3u8
+璀﹀療鏁呬簨缁泦,https://vip.ffzy-play7.com/20221115/4687_1e3f6f8c/index.m3u8
+鍥у,https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
+涔濅簩绁為洉涔嬬棿蹇冩儏闀垮墤,http://jsmov2.a.yximgs.com/bs3/video-hls/5188428323796620673_hlsb.m3u8
+涔濅竴绁為洉渚犱荆,http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
+涔濅竴绁為洉渚犱荆,https://vip.ffzy-play6.com/20221112/6044_68796407/index.m3u8
+鍐虫垬绱涔嬪穮,https://vip.ffzy-play7.com/20230413/22211_bfb8d6b2/index.m3u8
+缁濅唬鍙岄獎,https://vip.ffzy-play6.com/20221129/9355_e351af0a/index.m3u8
+鍜栧柋杈ｆ,https://vip.ffzy-play7.com/20221112/3509_1a0443fd/index.m3u8
+鍗℃媺鏄潯鐙??,https://vip.ffzy-play6.com/20221020/264_d622ce7f/index.m3u8
+瀛斿瓙,https://vip.ffzy-play6.com/20221027/2108_7c929ef0/index.m3u8
+蹇杞??,https://vip.ffzy-play7.com/20221115/4694_6f7f88ac/index.m3u8
+杈ｆ墜绁炴帰,https://vip.ffzy-play7.com/20221112/3526_ba428b29/index.m3u8
+鑰佽檸鐓炴槦,https://vip.ffzy-play7.com/20221128/7611_ae4536d6/index.m3u8
+鑰佽檸鐢伴浮,https://vip.ffzy-play7.com/20221224/9583_f95a6383/index.m3u8
+鑰侀紶鐖变笂鐚??,https://vip.ffzy-play2.com/20221019/50_7eedcf07/index.m3u8
+绂诲澶ф垬,https://vip.ffzy-play7.com/20230409/21638_281e50c4/index.m3u8
+涓ゅ彧鑰佽檸,https://vip.ffzy-play7.com/20221117/5047_beb0a18c/index.m3u8
+鏋椾笘鑽??,https://vip.ffzy-play7.com/20221209/9096_70ae66c7/index.m3u8
+鐏靛够鍏堢敓,https://vip.ffzy-play7.com/20221115/4538_ddf6020e/index.m3u8
+鐏靛够鑷冲皧,https://vip.ffzy-play7.com/20221112/3550_cbc3226a/index.m3u8
+榫欑殑浼犱汉,https://vip.ffzy-play7.com/20221112/3556_7788de32/index.m3u8
+榫欑殑蹇??,https://vip.ffzy-play7.com/20221115/4539_8b9150f6/index.m3u8
+榫欏嚖鏂??,https://vip.ffzy-play2.com/20221019/18_d8d1ad76/index.m3u8
+榫欒檸椋庝簯,https://vip.ffzy-play6.com/20221128/8945_9b4193cd/index.m3u8
+榫欓┈绮剧,https://vip.ffzy-online6.com/20230603/12901_b0997ad4/index.m3u8
+榫欓棬椋炵敳,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+榫欓棬椋炵敳,https://cdn2.yzzy-tv-cdn.com/20220331/4883_7f84c204/index.m3u8
+榫欐嫵,https://vip.ffzy-play6.com/20221128/9052_3612e0ff/index.m3u8
+榫欏皯鐖??,https://vip.ffzy-play7.com/20221115/4703_5132dc98/index.m3u8
+榫欒吘铏庤穬,https://vip.ffzy-play7.com/20221117/5171_c2d4c959/index.m3u8
+榫欒吘鍥涙捣,https://vip.ffzy-play7.com/20221112/3563_422b85c5/index.m3u8
+榫欏厔铏庡紵,http://jsmov2.a.yximgs.com/bs3/video-hls/5250352837791566632_hlsb.m3u8
+榫欏厔铏庡紵,https://vip.ffzy-play6.com/20221116/7264_5b0b594e/index.m3u8
+榫欏湪杈圭紭,https://vip.ffzy-play.com/20221017/1754_95490c99/index.m3u8
+榫欏湪姹熸箹,https://vip.ffzy-play.com/20221017/1755_28d3688d/index.m3u8
+榫欏湪澶╂动,https://cdn2.yzzy-tv-cdn.com/20220331/4882_d282e1a0/index.m3u8
+榫欎箣瀹舵棌,https://vip.ffzy-play6.com/20221116/7265_dd503587/index.m3u8
+婊″煄灏藉甫榛勯噾鐢??,https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8
+鍐掗櫓鐜??,https://cdn4.yzzy-tv-cdn.com/20220608/17622_c083f16b/index.m3u8
+娌″畬娌′簡,https://vip.ffzy-play6.com/20221129/9376_7f06747a/index.m3u8
+闂ㄥ緬,https://vip.ffzy-play.com/20221017/1787_03664048/index.m3u8
+鐚涢鏃呰鍥??,https://vip.ffzy-play6.com/20221129/9331_792c1e13/index.m3u8
+鐚涢鏃呰鍥??,https://vip.ffzy-play6.com/20221207/10600_7cbfb482/index.m3u8
+杩蜂綘鐗瑰伐闃??,https://vip.ffzy-play7.com/20221117/5052_54ce37e4/index.m3u8
+瀵嗗畻濞侀緳,https://vip.ffzy-play7.com/20221112/3607_e49d9e93/index.m3u8
+鍛借繍鍛煎彨杞Щ,https://vip.ffzy-play6.com/20221030/2878_fd228534/index.m3u8
+鎽╃櫥骞翠唬,https://vip.ffzy-play6.com/20221021/516_0ef76f45/index.m3u8
+澧ㄦ敾,https://vip.ffzy-play2.com/20221022/308_7d10fa04/index.m3u8
+骞曞悗鐜╁,https://vip.ffzy-play.com/20221018/1847_f9676687/index.m3u8
+鍗楀寳灏戞灄,https://cdn2.yzzy-tv-cdn.com/20220428/16621_c12279b7/index.m3u8
+浣犲ソ鍖椾含,https://vip.ffzy-play7.com/20230416/22452_5318e52a/index.m3u8
+鏀??鐧昏????,https://vip.ffzy-play7.com/20221111/3124_7cca31fc/index.m3u8
+闇归洺澶у枃鍙??,https://vip.ffzy-play6.com/20221116/7273_4a3cfe1f/index.m3u8
+涓冨皬绂??,https://vip.ffzy-play6.com/20221117/7398_2ddb4dac/index.m3u8
+濂囪抗,https://vip.ffzy-play7.com/20221125/6961_0c69f3cf/index.m3u8
+濂囪皨濡欒浜旂鏄??,https://vip.ffzy-play7.com/20221115/4730_a7515224/index.m3u8
+鍗冩満鍙??,https://vip.ffzy-play2.com/20221019/21_687fe198/index.m3u8
+閽变綔鎬??,https://vip.ffzy-play7.com/20230204/13185_290d13f1/index.m3u8
+鍊╁コ骞介瓊閬撻亾閬??,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+鍊╁コ骞介瓊浜洪棿閬??,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+鍊╁コ骞介瓊濡栭瓟閬??,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+绉﹂,https://vip.ffzy-play7.com/20221112/3653_ad708d24/index.m3u8
+绉嬪ぉ鐨勭璇??,https://vip.ffzy-play6.com/20221130/9473_24b3f22f/index.m3u8
+椹遍瓟閬撻暱,https://vip.ffzy-play7.com/20221112/3670_136b232e/index.m3u8
+椹遍瓟璀﹀療,https://vip.ffzy-play6.com/20221205/9856_18a53055/index.m3u8
+鎷崇簿,https://vip.ffzy-play6.com/20221128/9094_13caae92/index.m3u8
+缇ら緳澶哄疂,https://vip.ffzy-play7.com/20221115/4561_89102ea4/index.m3u8
+缇ら緳鎴忓嚖,https://vip.ffzy-play7.com/20230423/22931_b2b1c621/index.m3u8
+璁╁瓙寮归,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+浜烘疆姹规秾,https://vip.ffzy-play.com/20221018/1947_3d44a6ed/index.m3u8
+浜烘捣瀛ら缚,https://vip.ffzy-play6.com/20221128/8983_f4dd65d1/index.m3u8
+浜哄悡楝??,https://vip.ffzy-play7.com/20221115/4745_3dce763c/index.m3u8
+浜哄悡浜??,https://vip.ffzy-play7.com/20230131/12897_66998969/index.m3u8
+浜哄啀鍥ч??斾箣娉板洤,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+浜哄湪鍥ч????,http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
+浜哄湪鍥ч????,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+涓夊痉鍜屽皻涓庤垈绫冲叚,https://vip.ffzy-play6.com/20221128/9099_38718b59/index.m3u8
+涓夊浗涔嬭榫欏嵏鐢??,https://vip.ffzy-play6.com/20221022/935_ffb2fe05/index.m3u8
+鎵瘨2,https://vip.ffzy-play6.com/20221111/5625_f06cc476/index.m3u8
+鏉??鎵嬬殑绔ヨ瘽,https://vip.ffzy-play7.com/20221112/3690_803bfb83/index.m3u8
+鏉??鎵嬩箣鐜??,https://cdn10.yzzy-tv-cdn.com/20221023/2307_200a0670/index.m3u8
+涓婃捣绾㈢編涓??,https://vip.ffzy-play6.com/20221126/8466_47514053/index.m3u8
+涓婃捣鍗佷笁澶繚,https://vip.ffzy-play.com/20221018/2001_3ef7be69/index.m3u8
+灏戞灄鏈ㄤ汉宸??,https://vip.ffzy-play6.com/20221128/9115_ff8a121e/index.m3u8
+灏戞灄瀵??,https://cdn4.yzzy-tv-cdn.com/20220606/17324_133ab69b/index.m3u8
+灏戞灄灏忓瓙,https://vip.ffzy-play7.com/20230216/14926_434969e4/index.m3u8
+灏戞灄鑻遍泟,https://vip.ffzy-play6.com/20221206/10385_35db0937/index.m3u8
+铔囬工鍏,https://vip.ffzy-play6.com/20221128/9119_1b13e298/index.m3u8
+绁炶瘽,https://vip.ffzy-play6.com/20221017/20_989dd1f8/index.m3u8
+绁炲鐕曞熬鏈??,https://vip.ffzy-play6.com/20221019/127_851b9820/index.m3u8
+绁炴灙鎵嬩笌鍜栧柋楦??,https://vip.ffzy-play7.com/20221129/7684_7ac9e104/index.m3u8
+绁炴帰钂叉澗榫??,https://vip.ffzy-play6.com/20221111/5646_d1cd614b/index.m3u8
+澶卞,https://vip.ffzy-play1.com/20221018/299_06ee96a1/index.m3u8
+甯堝紵鍑洪┈,https://vip.ffzy-play7.com/20221115/4764_aba20ecc/index.m3u8
+甯堝厔鎾為,https://vip.ffzy-play6.com/20221207/10610_200b5bd4/index.m3u8
+鍗佷簩鐢熻倴,https://vip.ffzy-play6.com/20221019/191_dba04d04/index.m3u8
+鍗侀潰鍩嬩紡,https://vip.ffzy-play7.com/20221117/5218_ad30347f/index.m3u8
+鏃舵潵杩愯浆,https://vip.ffzy-play7.com/20221209/9156_396eac04/index.m3u8
+鎵嬫満,https://vip.ffzy-play6.com/20221019/107_6107b581/index.m3u8
+鐢╃毊楝??,https://vip.ffzy-play6.com/20221112/6431_ce84a705/index.m3u8
+鍙岄緳浼??,https://alimov2.a.kwimgs.com/upic/2021/10/01/19/BMjAyMTEwMDExOTA1MDVfMTI0MzE0NjMyOF81ODE5NzY0NzAyOF8yXzM=_b_B6eb284159f267349ab21b64feb3d48ce.mp4
+鍙岄緳浼??,https://vip.ffzy-play6.com/20221112/6064_afbd5214/index.m3u8
+璇村嚭浣犵殑绉樺瘑,https://vip.ffzy-play6.com/20221112/6077_927afdf1/index.m3u8
+绉佷汉璁㈠埗,https://vip.ffzy-play6.com/20221019/192_52684124/index.m3u8
+绠楁鑽??,https://vip.ffzy-play6.com/20221112/6085_3636efbb/index.m3u8
+澶瀬寮犱笁涓??,https://cdn8.yzzy-tv-cdn.com/20220713/4780_8d927b57/index.m3u8
+妗冭姳杩??,https://vip.ffzy-play7.com/20230204/13202_2844d10a/index.m3u8
+鐗硅鏂颁汉绫??,https://vip.ffzy-play6.com/20221112/6113_c01821f3/index.m3u8
+鐗瑰姟杩峰煄,https://vip.ffzy-play6.com/20221019/111_6edaadc7/index.m3u8
+澶╁湴闆勫績,https://vip.ffzy-play7.com/20221113/4187_a7c41927/index.m3u8
+澶╁湴鐜勯棬,https://vip.ffzy-play6.com/20221112/6127_d615f342/index.m3u8
+澶╁皢闆勫笀,https://vip.ffzy-play6.com/20221031/3078_d47ea8cc/index.m3u8
+澶╄嫢鏈夋儏,http://jsmov2.a.yximgs.com/bs3/video-hls/5246412168297899387_hlsb.m3u8
+澶╄嫢鏈夋儏,https://vip.ffzy-play6.com/20221112/6132_760d67fd/index.m3u8
+澶╄嫢鏈夋儏3涔嬬兘鐏匠浜??,https://vip.ffzy-play6.com/20221207/10617_a0d97cd1/index.m3u8
+澶╃敓鑳嗗皬,https://vip.ffzy-play6.com/20221129/9417_4ed30e0d/index.m3u8
+澶╀笅鏃犺醇,https://vip.ffzy-play6.com/20221018/39_d0036fb2/index.m3u8
+澶╀笌鍦??,https://vip.ffzy-play6.com/20221112/6144_016eb00a/index.m3u8
+閾滈泙,https://vip.ffzy-play6.com/20221019/200_4eede94c/index.m3u8
+鎶曞悕鐘??,https://cdn13.yzzy-tv-cdn.com/20230128/9592_3d21d729/index.m3u8
+椤戒富,https://vip.ffzy-play7.com/20221115/4578_af3f092c/index.m3u8
+鏃鸿鍗￠棬,https://vip.ffzy-play1.com/20221018/469_ab458c38/index.m3u8
+鍗柉鐞嗕箣钃濊浜??,https://vip.ffzy-play6.com/20221020/234_4fc21f9b/index.m3u8
+鏈潵璀﹀療,https://vip.ffzy-play6.com/20221022/1000_fa615f2b/index.m3u8
+鎴戜笉鏄嵂绁??,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+鎴戝拰鎴戠殑鐖惰緢,https://vip.ffzy-play7.com/20230307/17542_0c58cae5/index.m3u8
+鎴戝拰鎴戠殑瀹朵埂,https://vip.ffzy-play1.com/20221018/511_7936e28c/index.m3u8
+鎴戝拰鎴戠殑绁栧浗,https://vip.ffzy-play1.com/20221018/512_4544d0ed/index.m3u8
+鎴戞槸璋??,https://vip.ffzy-play6.com/20221022/881_da82c5bb/index.m3u8
+鍗ц檸钘忛緳,https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
+鏃犻棿閬??,https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
+鏃犻棿閬??2,https://vip.lzcdn2.com/20220323/300_8be28e1c/index.m3u8
+鏃犻棿閬??3锛氱粓鏋佹棤闂??,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
+鏃犱汉鍖??,https://vip.ffzy-play6.com/20221019/203_ce8ad9b0/index.m3u8
+鏃犲弻,https://vip.ffzy-play6.com/20221108/5250_e3bbb4e4/index.m3u8
+浜旇檸灏嗕箣鍐宠,https://vip.ffzy-play6.com/20221112/6190_0250331a/index.m3u8
+浜斾嚎鎺㈤暱闆锋礇浼??1锛氶浄鑰佽檸,https://vip.ffzy-online.com/20221015/672_cd3f2629/index.m3u8
+浜斾嚎鎺㈤暱闆锋礇浼??2锛氱埗瀛愭儏浠??,https://vip.ffzy-online.com/20221015/676_0dc45896/index.m3u8
+瑗挎父闄嶉瓟绡??,https://vip.ffzy-play6.com/20221019/206_b74a99b9/index.m3u8
+鍢绘父璁??,https://vip.ffzy-play6.com/20221022/1023_fae8e09f/index.m3u8
+鍠滃墽鏄庢槦,https://vip.ffzy-play7.com/20230409/21692_463322cf/index.m3u8
+渚犵洍楂橀,https://vip.ffzy-play7.com/20221112/3315_eef8cb87/index.m3u8
+渚犵洍鑱旂洘,https://vip.ffzy-play7.com/20221104/1442_e5eca889/index.m3u8
+渚犲湥,https://vip.ffzy-online.com/20221015/741_196889fc/index.m3u8
+澶忔棩绂忔槦,https://vip.ffzy-play7.com/20230118/11937_84244e52/index.m3u8
+鍜搁奔缈昏韩,https://vip.ffzy-play6.com/20221116/7303_5bfc21ee/index.m3u8
+娑堝け鐨勫コ浜??,https://vip.ffzy-online2.com/20230521/37660_a7ca3135/index.m3u8
+绗戝偛姹熸箹,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
+绗戝偛姹熸箹2锛氫笢鏂逛笉璐??,https://cdn2.yzzy-tv-cdn.com/20220331/4843_724c1ac5/index.m3u8
+绗戞嫵鎬嫑,https://vip.ffzy-play6.com/20221128/9213_05050bb8/index.m3u8
+蹇冭姳璺斁,https://vip.ffzy-play6.com/20221027/2366_e83b4d22/index.m3u8
+杈涗亥闈╁懡,https://vip.ffzy-play6.com/20221021/591_72533d75/index.m3u8
+鏂板兊灏稿厛鐢??,https://vip.ffzy-play6.com/20221129/9451_47cd067c/index.m3u8
+鏂拌瀵熸晠浜??,https://vip.ffzy-play6.com/20221017/15_7bd9a94d/index.m3u8
+鏂颁笂娴锋哗,https://vip.ffzy-play.com/20221015/880_937cdc1a/index.m3u8
+鏂板皯鏋楀,https://vip.ffzy-play.com/20221015/881_3dbc4077/index.m3u8
+鏂板浜嬩欢,https://vip.ffzy-play7.com/20230314/18148_991eeb8a/index.m3u8
+鍏勫紵涔嬬敓姝诲悓鐩??,https://vip.ffzy-play.com/20221015/897_d3a4e80f/index.m3u8
+缇炵緸楝??,https://vip.ffzy-play7.com/20221112/3366_3a1a794c/index.m3u8
+瀛︽牎椋庝簯,https://vip.ffzy-play7.com/20221209/9201_9f4d986a/index.m3u8
+琛??鐜懓,https://vip.ffzy-play6.com/20221116/7310_02f7420d/index.m3u8
+濡栨??兘甯??,https://vip.ffzy-play6.com/20221129/9462_bbbcc871/index.m3u8
+澶滃簵,https://vip.ffzy-play6.com/20221022/1049_8ee06bf6/index.m3u8
+涓??姝ヤ箣閬??,https://vip.ffzy-play2.com/20221122/1201_e24fce85/index.m3u8
+涓??鍑哄ソ鎴??,https://vip.ffzy-play.com/20221015/949_ecf3b061/index.m3u8
+涓??涓ソ浜??,https://vip.ffzy-play7.com/20221129/7713_3a3bd3ff/index.m3u8
+涓??鐪夐亾浜??,https://vip.ffzy-play7.com/20221115/4803_1731be32/index.m3u8
+涓??澶滄儕鍠??,https://vip.ffzy-play6.com/20221019/211_225bbe08/index.m3u8
+涔夋湰鏃犺█,https://vip.ffzy-play6.com/20221116/7316_f568756b/index.m3u8
+涔変笉瀹硅緸,https://vip.ffzy-play7.com/20221208/8724_89db1c6d/index.m3u8
+涔夎儐绾㈠攪,https://vip.ffzy-play6.com/20221116/7315_8765f39c/index.m3u8
+涔夎儐闆勫績,http://jsmov2.a.yximgs.com/bs3/video-hls/5237686462055775486_hlsb.m3u8
+涔夎儐闆勫績,https://vip.ffzy-play7.com/20221129/7714_a0c75de1/index.m3u8
+闊充箰鍍靛案,https://vip.ffzy-play6.com/20221207/10627_09b3f2e5/index.m3u8
+鑻遍泟,https://vip.ffzy-play7.com/20221227/9993_9681b67b/index.m3u8
+鑻遍泟鏈壊1,https://vip.ffzy-play7.com/20221115/4617_be0491ea/index.m3u8
+鑻遍泟鏈壊2,https://vip.ffzy-play7.com/20221115/4807_eeca808f/index.m3u8
+鑻遍泟濂芥眽,https://vip.ffzy-play.com/20221015/981_2ca5b5f9/index.m3u8
+鑻遍泟鏃犳唱,https://vip.ffzy-play6.com/20221207/10694_f9088e66/index.m3u8
+璧㈤挶涓撳,https://vip.ffzy-play6.com/20221113/6794_d514b390/index.m3u8
+鏈夎瘽濂藉ソ璇??,https://vip.ffzy-play7.com/20221112/3406_98dc6f14/index.m3u8
+涓庨緳鍏辫垶,https://vip.ffzy-play6.com/20221207/10859_1b02d27c/index.m3u8
+鐙变腑榫??,https://vip.ffzy-play.com/20221015/999_d5886cd0/index.m3u8
+鏉傚灏忓瓙,https://vip.ffzy-play6.com/20221128/9261_f18e5614/index.m3u8
+璧炲厛鐢熶笌鎵鹃挶鍗??,https://vip.ffzy-play6.com/20221207/10710_1642c7db/index.m3u8
+鎴樼浼犺,https://vip.ffzy-play7.com/20221129/7734_53205031/index.m3u8
+闀挎睙涓冨彿,https://vip.ffzy-play6.com/20221022/1070_3b7b263a/index.m3u8
+璧垫皬瀛ゅ効,https://vip.ffzy-play6.com/20221022/1071_73fbd377/index.m3u8
+鑷冲皧璁＄姸鍏冩墠,https://vip.ffzy-play7.com/20221112/3440_9d089764/index.m3u8
+鑷冲皧涓夊崄鍏涔嬪伔澶╂崲鏃??,https://vip.ffzy-play.com/20221015/1085_37999806/index.m3u8
+鑷冲皧鏃犱笂,https://vip.ffzy-play.com/20221015/1086_9576a463/index.m3u8
+鑷冲皧鏃犱笂II涔嬫案闇稿ぉ涓??,https://vip.ffzy-play.com/20221015/1090_e30609f3/index.m3u8
+涓浗鏈??鍚庝竴涓お鐩??,https://vip.ffzy-play6.com/20221128/9044_42d732f5/index.m3u8
+涓幆鑻遍泟,https://vip.ffzy-play7.com/20221129/7743_4656dd25/index.m3u8
+涓崡娴蜂繚闀??,https://cdn12.yzzy-tv-cdn.com/20221209/8943_e3bd0850/index.m3u8
+閽熼瀚佸,https://vip.ffzy-play7.com/20221129/7746_6b5ae2e8/index.m3u8
+杩介瓊浼??,https://vip.ffzy-play7.com/20221129/7753_bd15d501/index.m3u8
+杩介緳,https://vip.ffzy-play7.com/20221104/1464_ed9d6c5d/index.m3u8
+绾垫í鍥涙捣,https://vip.ffzy-play7.com/20221112/3463_4e05c55e/index.m3u8
+鏈??浣虫崯鍙??,https://vip.ffzy-play7.com/20221115/4630_078a1b22/index.m3u8
+鏈??浣虫崯鍙嬮棷鎯呭叧,https://vip.ffzy-play7.com/20221116/4843_accffdd6/index.m3u8
+閱夋嫵,https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
+閱夋嫵,https://vip.ffzy-play7.com/20230202/13070_b42acba9/index.m3u8
+閱夋嫵2,https://vip.ffzy-play6.com/20221129/9308_1fceb255/index.m3u8
+閱夋嫵3,https://vip.ffzy-play7.com/20221112/3468_38ba3d24/index.m3u8
+
+寰??骞存槬鏅歔V4],#genre#
+鏄ユ櫄1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+鏄ユ櫄1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4
+鏄ユ櫄1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+鏄ユ櫄1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+鏄ユ櫄1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+鏄ユ櫄1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+鏄ユ櫄1986,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+鏄ユ櫄1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+鏄ユ櫄1987,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+鏄ユ櫄1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+鏄ユ櫄1988,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+鏄ユ櫄1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+鏄ユ櫄1989,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+鏄ユ櫄1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+鏄ユ櫄1991,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+鏄ユ櫄1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+鏄ユ櫄1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+鏄ユ櫄1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+鏄ユ櫄1993,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+鏄ユ櫄1994,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+鏄ユ櫄1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+鏄ユ櫄1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+鏄ユ櫄1995,https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+鏄ユ櫄1996,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+鏄ユ櫄1996,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+鏄ユ櫄1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+鏄ユ櫄1997,https://txmov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+鏄ユ櫄1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+鏄ユ櫄1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+鏄ユ櫄1999,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+鏄ユ櫄2000,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+鏄ユ櫄2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+鏄ユ櫄2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+鏄ユ櫄2001,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+鏄ユ櫄2002,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+鏄ユ櫄2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+鏄ユ櫄2003,https://txmov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+鏄ユ櫄2004,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+鏄ユ櫄2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+鏄ユ櫄2005,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+鏄ユ櫄2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+鏄ユ櫄2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+鏄ユ櫄2006,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+鏄ユ櫄2007,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+鏄ユ櫄2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+鏄ユ櫄2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+鏄ユ櫄2008,https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+鏄ユ櫄2009,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+鏄ユ櫄2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+鏄ユ櫄2010,https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+鏄ユ櫄2011,https://txmov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+鏄ユ櫄2013,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+鏄ユ櫄2014,https://txmov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+鏄ユ櫄2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+鏄ユ櫄2015,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+鏄ユ櫄2017,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+鏄ユ櫄2018,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+鏄ユ櫄2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+鏄ユ櫄2019,https://txmov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+鏄ユ櫄2020,https://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+鏄ユ櫄2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+鏄ユ櫄2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+鏄ユ櫄2021,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+鏄ユ櫄2021,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
+鏄ユ櫄2021,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
+鏄ユ櫄2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+鏄ユ櫄2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+鏄ユ櫄2022,https://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+鏄ユ櫄2023,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+鏄ユ櫄2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+鏄ユ櫄2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+
+VIP棰戦亾_8686,#genre#
+鍑ゅ嚢鍗涓枃鍙??,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+鍑ゅ嚢鍗璧勮鍙??,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
+鍔熷か褰遍櫌棰戦亾,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+鏃犵嚎璐㈢粡浣撹偛,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+鍑ゅ嚢鍗棣欐腐鍙??,http://hikvision.city:880/fhxgt.m3u8
+TVB鏃犵嚎鏂伴椈鍙??,http://live.cooltv.top/tv/tvb.php?id=2&hq
+TVB浜氭床姝︿緺,https://ali.hlspull.yximgs.com/live/12344.flv
+TVB浜氭床姝︿緺,https://s2.pub/cctv-20
+TVB浜氭床姝︿緺,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+鏃犵嚎鏄熸渤,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+鏄熺┖鍗,http://wouu.net:9977/udp/239.93.0.156:2193
+鏃犵嚎濞变箰,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+鑰??鎵嶈储缁??,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+鑰??鎵嶈储缁??,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+鍑ゅ嚢鍗璧勮鍙??,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
+鏃犵嚎鏄熸渤,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+鏃犵嚎濞变箰,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB鏃犵嚎鏂伴椈鍙??,http://zsntlqj.xicp.net:8896/bysid/83
+鏄熺┖缂撳啿10绉??,http://wouu.net:9977/udp/239.93.0.156:2193
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+RTHK34,https://livedoc.cgtn.com/1000d/prog_index.m3u8
+RTHK34,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+鑰??鎵嶈储缁??,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+婢充簹鍗鍙??,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+TVB濞变箰鏂伴椈鍙??,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+鍑ゅ嚢鍗棣欐腐鍙??,http://113.64.145.195:8081/hls/38/index.m3u8
+棣欐腐鍗鍙??,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+棣欐腐鍗鍙??,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+婢充簹鍗鍙??,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+婢充簹鍗,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+鑰??鎵嶈储缁??,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+鐜悆鐢佃鍙??,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+婢抽棬鍗,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+鏃犵嚎鏄熸渤,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+鑰??鎵嶈储缁??,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+婢充簹鍗,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+棣欐腐鏈夌嚎鏂伴椈鍙??,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+棣欐腐鏈夌嚎鏂伴椈鍙??,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8#http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+鏄庣彔鍙??,http://123.202.245.120:8008/bysid/2.m3u8
+TVB Plus,http://123.202.245.120:8008/bysid/82.m3u8
+鐒＄东鏂拌仦鍙??,http://123.202.245.120:8008/bysid/83.m3u8
+槌冲嚢琛涜棣欐腐鍙??,http://123.202.245.120:8008/bysid/85.m3u8
+HOY 鍦嬮殯璨＄稉鍙??,http://123.202.245.120:8009/bysid/76.m3u8
+HOY TV,http://123.202.245.120:8009/bysid/77.m3u8
+HOY 璩囪▕鍙??,http://123.202.245.120:8009/bysid/78.m3u8
+鍑ゅ嚢鍗璧勮鍙??,http://112.19.171.156:9999/udp/239.93.0.118:2191
+鍑ゅ嚢鍗涓枃鍙??,http://112.19.171.156:9999/udp/239.93.0.162:2192
+棣欐腐鍗鍙??,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+鑰??鎵嶈储缁??,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+棣欐腐鏄庣彔,http://116.199.24.6:2901/udp/225.1.101.139:7523
+鏄庣彔,http://116.199.24.6:2901/udp/225.1.101.43:7523
+闇归洺鍙版咕鍙??,mitv://135.148.104.228:19806/dcdf778fe9ca4184ad6af3a911765cf0
+闇归洺鍙版咕鍙??,mitv://135.148.104.228:19806/dcdf778fe9ca4184ad6af3a911765cf0
+鍗庤,mitv://135.148.104.228:19806/761bc3c0662247d18b0db4da8070b7f4
+鍗庤,mitv://135.148.104.228:19806/761bc3c0662247d18b0db4da8070b7f4
+鍏,mitv://135.148.104.228:19806/5bc9388122b840f1abd2ff73c85049a6
+鍏,mitv://135.148.104.228:19806/5bc9388122b840f1abd2ff73c85049a6
+濂芥秷鎭??,mitv://135.148.104.228:19806/febf2282369d409d92d68514b72fc433
+濂芥秷鎭??,mitv://135.148.104.228:19806/febf2282369d409d92d68514b72fc433
+鍘熶綇姘??,mitv://135.148.104.228:19806/cb5b7549e3604100a605ca17c82808f5
+鍘熶綇姘??,mitv://135.148.104.228:19806/cb5b7549e3604100a605ca17c82808f5
+瀹㈠鐢佃鍙??,mitv://135.148.104.228:19806/eafabb6e7c30439b8ecd35ad40a46a96
+瀹㈠鐢佃鍙??,mitv://135.148.104.228:19806/eafabb6e7c30439b8ecd35ad40a46a96
+鎺㈢储棰戦亾,mitv://135.148.104.228:19806/9f2e92df32b34a569ad7e6818f4732fb
+鎺㈢储棰戦亾,mitv://135.148.104.228:19806/9f2e92df32b34a569ad7e6818f4732fb
+TLC鏃呮父鐢熸椿,mitv://135.148.104.228:19806/621ca70412034f5eb919c1ec03679804
+TLC鏃呮父鐢熸椿,mitv://135.148.104.228:19806/621ca70412034f5eb919c1ec03679804
+鍔ㄧ墿鏄熺悆,mitv://135.148.104.228:19806/5b41e724ea8e4e7eb92e3dac95589165
+鍔ㄧ墿鏄熺悆,mitv://135.148.104.228:19806/5b41e724ea8e4e7eb92e3dac95589165
+CN鍗￠??氶閬??,mitv://135.148.104.228:19806/f4dd909eedc64e6b9736e248aedf6d61
+CN鍗￠??氶閬??,mitv://135.148.104.228:19806/f4dd909eedc64e6b9736e248aedf6d61
+MOMO浜插瓙鍙??,mitv://135.148.104.228:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
+MOMO浜插瓙鍙??,mitv://135.148.104.228:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
+绾潵缁煎悎鍙??,mitv://135.148.104.228:19806/d40310ae8bba42569d3d90b4cf7d9928
+绾潵缁煎悎鍙??,mitv://135.148.104.228:19806/d40310ae8bba42569d3d90b4cf7d9928
+涓夌珛鍙版咕鍙??,mitv://135.148.104.228:19806/ff12e8f29f9b4f61a9b766709aa498f6
+涓夌珛鍙版咕鍙??,mitv://135.148.104.228:19806/ff12e8f29f9b4f61a9b766709aa498f6
+涓夌珛閮戒細鍙??,mitv://135.148.104.228:19806/7a36f98eee8e48a48ea64a1359083c8a
+涓夌珛閮戒細鍙??,mitv://135.148.104.228:19806/7a36f98eee8e48a48ea64a1359083c8a
+涓滄．缁煎悎鍙??,mitv://135.148.104.228:19806/a05a4d8b51f54013925315261a2c6aa9
+涓滄．缁煎悎鍙??,mitv://135.148.104.228:19806/a05a4d8b51f54013925315261a2c6aa9
+涓滄．瓒呰鍙??,mitv://135.148.104.228:19806/5121f16c4b634c1683e9444aa68494b6
+涓滄．瓒呰鍙??,mitv://135.148.104.228:19806/5121f16c4b634c1683e9444aa68494b6
+涓ぉ濞变箰鍙??,mitv://135.148.104.228:19806/6932151dd5a74b759a053f78a719fbf3
+涓ぉ濞变箰鍙??,mitv://135.148.104.228:19806/6932151dd5a74b759a053f78a719fbf3
+涓滄．鎴忓墽鍙??,mitv://135.148.104.228:19806/4fae332a68a04f3fa77a158ac1fa4bce
+涓滄．鎴忓墽鍙??,mitv://135.148.104.228:19806/4fae332a68a04f3fa77a158ac1fa4bce
+TVBS娆箰鍙??,mitv://135.148.104.228:19806/569aec3edbbc4267bd6f829b3d495d5a
+TVBS娆箰鍙??,mitv://135.148.104.228:19806/569aec3edbbc4267bd6f829b3d495d5a
+绾潵鎴忓墽鍙??,mitv://135.148.104.228:19806/69036778f8fc40729301e9e88aeee556
+绾潵鎴忓墽鍙??,mitv://135.148.104.228:19806/69036778f8fc40729301e9e88aeee556
+楂樼偣缁煎悎鍙??,mitv://135.148.104.228:19806/462775e2153243fc92adec0793c638d0
+楂樼偣缁煎悎鍙??,mitv://135.148.104.228:19806/462775e2153243fc92adec0793c638d0
+BBCWorldNews,mitv://135.148.104.228:19806/ecc7214268ee448ab42b65d9f2e2663a
+BBCWorldNews,mitv://135.148.104.228:19806/ecc7214268ee448ab42b65d9f2e2663a
+BBCWorldNews,mitv://135.148.104.228:19806/ecc7214268ee448ab42b65d9f2e2663a
+CNBC,mitv://135.148.104.228:19806/b642a4ce45734a7190f0acbd8cd462dd
+CNBC,mitv://135.148.104.228:19806/b642a4ce45734a7190f0acbd8cd462dd
+CNBC,mitv://135.148.104.228:19806/b642a4ce45734a7190f0acbd8cd462dd
+BloombergTV,mitv://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
+BloombergTV,mitv://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
+BloombergTV,mitv://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
+HITS,mitv://135.148.104.228:19806/a65416c2039f4644aeef10da853fb928
+HITS,mitv://135.148.104.228:19806/a65416c2039f4644aeef10da853fb928
+HITS,mitv://135.148.104.228:19806/a65416c2039f4644aeef10da853fb928
+澹圭數瑙嗘柊闂诲彴,mitv://135.148.104.228:19806/31dad83ef5b74c5db225482cd2e0fbae
+澹圭數瑙嗘柊闂诲彴,mitv://135.148.104.228:19806/31dad83ef5b74c5db225482cd2e0fbae
+骞翠唬鏂伴椈,mitv://135.148.104.228:19806/95f67e884d88463e907c301d05fa68b7
+骞翠唬鏂伴椈,mitv://135.148.104.228:19806/95f67e884d88463e907c301d05fa68b7
+涓滄．鏂伴椈鍙??,mitv://135.148.104.228:19806/e1a899eded4d48578084c61957fb8c2b
+涓滄．鏂伴椈鍙??,mitv://135.148.104.228:19806/e1a899eded4d48578084c61957fb8c2b
+涓夌珛鏂伴椈鍙??,mitv://135.148.104.228:19806/9388262af2604cc798800736d070d39e
+涓夌珛鏂伴椈鍙??,mitv://135.148.104.228:19806/9388262af2604cc798800736d070d39e
+TVBS鏂伴椈鍙??,mitv://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
+TVBS鏂伴椈鍙??,mitv://135.148.104.228:19806/6a155a5d7bea461b980b4fa559119a60
+TVBS,mitv://135.148.104.228:19806/9fb651a7ec2e402588a0752ba1035476
+TVBS,mitv://135.148.104.228:19806/9fb651a7ec2e402588a0752ba1035476
+涓滄．鐢靛奖鍙??,mitv://135.148.104.228:19806/08435f286ac744a0942899c551209779
+涓滄．鐢靛奖鍙??,mitv://135.148.104.228:19806/08435f286ac744a0942899c551209779
+绾潵鐢靛奖鍙??,mitv://135.148.104.228:19806/429796f5f00946fa933e400729286c7e
+绾潵鐢靛奖鍙??,mitv://135.148.104.228:19806/429796f5f00946fa933e400729286c7e
+榫欑ゥ鐢靛奖,mitv://135.148.104.228:19806/78502c9b515845a7baca6a3a6ea88b8a
+榫欑ゥ鐢靛奖,mitv://135.148.104.228:19806/78502c9b515845a7baca6a3a6ea88b8a
+HBO,mitv://135.148.104.228:19806/37f11d742fee447ab15f07db28095bd6
+HBO,mitv://135.148.104.228:19806/37f11d742fee447ab15f07db28095bd6
+涓滄．娲嬬墖鍙??,mitv://135.148.104.228:19806/5e8420f5477344b9b7b39d9e96162ce1
+涓滄．娲嬬墖鍙??,mitv://135.148.104.228:19806/5e8420f5477344b9b7b39d9e96162ce1
+AXN,mitv://135.148.104.228:19806/893f7dec641a42458f47ccfbd93525ba
+AXN,mitv://135.148.104.228:19806/893f7dec641a42458f47ccfbd93525ba
+濂借幈鍧炵數褰卞彴,mitv://135.148.104.228:19806/9862f4958472458ca2ebc718bb92a5c6
+濂借幈鍧炵數褰卞彴,mitv://135.148.104.228:19806/9862f4958472458ca2ebc718bb92a5c6
+绾潵浣撹偛鍙??,mitv://135.148.104.228:19806/79090c69d43040148deaa21d5e26c32a
+绾潵浣撹偛鍙??,mitv://135.148.104.228:19806/79090c69d43040148deaa21d5e26c32a
+ELEVEN浣撹偛1鍙??,mitv://135.148.104.228:19806/fcfde35352d5464f9ed1c711ef2d05b1
+ELEVEN浣撹偛1鍙??,mitv://135.148.104.228:19806/fcfde35352d5464f9ed1c711ef2d05b1
+JET缁煎悎鍙??,mitv://135.148.104.228:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
+JET缁煎悎鍙??,mitv://135.148.104.228:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
+鍥藉叴鍗,mitv://135.148.104.228:19806/18aaee00d2af442ebb4592e15f7b2a20
+鍥藉叴鍗,mitv://135.148.104.228:19806/18aaee00d2af442ebb4592e15f7b2a20
+Z棰戦亾,mitv://135.148.104.228:19806/8789d946039740bda334150ac3138166
+Z棰戦亾,mitv://135.148.104.228:19806/8789d946039740bda334150ac3138166
+灏煎厠鍎跨棰戦亾,mitv://135.148.104.228:19806/879f28be19bc47df84ad3d5470be58d0
+灏煎厠鍎跨棰戦亾,mitv://135.148.104.228:19806/879f28be19bc47df84ad3d5470be58d0
+鍏ぇ濞变箰鍙??,mitv://135.148.104.228:19806/cea44ead76804413bd48caf76c5c2749
+鍏ぇ濞变箰鍙??,mitv://135.148.104.228:19806/cea44ead76804413bd48caf76c5c2749
+涓夌珛iNEWS,mitv://135.148.104.228:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
+涓夌珛iNEWS,mitv://135.148.104.228:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
+榫欏崕鍋跺儚,mitv://135.148.104.228:19806/5b720b1e1b404f129e7009363d3035f8
+榫欏崕鍋跺儚,mitv://135.148.104.228:19806/5b720b1e1b404f129e7009363d3035f8
+tvN,mitv://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
+tvN,mitv://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
+tvN,mitv://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
+澶х埍2鍙??,mitv://135.148.104.228:19806/2036b83c58e344c782eb154b233c8c77
+澶х埍2鍙??,mitv://135.148.104.228:19806/2036b83c58e344c782eb154b233c8c77
+ELTV鐢熸椿鑻辫鍙??,mitv://135.148.104.228:19806/78c0f08e89a844ef89d6803bce27a827
+ELTV鐢熸椿鑻辫鍙??,mitv://135.148.104.228:19806/78c0f08e89a844ef89d6803bce27a827
+闈栧ぉ鍗￠??氬彴,mitv://135.148.104.228:19806/0e27e5f319264b609ec810e126edf969
+闈栧ぉ鍗￠??氬彴,mitv://135.148.104.228:19806/0e27e5f319264b609ec810e126edf969
+NickJr.,mitv://135.148.104.228:19806/acebbded37714fa4a5554c025873a92c
+NickJr.,mitv://135.148.104.228:19806/acebbded37714fa4a5554c025873a92c
+MezzoLive,mitv://135.148.104.228:19806/1c1e90cd01934a5f917ec4fad5c97665
+MezzoLive,mitv://135.148.104.228:19806/1c1e90cd01934a5f917ec4fad5c97665
+CLASSICA鍙ゅ吀涔??,mitv://135.148.104.228:19806/133be9054bcd4fa68d2e34205004a51a
+CLASSICA鍙ゅ吀涔??,mitv://135.148.104.228:19806/133be9054bcd4fa68d2e34205004a51a
+鐖卞皵杈句綋鑲??1鍙??(澶??),mitv://135.148.104.228:19806/1180278580d04cb490450ec59b4edc6b
+鐖卞皵杈句綋鑲??1鍙??(澶??),mitv://135.148.104.228:19806/1180278580d04cb490450ec59b4edc6b
+鐖卞皵杈句綋鑲??2鍙??,mitv://135.148.104.228:19806/d1f16ee235314a0fbc33742ab7af534b
+鐖卞皵杈句綋鑲??2鍙??,mitv://135.148.104.228:19806/d1f16ee235314a0fbc33742ab7af534b
+TRACESportStars,mitv://135.148.104.228:19806/b0cb233f10e84f29910fa38e15a07035
+TRACESportStars,mitv://135.148.104.228:19806/b0cb233f10e84f29910fa38e15a07035
+鍗氭柉杩愬姩,mitv://135.148.104.228:19806/6293839c167e4b6393c745db434b2465
+鍗氭柉杩愬姩,mitv://135.148.104.228:19806/6293839c167e4b6393c745db434b2465
+ELEVEN浣撹偛2鍙??,mitv://135.148.104.228:19806/057061c0da744aa7b035169dba5ebe2a
+ELEVEN浣撹偛2鍙??,mitv://135.148.104.228:19806/057061c0da744aa7b035169dba5ebe2a
+鏅烘灄浣撹偛鍙??,mitv://135.148.104.228:19806/931c171e2f774f7aa1a92e97f5098c9f
+鏅烘灄浣撹偛鍙??,mitv://135.148.104.228:19806/931c171e2f774f7aa1a92e97f5098c9f
+HBO寮烘。宸ㄧ尞,mitv://135.148.104.228:19806/563a5981b8ad4df085b59ce98bbecb95
+HBO寮烘。宸ㄧ尞,mitv://135.148.104.228:19806/563a5981b8ad4df085b59ce98bbecb95
+HBO鍘熷垱宸ㄧ尞,mitv://135.148.104.228:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
+HBO鍘熷垱宸ㄧ尞,mitv://135.148.104.228:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
+TVB鏄熸渤鍙??,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB濞变箰鍙??,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB鍔熷か鍙??,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+棣欐腐闈㈠寘鍙??,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+鑰??鎵嶈储缁忓彴,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+鐜悆鐢佃鍙??,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+浜氭床鏂伴椈鍙??,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CGNTV鍙??,http://live.cgtn.com/500/prog_index.m3u8#http://live.cgtn.com/1000/prog_index.m3u8
+缁忓吀鍔熷か鍙??,http://43.138.170.29:35455/yy/1355002394
+
+馃嚚馃嚦涓浗娓境_8686,#genre#
+鍑ゅ嚢璧勮棰戦亾,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8?
+鍑ゅ嚢璧勮棰戦亾,http://112.19.171.156:9999/udp/239.93.0.118:2191
+鍑ゅ嚢璧勮棰戦亾,http://61.221.215.25:8800/hls/47/index.m3u8
+鍑ゅ嚢璧勮棰戦亾,http://103.95.24.37:880/fhzx.m3u8
+
+棣欐腐鍑ゅ嚢棰戦亾,https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
+棣欐腐鍑ゅ嚢棰戦亾,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+棣欐腐鍑ゅ嚢棰戦亾,http://gzcyl001.3322.org:8081/hls/33/index.m3u8
+棣欐腐鍑ゅ嚢棰戦亾,http://hikvision.city:880/fhxgt.m3u8
+棣欐腐缈＄繝棰戦亾,http://zsntlqj.xicp.net:8895/bysid/1
+鏃犵嚎鏄熸渤棰戦亾,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+鍑ゅ嚢鐢靛奖棰戦亾,http://117.114.153.25:8180/TV00000000000000000072@HHZT
+娓嚭闆诲奖棰戦亾,https://epg.pw/stream/9733a9faedac1ecb653defe0c92c8c29c8e1f07b0869bd241b1b2ad7737c1dde.ctv
+STARmovies,http://117.114.153.25:8180/TV00000000000000000075@HHZT
+axn鐢靛奖棰戦亾,http://117.114.153.25:8180/TV00000000000000000076@HHZT
+CINEMAX鐢靛奖,http://117.114.153.25:8180/TV00000000000000000109@HHZT
+HBO锛堢編锛夊彴,http://117.114.153.25:8180/TV00000000000000000074@HHZT
+娆ф床鍗庢枃棰戦亾,http://vvlive.eztv.vip/hwetnew/hwetnew.m3u8?auth_key=1710810771-0-0-c5ce71079eaa4d245127b05375ae371f
+鏄熺┖鍗棰戦亾,http://wouu.net:9977/udp/239.93.0.156:2193
+鏄熺┖鍗棰戦亾,http://iptv.028028.xyz:8/udp/239.93.0.156:2193
+Channel[V]鍙??,http://iptv.028028.xyz:8/udp/239.93.0.157:2194
+鏃犵嚎濞变箰棰戦亾,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+棣欐腐33鍙伴珮娓??,https://epg.pw/stream/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
+棣欐腐34鍙伴珮娓??,https://epg.pw/stream/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8
+棣欐腐35鍙伴珮娓??,https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
+棣欐腐33鍙伴珮娓??,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+棣欐腐34鍙伴珮娓??,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+棣欐腐35鍙伴珮娓??,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+鑰??鎵嶈储缁忛閬??,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+鑰??鎵嶈储缁忛閬??,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+婢宠婢抽棬娴佺晠,http://gzcyl001.3322.org:8081/hls/32/index.m3u8
+婢抽棬鑾茶姳棰戦亾,http://php.jdshipin.com:8880/amlh.php
+4k馃憠淇鍏ㄧ綉,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+鍕曠墿鏄熺悆棰戦亾,https://epg.pw/stream/781aa20d6f614e39bb1004490cccac6cb55acbf4b944444a82473dd06a45e988.m3u8
+4k馃憠鍔ㄧ墿鍏ㄧ綉,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+4K鍗楀浗閮藉競鍙??,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+4K缁氬奖棰戦亾鍙??,http://118.114.96.20:8889/rtp/239.93.42.33:5140?Cf=cfss.cc
+-8K鍖椾含绾疄鍙??,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+-8K鍖椾含绾疄鍙??,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+-8KCCTV瓒呮竻鍙??,https://tv.cry33.com/ys4k.php?id=8k25#https://tv.cry33.com/ys4k.php?id=8k
+-8KCCTV瓒呮竻鍙??,https://tv.cry33.com/ys4k.php?id=8k25#https://tv.cry33.com/ys4k.php?id=8k
+-4kCCTV16棰戦亾,https://tv.cry33.com/ys4k.php?id=16-4k
+4K鏀惧ぇ闀滃叏缃??,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+4K鍜挄鍙癷pv6,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+4K銆屾椂灏氥??嶅彴,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+4K銆岃嚜鐒躲??嶅彴,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+4K娴嬭瘯棰戦亾鍙??,http://tvbox.mohuajz.eu.org/tv/hnsqyx.php?id=52
+4K娌冲崡鍗鍙??,http://123.13.247.100:4000/rtp/225.1.4.254:1300
+
+馃摗婀炬咕棰戦亾_8686,#genre#
+涓ぉ鏂伴椈鍥??,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+涓ぉ鏂伴椈鍙??,http://livetv.skycf.eu.org/live.m3u8?c=7
+鍙拌棰戦亾,https://epg.pw/stream/cd1dd6a69c63f4e85896e7dffd79188bbe9ce235a36070e01e555bbbc197dd43.m3u8
+濂借▕鎭彴,https://epg.pw/stream/797529276770285bb5212acd5798702e0db85532c78121a94f600759dec5dabf.m3u8
+TVBS鏂伴椈,http://61.221.215.25:8800/hls/9/index.m3u8
+鍏ぇ鎴忓墽,http://61.221.215.25:8800/hls/39/index.m3u8
+涓夌珛鎴忓墽,http://61.221.215.25:8800/hls/41/index.m3u8
+鍏ぇ绗竴,http://61.221.215.25:8800/hls/55/index.m3u8
+鍏ぇ鎴忓墽,http://61.221.215.25:8800/hls/39/index.m3u8
+AMC 鐢靛奖,http://61.221.215.25:8800/hls/43/index.m3u8
+绾潵绮惧僵,http://61.221.215.25:8800/hls/48/index.m3u8
+鎺㈢储浜氭床,http://61.221.215.25:8800/hls/50/index.m3u8
+鍏ぇ绗竴,http://61.221.215.25:8800/hls/55/index.m3u8
+鍔ㄧ墿鏄熺悆,http://61.221.215.25:8800/hls/57/index.m3u8
+鍏ぇ缁煎悎,http://61.221.215.25:8800/hls/56/index.m3u8
+
+鍙拌棰戦亾,rtmp://220.130.201.73/sat/tv071
+姘戣棰戦亾,rtmp://220.130.201.73/sat/tv051
+绾潵浣撹偛,rtmp://220.130.201.73/sat/tv721
+绾潵鏃ユ湰,rtmp://220.130.201.73/sat/tv771
+涓滄．瓒呰,rtmp://220.130.201.73/sat/tv331
+
+姘戣棰戦亾,rtmp://f13h.mine.nu/sat/tv051
+鍙拌棰戦亾,rtmp://f13h.mine.nu/sat/tv071
+涓棰戦亾,rtmp://f13h.mine.nu/sat/tv091
+鑿棰戦亾,rtmp://f13h.mine.nu/sat/tv111
+绾潵浣撹偛,rtmp://f13h.mine.nu/sat/tv721
+绾潵鑲蹭箰,rtmp://f13h.mine.nu/sat/tv701
+绾潵鏃ユ湰,rtmp://f13h.mine.nu/sat/tv771
+涓滄．瓒呰,rtmp://f13h.mine.nu/sat/tv331
+MoMo缁煎悎,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN浣撹偛1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN浣撹偛2,rtmp://f13h.mine.nu/sat/tv741
+
+棣欐腐_8686,#genre#
+鐒＄窔鏂拌仦鍙??(b),p3p://108.181.32.169:19845/6533f9fb00006d352d0f6f9235041f8d 
+鐒＄窔璨＄稉鍙??,p3p://108.181.32.169:19845/64100aec000c7bc59804a081537730cb 
+NOW璐㈢粡鍙??,p3p://108.181.32.169:19845/641020d00004bf91985a212731011c3c 
+NOW 鏂伴椈鍙??,p3p://108.181.32.169:19845/6410254c0006df63986ba60f292a7500 
+鍑ゅ嚢涓枃,p3p://108.181.32.169:19845/6410229e000655dd98612e41401e3e7d 
+鍑ゅ嚢璧勮,p3p://108.181.32.169:19845/641022be000e5cc69861ad4f5a025336 
+鍑ゅ嚢棣欐腐鍙??,p3p://108.181.32.169:19845/641022da0005d3069862188000a64525 
+涓ぉ鏂拌仦,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8 
+涓ぉ鏂伴椈,p3p://108.181.32.169:19845/64252571000be01dea73c63b5616781e 
+涓ぉ鏂伴椈(b),p3p://108.181.32.169:19845/642590050003b317ec1416371a246f3d 
+姘戣鏂伴椈鍙??,p3p://108.181.32.169:19845/64c859e10007934267f487ac0fa618e0 
+澹归浕瑕栨柊鑱炲彴,p3p://108.181.32.169:19845/642521bd0005dfe9ea654d921969472d 
+涓滄．鏂伴椈,p3p://108.181.32.169:19845/64251f9700046520ea5ce8b85b6c11da 
+TVBS 鏂拌仦鍙??,p3p://108.181.32.169:19845/64252188000673fcea647eb0397d464d 
+涓夌珛鏂伴椈,p3p://108.181.32.169:19845/64251e23000bcd04ea573d7c0f0a002e 
+闈炲嚒鏂拌仦鍙??,p3p://108.181.32.169:19845/64258e8600060f7eec0e3ebd6c49020e 
+瀵板畤鏂拌仦鍙??,p3p://108.181.32.169:19845/64295eb60008744efaf37ae07d17520b 
+鍙拌璐㈢粡鍙??,p3p://108.181.32.169:19845/6448a761000bec1a75267316701e7a90 
+骞翠唬鏂拌仦,p3p://108.181.32.169:19845/645b2569000acf2fbd624de55e212fb2 
+CCTV-4,p3p://108.181.32.169:19845/64260ca5000de050edfae9d444575946 
+FOX NEWS HD,p3p://108.181.32.169:19845/645fa4a20009e813cef3445113f32f37 
+NBC News,p3p://108.181.32.169:19845/645fb231000224f2cf2838ec5da021e1 
+NewsmaxTV,p3p://108.181.32.169:19845/6463b008000a617cdebf90be602c4318 
+BBC World News,p3p://108.181.32.169:19845/6465a784000201aee66e4af152371a81 
+Cheddar News,p3p://108.181.32.169:19845/6465a78f00077382e66e774d7a1176a6 
+NEWS 12 CONNECTICUT,p3p://108.181.32.169:19845/6465abce000b2c48e67f0e5e77df4110 
+NEWS 12 LONG ISLAND,p3p://108.181.32.169:19845/6465abe3000a2f4de67f6026547a726c 
+NEWS 12 THE BRONX,p3p://108.181.32.169:19845/6465abfa00086f05e67fb98b35733f88 
+NEWS 12 WESTCHESTER,p3p://108.181.32.169:19845/6465ac0a00093bd1e67ff8404bce63ed 
+NEWSY,p3p://108.181.32.169:19845/6465ac1c0003cbc0e6803d2b05391318 
+ESPN News USA1 HD,p3p://108.181.32.169:19845/645fab270000a005cf0cb97041394996 
+鐢靛奖_8686,#genre#
+HBO HD my,p3p://108.181.32.169:19845/64137ee50006d7eca581a3b3297e60a3 
+HBO tw,p3p://108.181.32.169:19845/64137f0b0006a17fa58238155813216c 
+HBO Family my,p3p://108.181.32.169:19845/64137f29000ae5e4a582ae5d42d65d7a 
+HBO瀹跺涵,p3p://108.181.32.169:19845/64137f3c000d4a86a582f93235111bc5 
+HBO Signature my,p3p://108.181.32.169:19845/64137f530000971da5834fca2631479a 
+HBO寮烘。,p3p://108.181.32.169:19845/64137f700008f329a583c3344ddf5dfc 
+HBO Hits my,p3p://108.181.32.169:19845/64137f85000a578fa58415985b5b1f5d 
+HBO鍘熷垱,p3p://108.181.32.169:19845/64137f970005246ea5845a9326ce6233 
+AXN tw,p3p://108.181.32.169:19845/64137fb6000e2555a584d5f94945113b 
+Thrill,p3p://108.181.32.169:19845/644a0879000272f67a89b6687af342ae 
+AXN tw2,p3p://108.181.32.169:19845/64137fed000660a5a585aad4055228a8 
+AXN my,p3p://108.181.32.169:19845/6413800100002d47a585f75e0b4d15d4 
+CINEMAX tw,p3p://108.181.32.169:19845/641380160003b61ca5864a4e3d49763a 
+Cinemax my,p3p://108.181.32.169:19845/6413802a000969a0a58699e441aa3320 
+Animax my,p3p://108.181.32.169:19845/6413803e00077f23a586e786585056af 
+Animax tw,p3p://108.181.32.169:19845/6413807500012fe3a587bcbf2e6b7388 
+Hits Movies my,p3p://108.181.32.169:19845/6413808800072695a588087e3cc239d1 
+TVB 绮よ鐗囧彴 HYTV,p3p://108.181.32.169:19845/641022340009a273985f91092cb6113d 
+闆诲奖涓??鍙??,p3p://108.181.32.169:19845/6410224e00097a01985ff68e53d22e70 
+CCM 澶╂槧缁忓吀,p3p://108.181.32.169:19845/64124d990007b0aaa0d9131033d9354a 
+CCM 澶╂槧缁忓吀 CN涓嫳瀛楀箷,p3p://108.181.32.169:19845/64124dd500082194a0d9fd8d736a3dff 
+Celestial MY 澶╂槧,p3p://108.181.32.169:19845/64124e2b000b454ba0db4e4b137c6137 
+Celestial MY 澶╂槧2,p3p://108.181.32.169:19845/64124e0f00045619a0dadf2552b73bf8 
+CatchPlay闆诲奖鍙??,p3p://108.181.32.169:19845/64252479000b7f1aea6ffd6177e3015c 
+琛涜涓枃 HD Star Chinese,p3p://108.181.32.169:19845/64252507000eefc4ea7228f32f390502 
+濂借幈鍧炵數褰卞彴,p3p://108.181.32.169:19845/6425244f0001184fea6f56a70aca63d2 
+鍗鐢靛奖鍙皊cm,p3p://108.181.32.169:19845/642525150008a4ecea725e071929091e 
+鏄熷崼HD鐢靛奖,p3p://108.181.32.169:19845/642521030009ef43ea62780c438e2a38 
+缇庝簹鐢靛奖鍙??,p3p://108.181.32.169:19845/642525310003ad3cea72ca2155c734c3 
+鍗HD鐢靛奖,p3p://108.181.32.169:19845/6425253c0007ee60ea72f6307ae25fdd 
+鏉辨．鐢靛奖鍙??,p3p://108.181.32.169:19845/64253899000a078deabe99ff587050b0 
+鏉辨．娲嬬墖,p3p://108.181.32.169:19845/64251f8a0008854aea5cb6fe64e47b4e 
+绾潵鐢靛奖,p3p://108.181.32.169:19845/64251eae0001bef7ea5959e100ae671e 
+榫嶇ゥ闆诲奖鍙??,p3p://108.181.32.169:19845/642d014b0009f96e092658cb4e1b23ff 
+CCTV-6,p3p://108.181.32.169:19845/64260cc800087ffdedfb712c61a06569 
+HBO Signature USA,p3p://108.181.32.169:19845/645fab94000cb9a6cf0e66527fc930bc 
+HBO USA,p3p://108.181.32.169:19845/645faf2100095cb2cf1c4442765c172b 
+HBO 2 USA,p3p://108.181.32.169:19845/645faf2e00057979cf1c760b55dd62b3 
+HBO Comedy USA,p3p://108.181.32.169:19845/645faf390002967ccf1ca046036d356a 
+HBO HD SIN USA,p3p://108.181.32.169:19845/645faf4700077bb5cf1cd83772282520 
+HBO_West USA,p3p://108.181.32.169:19845/645faf5300023119cf1d05bc76d93f08 
+Lifetime USA,p3p://108.181.32.169:19845/6462704200005b24d9de70b7255a7658 
+LIFETIME MOVIES USA,p3p://108.181.32.169:19845/6463a5a5000a7afede96fe1018a905c5
